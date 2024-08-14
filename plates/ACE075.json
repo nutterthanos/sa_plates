@@ -1,0 +1,35 @@
+[
+    {
+        "plate": "ACE075",
+        "make": "NISSAN",
+        "bodyType": "STATION WAGON",
+        "primaryColour": "WHITE",
+        "vehicleHash": "+WrdSKiROKsFF2hxS1k1OTVkuo6oiQNl85gQFQHPkY8=",
+        "ctpInsurer": "AAMI",
+        "expiry": "2024-08-20T00:00:00.000+09:30"
+    },
+    {
+        "plate": "ACE075",
+        "make": "FORD",
+        "bodyType": "STATION WAGON",
+        "primaryColour": "WHITE",
+        "vehicleHash": "HscF1i5dzYTgb2UBkXjxPuc7SvgdMxhe/NrK6qJKilg=",
+        "ctpInsurer": "NRMA"
+    },
+    {
+        "plate": "ACE075",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "SILVER",
+        "vehicleHash": "XsdLH2HoYNXrsg+12QEG/tNlzht5ASFFQLBamBehieU=",
+        "ctpInsurer": "AAMI"
+    },
+    {
+        "plate": "ACE075",
+        "make": "MITSUBISHI",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "oMtt4uO46Qe3FOikTEFefh1We75t6cYYlwCBCgrmGMQ=",
+        "ctpInsurer": "MAC"
+    }
+]
