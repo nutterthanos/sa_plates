@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "AEC104",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "aHdTe1Ulnpa/6mbY9wqtRx99Av4ad2pUrwbhkTFF2ss=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "26000/90000",
+        "manufacturerGvmGcm": "26000/90000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "MV1 NHVR NOTICE"
+        },
+        "expiry": "2024-11-17T00:00:00.000+10:30",
+        "conditions": [
+            "MV1 NHVR NOTICE"
+        ]
+    }
+]
