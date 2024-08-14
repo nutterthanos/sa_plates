@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "ABH104",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "Mz7mPvglPmmEvp+KZkdyduY3622N7kFUSLahnEsYUJY=",
+        "registeredConfiguration": "SP3 - 3 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "26000/90000",
+        "manufacturerGvmGcm": "26000/90000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "MV1 NHVR NOTICE"
+        },
+        "expiry": "2024-10-03T00:00:00.000+09:30",
+        "conditions": [
+            "MV1 NHVR NOTICE"
+        ]
+    }
+]

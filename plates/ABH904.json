@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "ABH904",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "BLUE",
+        "vehicleHash": "pmLTXUWY38pa8LN99GAVDOUHGb9DHzs6GDZQkkmCs00=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "26500/115000",
+        "manufacturerGvmGcm": "26500/115000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "LV2 PERMIT/GAZETTE REQUIRED"
+        },
+        "expiry": "2024-09-15T00:00:00.000+09:30",
+        "conditions": [
+            "LV2 PERMIT/GAZETTE REQUIRED"
+        ]
+    }
+]

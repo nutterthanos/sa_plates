@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "ABH610",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "h4uVwzj1cecwQc+2peteugYA0FA6I+JQbHC0xvX+Mxc=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "97000/97000",
+        "manufacturerGvmGcm": "97000/97000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "LV1 NHVR NOTICE"
+        },
+        "expiry": "2024-11-02T00:00:00.000+10:30",
+        "conditions": [
+            "LV1 NHVR NOTICE"
+        ]
+    }
+]
