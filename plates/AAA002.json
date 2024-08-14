@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "AAA002",
+        "make": "ISUZU",
+        "bodyType": "TRUCK",
+        "primaryColour": "WHITE",
+        "vehicleHash": "RuzYmhx2GI6YGW6aGRY4On+cax83QIzYvExHg1WDmg4=",
+        "registeredConfiguration": "2R2 - 2 axle truck GVM > 12000kg",
+        "registeredGvmGcm": "16000/32000",
+        "manufacturerGvmGcm": "16000/32000",
+        "ctpInsurer": "AAMI",
+        "expiry": "2024-09-01T00:00:00.000+09:30"
+    },
+    {
+        "plate": "AAA002",
+        "make": "FORD",
+        "bodyType": "STATION WAGON",
+        "primaryColour": "GREY",
+        "vehicleHash": "Wu1B+O+MfZor0jn92KE6B/jzhCs2AVVtz9Wp0LOjJ8Y=",
+        "ctpInsurer": "MAC"
+    }
+]
