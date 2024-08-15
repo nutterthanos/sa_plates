@@ -1,0 +1,59 @@
+[
+    {
+        "plate": "ATT185",
+        "make": "KENWORTH",
+        "bodyType": "TOW TRUCK",
+        "primaryColour": "SILVER",
+        "vehicleHash": "4CAv7tarBLFNuHnp/CPJWNlnMESqswXutP7nzLe1OI4=",
+        "registeredConfiguration": "2R4 - 4 axle truck GVM > 20000kg",
+        "registeredGvmGcm": "32000/50000",
+        "manufacturerGvmGcm": "32000/13000",
+        "ctpInsurer": "QBE",
+        "expiry": "2025-01-18T00:00:00.000+10:30"
+    },
+    {
+        "plate": "ATT185",
+        "make": "KENWORTH",
+        "bodyType": "TOW TRUCK",
+        "primaryColour": "GREY",
+        "vehicleHash": "Uh7jbf/znqKcDkrdTIJ07DZIqIphmRIm2YYwSbyXE8I=",
+        "registeredConfiguration": "LR5 - 5 axle truck hauls 2 trailers",
+        "registeredGvmGcm": "40000/140000",
+        "manufacturerGvmGcm": "40000/140000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "ATT185",
+        "make": "PETERBUILT",
+        "bodyType": "TOW TRUCK",
+        "primaryColour": "BLACK",
+        "vehicleHash": "A/hDj4TsEEeu6fUjzF1fmq4EbujvyXPswR+IywPLem8=",
+        "registeredConfiguration": "2R4 - 4 axle truck GVM > 20000kg",
+        "registeredGvmGcm": "32780/90000",
+        "manufacturerGvmGcm": "32780/90000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "OM3 NHVR NOTICE"
+        },
+        "conditions": [
+            "OM3 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "ATT185",
+        "make": "KENWORTH",
+        "bodyType": "TOW TRUCK",
+        "primaryColour": "WHITE",
+        "vehicleHash": "S31jgZYyvS59BUpAUUnrrqtK1ZEBFz9rTCwUUSl/8xY=",
+        "registeredConfiguration": "2R3 - 3 axle truck GVM > 16500kg",
+        "registeredGvmGcm": "24100/46000",
+        "manufacturerGvmGcm": "24100/46000",
+        "ctpInsurer": "MAC"
+    }
+]

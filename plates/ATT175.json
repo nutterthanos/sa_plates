@@ -1,0 +1,47 @@
+[
+    {
+        "plate": "ATT175",
+        "make": "KENWORTH",
+        "bodyType": "TOW TRUCK",
+        "primaryColour": "PURPLE",
+        "vehicleHash": "/6Rn/GmQgaXow2gOwgk3L2bClrftE223KQiY9yqPYjA=",
+        "registeredConfiguration": "2R3 - 3 axle truck GVM > 16500kg",
+        "registeredGvmGcm": "27700/131000",
+        "manufacturerGvmGcm": "27700/131000",
+        "ctpInsurer": "QBE",
+        "expiry": "2024-11-17T00:00:00.000+10:30"
+    },
+    {
+        "plate": "ATT175",
+        "make": "KENWORTH",
+        "bodyType": "TOW TRUCK",
+        "primaryColour": "GREY",
+        "vehicleHash": "4jWJetSB8IvsUBjCDO7hD56TxKCjOCSe44kTL7T+tyw=",
+        "registeredConfiguration": "2R3 - 3 axle truck GVM > 16500kg",
+        "registeredGvmGcm": "26500/50000",
+        "manufacturerGvmGcm": "26500/97000",
+        "ctpInsurer": "ALLIANZ"
+    },
+    {
+        "plate": "ATT175",
+        "make": "WESTERN STAR",
+        "bodyType": "TRUCK",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "LzH/9SIEGjH4kKTzt+pu2V64GqdIxrGsfImDo20Ueyw=",
+        "registeredConfiguration": "SR3 - 3 axle truck + 1 trailer comb < 7 axles",
+        "registeredGvmGcm": "24500/42500",
+        "manufacturerGvmGcm": "24500/90500",
+        "ctpInsurer": "MAC"
+    },
+    {
+        "plate": "ATT175",
+        "make": "KENWORTH",
+        "bodyType": "TRUCK",
+        "primaryColour": "PURPLE",
+        "vehicleHash": "tlF4PasdIfBXAZC0sDYN2xy3sloy073CLXQbBY1TVO8=",
+        "registeredConfiguration": "2R3 - 3 axle truck GVM > 16500kg",
+        "registeredGvmGcm": "26500/50000",
+        "manufacturerGvmGcm": "26500/90000",
+        "ctpInsurer": "MAC"
+    }
+]

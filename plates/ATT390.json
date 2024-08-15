@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "ATT390",
+        "make": "KENWORTH",
+        "bodyType": "TOW TRUCK",
+        "primaryColour": "RED",
+        "vehicleHash": "2qBVZsJn6+ehm7cKgDrheKmhBmgZ9xjELkV7O1a8k9A=",
+        "registeredConfiguration": "2R3 - 3 axle truck GVM > 16500kg",
+        "registeredGvmGcm": "26500/90000",
+        "manufacturerGvmGcm": "26500/90000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2024-09-26T00:00:00.000+09:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
