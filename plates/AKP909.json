@@ -1,0 +1,30 @@
+[
+    {
+        "plate": "AKP909",
+        "make": "VAUXHALL",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "qR9mJWOmw27cK+QTlvKaCNPGb+h+NhLBpmgwh+iTnXg=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "AKP909",
+        "make": "JAGUAR",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "NbfxNMttre5SFP73JcQUv4JsywLy4KUYhBTEuFyFdno=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    }
+]
