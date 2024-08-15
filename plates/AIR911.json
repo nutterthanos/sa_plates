@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "AIR911",
+        "make": "PORSCHE",
+        "bodyType": "TOURER",
+        "primaryColour": "BLUE",
+        "vehicleHash": "nbnmWHhiMFwV4Pg7X2TSOuOpOjpc5EhRPmVv9wlRrwY=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2027-04-04T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "AIR911",
+        "make": "PORSCHE",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "ULlPSE7hPxyPfBvNg1iPhdxCJoekM4VcYkqu/etAQ10=",
+        "ctpInsurer": "NRMA"
+    }
+]
