@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ASV210",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "9Dt+ow3C7lCWBq3Pu2CIsIvZoqQjHNVed53TYb+iU+s=",
+        "registeredGvmGcm": "4275/",
+        "manufacturerGvmGcm": "4275/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-02-25T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

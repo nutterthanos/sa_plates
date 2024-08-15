@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ASV118",
+        "make": "ALLIS CHALMERS",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "AXsNIdQ7WtbCSFEzT7cqurEqY6kw2N2VnrBWJMQp9pc=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "12260/12260",
+        "manufacturerGvmGcm": "12260/12260",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "LO5A ROAD RESTRICTION GAZETTE"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "LO5A ROAD RESTRICTION GAZETTE"
+        ]
+    }
+]

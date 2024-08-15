@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ASV059",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "8MOACOWVI53ZltSbooqiubuk91YAa4KmxdmWITCiQMQ=",
+        "registeredGvmGcm": "3610/",
+        "manufacturerGvmGcm": "3610/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
