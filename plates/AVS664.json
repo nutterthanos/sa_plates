@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "AVS664",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "D4eIgRTouY2xIKGgp0Y+G6FQy+3+VBdKiEuDLPyYO2o=",
+        "registeredGvmGcm": "3409/",
+        "manufacturerGvmGcm": "3409/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO27 AGRICULTURAL CODE OF PRACTICE",
+                "OM2 NHVR NOTICE",
+                "SP30 30 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO27 AGRICULTURAL CODE OF PRACTICE",
+            "OM2 NHVR NOTICE",
+            "SP30 30 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

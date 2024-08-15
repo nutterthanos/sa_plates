@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVS549",
+        "make": "NEW HOLLAND",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "av2PcIVXPaW4xhYBJBLhNjq6cuB34edRLJeXXgVLWE8=",
+        "registeredGvmGcm": "2870/",
+        "manufacturerGvmGcm": "2870/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-01-12T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

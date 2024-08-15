@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "AVS990",
+        "make": "ROADMASTER",
+        "bodyType": "INDUSTRIAL TRAILER",
+        "primaryColour": "BLUE",
+        "vehicleHash": "wzvjReJiwne7vd6p8IEd9GvCBW51pQRL+L1F6CcPKrI=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "16500/",
+        "manufacturerGvmGcm": "20000/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "expiry": "2026-02-03T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]

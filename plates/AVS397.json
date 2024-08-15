@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVS397",
+        "make": "DITCHWITCH",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "WZ9rhekHLaPlIc3CTVAsLmfKwBTbmruDnrS1CrRRhdM=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6100/",
+        "manufacturerGvmGcm": "6100/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

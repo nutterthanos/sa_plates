@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "AVS374",
+        "make": "MITSUBISHI",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "0JCu9HOZ1GGMGRe3x97r5ba9XWvtkhkI/h/6auPNO2U=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "18000/18000",
+        "manufacturerGvmGcm": "18000/18000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING"
+            ]
+        },
+        "expiry": "2025-04-21T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING"
+        ]
+    }
+]

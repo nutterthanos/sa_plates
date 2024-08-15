@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVS582",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "wbDZGduPeJLJ40pAxt95s2onPg3ijZSI/1/1epUsi6o=",
+        "registeredGvmGcm": "2400/",
+        "manufacturerGvmGcm": "2400/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-05-04T00:00:00.000+09:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

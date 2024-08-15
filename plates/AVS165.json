@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "AVS165",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "SQcAFiCUYqiTTKRcygxpHw18MWiCwcG+jStkMeNRN+A=",
+        "registeredGvmGcm": "1500/1500",
+        "manufacturerGvmGcm": "1500/1500",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO27 AGRICULTURAL CODE OF PRACTICE",
+                "OM2 NHVR NOTICE",
+                "SP30 30 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO27 AGRICULTURAL CODE OF PRACTICE",
+            "OM2 NHVR NOTICE",
+            "SP30 30 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

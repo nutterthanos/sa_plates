@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "AVS817",
+        "make": "LAMBORGHINI",
+        "bodyType": "TRACTOR",
+        "primaryColour": "SILVER",
+        "vehicleHash": "cJbcgmMAXug736do3j+QbzErFPyPrK/3ALKFrhcQqss=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4550/",
+        "manufacturerGvmGcm": "4550/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVS662",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "ZnzjYQAHQCUM8/9urtip7Ubg9LQ2er9tn0xb555L3gw=",
+        "registeredGvmGcm": "1890/",
+        "manufacturerGvmGcm": "1890/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-12-14T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

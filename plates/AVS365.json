@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "AVS365",
+        "make": "JLG",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "4QiKcJ/xEYmp4MU6CDlWp5LBn7hnFM/6Zs7/fLDrnw8=",
+        "registeredConfiguration": "PSV4 - 4 axle SPV - Plant",
+        "registeredGvmGcm": "9390/9390",
+        "manufacturerGvmGcm": "9390/9390",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2024-09-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

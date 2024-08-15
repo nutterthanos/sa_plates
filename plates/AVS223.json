@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "AVS223",
+        "make": "NISSAN",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "za2C4A9vt8OZ8X+Gu0/rTPTq1agHGEF/0RUb3VcYbS4=",
+        "registeredConfiguration": "OSV3 - 3 axle SPV - Overmass",
+        "registeredGvmGcm": "23560/23560",
+        "manufacturerGvmGcm": "23560/23560",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "expiry": "2024-11-17T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]

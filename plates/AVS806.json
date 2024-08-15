@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVS806",
+        "make": "CATERPILLAR",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "FJWIqMzyia3GdaiZmptSyBhKniLoFwFSChtVh45IZug=",
+        "registeredConfiguration": "1SV2 - 2 axle SPV Under Limit",
+        "registeredGvmGcm": "9770/",
+        "manufacturerGvmGcm": "9770/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

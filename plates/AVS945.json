@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVS945",
+        "make": "KUBOTA",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "EKfScqX7Zq+HFLjpb5kQDfXTz49wzD1NzAPZ6cTHfW8=",
+        "registeredGvmGcm": "3300/3300",
+        "manufacturerGvmGcm": "3300/3300",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2026-03-01T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

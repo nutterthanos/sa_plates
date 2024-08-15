@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVS317",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "N82LbPQF3+tbJTMC4qDY8bHs9bMDm551/iYQJhdjlBM=",
+        "registeredGvmGcm": "2650/",
+        "manufacturerGvmGcm": "2650/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-10-04T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
