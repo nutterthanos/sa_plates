@@ -1,0 +1,17 @@
+[
+    {
+        "plate": "ART111",
+        "make": "TOYOTA",
+        "bodyType": "TRUCK",
+        "primaryColour": "WHITE",
+        "vehicleHash": "aPnYoSrswousg87YQTxuVTGd6iXCSJmzLJdtYbmlhdg=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "expiry": "2027-03-06T00:00:00.000+10:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]
