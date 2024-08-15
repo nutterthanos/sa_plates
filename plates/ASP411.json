@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "ASP411",
+        "make": "KOMATSU",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "aspMRFFAWQThT4l6iNLjLrwk4jU5Yqz2xXokZd2ktCI=",
+        "registeredGvmGcm": "4300/",
+        "manufacturerGvmGcm": "4300/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

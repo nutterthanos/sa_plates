@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ASP334",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "hfgRCyn6PQsdbiXaEscDwssfcucWPXvWIKUZtSIbR0s=",
+        "registeredGvmGcm": "2820/3320",
+        "manufacturerGvmGcm": "2820/3320",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

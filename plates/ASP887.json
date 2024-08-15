@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ASP887",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "krczrCvIpoHIHcf53fP1FG3hpXx3UILvkdO4+DEOg6k=",
+        "registeredGvmGcm": "3820/",
+        "manufacturerGvmGcm": "3820/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-14T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

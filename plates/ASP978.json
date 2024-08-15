@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ASP978",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "mq2ml7Yta0nx7/1cmwAPBzDnHPg2y48PqhSdShCVhgo=",
+        "registeredGvmGcm": "4073/",
+        "manufacturerGvmGcm": "4073/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-07-03T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

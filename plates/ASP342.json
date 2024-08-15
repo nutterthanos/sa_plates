@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ASP342",
+        "make": "CHAMBERLAIN",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "MBfiRhjVBCPPNhz3Ca5TFTnr4kqD67ULQENCAEtZw/4=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9750/9750",
+        "manufacturerGvmGcm": "9750/9750",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

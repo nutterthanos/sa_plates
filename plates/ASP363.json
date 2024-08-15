@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ASP363",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "04I/4dyP114OrjhvPwuZmEaAM1a47MLgWT4mLYGegVY=",
+        "registeredGvmGcm": "2500/4000",
+        "manufacturerGvmGcm": "2500/4000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

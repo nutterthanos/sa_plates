@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "ASP753",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "opkHVnMd+2RqP1t9zbx9SOuq05SlAwV5hl9GfmGi2Uo=",
+        "registeredGvmGcm": "2550/",
+        "manufacturerGvmGcm": "2550/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

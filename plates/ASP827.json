@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ASP827",
+        "make": "AUSTIN",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "UKSHtJVl+hKj0Zu47BWUHFiw/FmGc1SI5H7qzEycCtQ=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "12000/",
+        "manufacturerGvmGcm": "12000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

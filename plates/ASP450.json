@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "ASP450",
+        "make": "KRUPP",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "hc6Olb2G3CiQeOMeQiAAN8opA4x/CuLjnswIT3aPaJY=",
+        "registeredConfiguration": "OSV5 - 5 axle SPV - Overmass",
+        "registeredGvmGcm": "72000/72000",
+        "manufacturerGvmGcm": "72000/72000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

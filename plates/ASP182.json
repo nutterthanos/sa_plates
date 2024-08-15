@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ASP182",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "hOnPDwjbDljflpG15iAGxegCl4BcZJC03rvRyUP73Dw=",
+        "registeredGvmGcm": "4000/",
+        "manufacturerGvmGcm": "4000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ASP545",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "R1S986vGh844y+cLQyPZT9qzjPBeKD5C0LNQRVItF80=",
+        "registeredGvmGcm": "2004/",
+        "manufacturerGvmGcm": "2004/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-03T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

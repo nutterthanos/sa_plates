@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "ASP807",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "27u0ldvkBJbgkyqaTVdy1ze3IZwbmH5gOajUk/mXYy4=",
+        "registeredGvmGcm": "4442/",
+        "manufacturerGvmGcm": "4442/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

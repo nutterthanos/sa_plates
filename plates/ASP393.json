@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ASP393",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "tOmZGocgIeTxZ3gz5zPbx+FoC7FftzGX8UbETM8g11k=",
+        "registeredGvmGcm": "2130/",
+        "manufacturerGvmGcm": "2130/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

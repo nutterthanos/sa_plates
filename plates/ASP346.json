@@ -1,0 +1,21 @@
+[
+    {
+        "plate": "ASP346",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "SILVER",
+        "vehicleHash": "hP2abv/rXmTFMmGsuWQ1FzptyjlqMkD4RGXUsD/m4do=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-07-23T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ASP501",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "3EI8AnxwGSBEEVFycZnT+BhnhWQ8X89GEyhGXNMIm20=",
+        "registeredGvmGcm": "2500/2500",
+        "manufacturerGvmGcm": "2500/2500",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-11T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

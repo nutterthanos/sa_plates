@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ASP157",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "YDmRMZH/lR8rA6vz4DhvISJB55XYFe1gl1VYNXrHdWE=",
+        "registeredGvmGcm": "1992/",
+        "manufacturerGvmGcm": "1992/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

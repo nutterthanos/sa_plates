@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ASP499",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "S16GA0jN9JbjVcbxUNLZvmJf2xwa24c+V43WEr6TRKU=",
+        "registeredGvmGcm": "3580/3580",
+        "manufacturerGvmGcm": "3580/3580",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-03-26T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

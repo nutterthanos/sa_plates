@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ASP404",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "JuD8iD2Jw6FpB3luZlx0U5AFTBAklOpuuY5Df5PWezc=",
+        "registeredGvmGcm": "2502/",
+        "manufacturerGvmGcm": "2502/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-06-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

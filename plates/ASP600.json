@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ASP600",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "kzPBv01NnlFAy+JRpJe8Ke1QPvULcNSLTScD4v8tB+c=",
+        "registeredGvmGcm": "4080/",
+        "manufacturerGvmGcm": "4080/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-06-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

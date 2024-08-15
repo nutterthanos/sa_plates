@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ASP335",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BROWN",
+        "vehicleHash": "/xN4J61KtWoXGS6g3Oqc0SLUQsbXaJuzG3aK0+lww90=",
+        "registeredGvmGcm": "3000/",
+        "manufacturerGvmGcm": "3000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ASP108",
+        "make": "KUBOTA",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "Ce/vhb2/H5xcCjahNUHuspux1FTLBTGFJV6S5l6yK78=",
+        "registeredGvmGcm": "1800/",
+        "manufacturerGvmGcm": "1800/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-01T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

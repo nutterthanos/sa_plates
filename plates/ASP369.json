@@ -1,0 +1,21 @@
+[
+    {
+        "plate": "ASP369",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "slAFKSZnSw1Oa8pJqzTjuCoBSMzho1QeMopOyDCpP9Y=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO5 ROUTE RESTRICTION"
+            ]
+        },
+        "expiry": "2025-06-11T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO5 ROUTE RESTRICTION"
+        ]
+    }
+]

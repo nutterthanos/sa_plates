@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ASP330",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "oSFIVqyTnGV/bKd9lNiBOLCw4Obi+yi3UKU9GyBZRTk=",
+        "registeredGvmGcm": "3950/",
+        "manufacturerGvmGcm": "3950/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

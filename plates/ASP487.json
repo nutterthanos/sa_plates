@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "ASP487",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "ZC4eXCEBAOePLZGBuAnD/oY+6an6+3Gv8MKDcSsVPqU=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "13409/",
+        "manufacturerGvmGcm": "13409/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
