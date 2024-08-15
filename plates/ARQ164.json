@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "ARQ164",
+        "make": "FORD",
+        "bodyType": "CARAVAN VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "sB5vERH/jZGx1DO1eutKb1xDRB1sBJK1BY7uN1SSmLg=",
+        "ctpInsurer": "AAMI",
+        "expiry": "2024-10-23T00:00:00.000+10:30"
+    },
+    {
+        "plate": "ARQ164",
+        "make": "ALFA ROMEO",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "qbFqIUiK8vhoAfVQTB7EYwka5p0PYLFOt1xWe0ksIvs=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    }
+]
