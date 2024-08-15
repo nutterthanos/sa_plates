@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "APV124",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "XbW/dIrjuAqz2kziv6PRRU9qvC8Fd/2R0k85WrWK0eY=",
+        "registeredGvmGcm": "2550/",
+        "manufacturerGvmGcm": "2550/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-09-11T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

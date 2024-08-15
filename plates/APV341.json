@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "APV341",
+        "make": "FENDT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "2NeVSMPTTjf3LLnvMBWh5ozBzaYFe8gDB5or2j08hVA=",
+        "registeredGvmGcm": "3280/",
+        "manufacturerGvmGcm": "3280/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-09-10T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
