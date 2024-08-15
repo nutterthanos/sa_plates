@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "ATX392",
+        "make": "ISUZU",
+        "bodyType": "TRUCK",
+        "primaryColour": "WHITE",
+        "vehicleHash": "7iz/Fweqb1hBmgnAugdShtW/NFyf61XjdG7rblJs+Wc=",
+        "registeredGvmGcm": "3180/3180",
+        "manufacturerGvmGcm": "3180/3180",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-06-27T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "ATX392",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "4EvwdXwDAJv7HzK3LmQvw45BmXfRQwvwPKcV+hzbwKw=",
+        "ctpInsurer": "QBE"
+    }
+]
