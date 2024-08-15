@@ -1,0 +1,35 @@
+[
+    {
+        "plate": "AMB202",
+        "make": "MERCEDES BENZ",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "egv3d8HB+YCz0blLXnILrAz7LkIy9JMPIMoBvGR9/LI=",
+        "registeredGvmGcm": "4100/",
+        "manufacturerGvmGcm": "4100/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "expiry": "2025-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    },
+    {
+        "plate": "AMB202",
+        "make": "MERCEDES BENZ",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "aj5ePjof2Np5nnUkoDLtG990vk1Y7VN2OZc0Ho5dxy0=",
+        "registeredGvmGcm": "3880/5880",
+        "manufacturerGvmGcm": "3880/5880",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    }
+]

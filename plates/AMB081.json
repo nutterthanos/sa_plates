@@ -1,0 +1,51 @@
+[
+    {
+        "plate": "AMB081",
+        "make": "MERCEDES BENZ",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "hhxMswslXORAF2WAw64WSt3vL2SChbD3SgLzaob7K/k=",
+        "registeredGvmGcm": "3880/5880",
+        "manufacturerGvmGcm": "3880/5880",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "expiry": "2025-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    },
+    {
+        "plate": "AMB081",
+        "make": "MERCEDES BENZ",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "1+8dgs/dTsZdTGsV+x3xxQ6ghb1ZKLpCl9MNxwtYJpY=",
+        "registeredGvmGcm": "3880/5880",
+        "manufacturerGvmGcm": "3880/5880",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    },
+    {
+        "plate": "AMB081",
+        "make": "MERCEDES BENZ",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "ZtK/2KcJcQ9ZhNuvYEoGt2aC1+baT2UGAafPM7whYFc=",
+        "registeredGvmGcm": "3550/5550",
+        "manufacturerGvmGcm": "3550/5550",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    }
+]

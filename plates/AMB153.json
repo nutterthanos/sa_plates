@@ -1,0 +1,67 @@
+[
+    {
+        "plate": "AMB153",
+        "make": "MERCEDES BENZ",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "7nAIJHfRZzPni4UACSwgrJjSkcwsB8vrW46rY8H6cAk=",
+        "registeredGvmGcm": "4100/4100",
+        "manufacturerGvmGcm": "4100/4100",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "expiry": "2025-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    },
+    {
+        "plate": "AMB153",
+        "make": "MERCEDES BENZ",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "riGMlu4/Lipmncq/4tSEOQZyQeEY/QgBLCbXMziW44o=",
+        "registeredGvmGcm": "3880/5880",
+        "manufacturerGvmGcm": "3880/5880",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    },
+    {
+        "plate": "AMB153",
+        "make": "MERCEDES BENZ",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "XiEyLAkJozclSJ+1iW/bMN6x9VzYcz5Rmca8IkQ07gY=",
+        "registeredGvmGcm": "3880/5880",
+        "manufacturerGvmGcm": "3880/5880",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    },
+    {
+        "plate": "AMB153",
+        "make": "MERCEDES BENZ",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "sq7d9xfpjX5gnOrkMU12RZr/Yshbf/vqNpKgN2DcQUA=",
+        "registeredGvmGcm": "3550/6000",
+        "manufacturerGvmGcm": "3550/6000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    }
+]

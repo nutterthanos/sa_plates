@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "AMB323",
+        "make": "FORD",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "5wZgASnHt82D/TkD/bZ0NLK1e+bE3rGN2Ya7OLSKqvI=",
+        "registeredGvmGcm": "4100/4100",
+        "manufacturerGvmGcm": "4100/4100",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "expiry": "2025-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    }
+]

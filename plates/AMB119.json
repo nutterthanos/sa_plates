@@ -1,0 +1,48 @@
+[
+    {
+        "plate": "AMB119",
+        "make": "MERCEDES BENZ",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "sVpjxJKZG7d7+Bbw+uHLHxL74wmmKR+W2/7RQn049ew=",
+        "registeredGvmGcm": "4100/4100",
+        "manufacturerGvmGcm": "4100/4100",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "expiry": "2025-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    },
+    {
+        "plate": "AMB119",
+        "make": "MERCEDES BENZ",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "wmezmnokt5L7IHy88yhgvl1AT2BgYPU9xnQBWJELYKA=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    },
+    {
+        "plate": "AMB119",
+        "make": "MERCEDES BENZ",
+        "bodyType": "VAN VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "FD67G4vjB/wGFL/0TifhYMizo3c6x+/6a4kCJDCWStQ=",
+        "manufacturerGvmGcm": "/6000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    }
+]

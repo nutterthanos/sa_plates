@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "AMB189",
+        "make": "TOYOTA",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "ukpePLsCnseMHVH6tNOXVYD7/1r7Uq6NLRZ+rg0OhkQ=",
+        "registeredGvmGcm": "3300/5710",
+        "manufacturerGvmGcm": "3300/5710",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "expiry": "2025-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    }
+]

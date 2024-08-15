@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AMB868",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "oIlTHU/Ej1rGO25MTQkW/fM/eFwYjnXZi31aVMIC7e0=",
+        "registeredGvmGcm": "3020/4120",
+        "manufacturerGvmGcm": "3020/4120",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP25 25 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP25 25 KM/H MAXIMUM"
+        ]
+    }
+]

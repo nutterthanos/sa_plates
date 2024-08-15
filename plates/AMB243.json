@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "AMB243",
+        "make": "MERCEDES BENZ",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "1ub5wAim/ivA8ffibRZowzvn6offDGAMV+Lv9qh/XQg=",
+        "registeredGvmGcm": "3880/5880",
+        "manufacturerGvmGcm": "3880/3880",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "expiry": "2025-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    }
+]

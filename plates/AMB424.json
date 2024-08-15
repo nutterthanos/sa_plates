@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "AMB424",
+        "make": "VOLKSWAGEN",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "MKDV8B5ur/D/3yifYmf3SUJbBW4zT7LvynVMT/se0oU=",
+        "registeredGvmGcm": "3000/5500",
+        "manufacturerGvmGcm": "3000/5500",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "expiry": "2025-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    }
+]

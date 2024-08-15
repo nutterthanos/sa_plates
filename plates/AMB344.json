@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "AMB344",
+        "make": "MERCEDES BENZ",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "DJbsKYXyxDg5ia5m3bG5VgNZ6J3xQIM1gPw22o6U0GU=",
+        "registeredGvmGcm": "4430/",
+        "manufacturerGvmGcm": "4430/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "expiry": "2025-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    }
+]

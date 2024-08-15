@@ -1,0 +1,17 @@
+[
+    {
+        "plate": "AMB104",
+        "make": "TOYOTA",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "YQt1sN1jnynS3lVixywXZ8D7bYSg0SKbAyMMrw/B70Q=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "expiry": "2025-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    }
+]

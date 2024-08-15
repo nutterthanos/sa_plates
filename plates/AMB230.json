@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "AMB230",
+        "make": "TOYOTA",
+        "bodyType": "AMBULANCE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "4/P49JtDmEXU00YNM84A+Pwa1vV8kuH5A98bH8u63bc=",
+        "registeredGvmGcm": "3000/3750",
+        "manufacturerGvmGcm": "3000/3750",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "ERV EMERGENCY RESPONSE VEHICLE"
+        },
+        "expiry": "2025-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE"
+        ]
+    }
+]
