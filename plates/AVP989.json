@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "AVP989",
+        "make": "KOMATSU",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "MIvDtfCeD6E9Xu8BARHqgW8QJp5Xzi09/3vnpPm88X4=",
+        "registeredConfiguration": "OSV2 - 2 axle SPV - Overmass",
+        "registeredGvmGcm": "20400/",
+        "manufacturerGvmGcm": "20400/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION",
+                "LO5A ROAD RESTRICTION GAZETTE",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION",
+            "LO5A ROAD RESTRICTION GAZETTE",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

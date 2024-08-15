@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "AVP607",
+        "make": "TOYOTA",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "GREY",
+        "vehicleHash": "3AQuWBLU0lYk4Csq4gG7f/ytA2Bwk3MxHx9Q+tqlndk=",
+        "registeredGvmGcm": "4000/",
+        "manufacturerGvmGcm": "4000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

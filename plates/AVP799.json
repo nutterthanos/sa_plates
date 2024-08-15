@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "AVP799",
+        "make": "NOT LISTED",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "3TaZIxYuees7/qUduAtsB3S4ifDvG8aOy8ep1S9joKs=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4650/4650",
+        "manufacturerGvmGcm": "4650/4650",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5 ROAD RESTRICTION",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5 ROAD RESTRICTION",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

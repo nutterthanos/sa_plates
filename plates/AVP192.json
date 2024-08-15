@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVP192",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "NjlVVrZRbIN8qRIq6Nj+1a4e0UVfIteFCv5dGPhpn/o=",
+        "registeredGvmGcm": "3900/3900",
+        "manufacturerGvmGcm": "3900/3900",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+            ]
+        },
+        "expiry": "2025-04-07T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+        ]
+    }
+]

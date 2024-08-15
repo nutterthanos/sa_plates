@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "AVP408",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "jrFrwu1y1mKkX4NgfNc2R4gLCuhYJTc3XECLdCtO1GQ=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4740/",
+        "manufacturerGvmGcm": "4740/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS2 NHVR NOTICE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS2 NHVR NOTICE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

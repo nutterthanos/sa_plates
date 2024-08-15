@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "AVP957",
+        "make": "KOMATSU",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "rxSe2nqFxt9DIX95dl0VVRZeQiRgngxA2ZF/Bqg2qOg=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "31700/31700",
+        "manufacturerGvmGcm": "31700/31700",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5 ROAD RESTRICTION",
+                "LO5A ROAD RESTRICTION GAZETTE",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5 ROAD RESTRICTION",
+            "LO5A ROAD RESTRICTION GAZETTE",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

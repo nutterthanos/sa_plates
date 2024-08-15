@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "AVP299",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "Gi4kTxBqEtqS6VGwemqOANU4K/uZbpMR1shuvbIyCXc=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "11397/11397",
+        "manufacturerGvmGcm": "11397/11397",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "OS1A AGRICULTURAL GAZETTE"
+            ]
+        },
+        "expiry": "2025-05-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "OS1A AGRICULTURAL GAZETTE"
+        ]
+    }
+]

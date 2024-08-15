@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "AVP019",
+        "make": "DITCHWITCH",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "xhOWYL8EpMN6eWRWDX+Ijz1JqndREoO6DqSpuRDyC8Q=",
+        "registeredGvmGcm": "2720/",
+        "manufacturerGvmGcm": "2720/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-05-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

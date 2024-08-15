@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVP769",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "1ySKd0t0V6Jwxg1ldLPtufOUI2B+p/JlGBaN2G32w5o=",
+        "registeredGvmGcm": "2500/4000",
+        "manufacturerGvmGcm": "2500/4000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-06-29T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

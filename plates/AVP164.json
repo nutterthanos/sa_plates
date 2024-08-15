@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "AVP164",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "DEC3JJk/2App1vHHD1ISnNm8qnGkIfN1prarKQGJnoI=",
+        "registeredGvmGcm": "4300/4300",
+        "manufacturerGvmGcm": "4300/4300",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-02-28T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

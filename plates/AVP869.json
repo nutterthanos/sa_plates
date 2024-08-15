@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "AVP869",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "6IQpP8A8aPFFomT7PEFhHeUPECZWNqo1/8XlcRm3LYQ=",
+        "registeredGvmGcm": "4400/4400",
+        "manufacturerGvmGcm": "4400/4400",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVP795",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "4eyjYL4Kr+wmIIcLBfydrmGdN1RS4m15M+z4iaTtqGc=",
+        "registeredGvmGcm": "4280/4280",
+        "manufacturerGvmGcm": "4280/4280",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-09T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

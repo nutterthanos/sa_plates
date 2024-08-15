@@ -1,0 +1,32 @@
+[
+    {
+        "plate": "AVP731",
+        "make": "HINO",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "SX9p33A3TMa1QberWi1RgOiaD221AfmLvQ16jRir6DQ=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "11600/11600",
+        "manufacturerGvmGcm": "11600/11600",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+                "GO28 AGRICULTURAL CODE OF PRACTICE",
+                "GO8 UNLADEN TRAVEL",
+                "OS1 AGRICULTURAL GAZETTE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-11-13T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+            "GO28 AGRICULTURAL CODE OF PRACTICE",
+            "GO8 UNLADEN TRAVEL",
+            "OS1 AGRICULTURAL GAZETTE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

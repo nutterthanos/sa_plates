@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "AVP179",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "TIv+q0iq/pFbqXwVG4GUPGxDdHyPC4yUQgjb1qsqGAk=",
+        "registeredGvmGcm": "3650/3650",
+        "manufacturerGvmGcm": "3650/3650",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-04-14T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

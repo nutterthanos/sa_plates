@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "AVP000",
+        "make": "MITSUBISHI",
+        "bodyType": "UTILITY",
+        "primaryColour": "BLUE",
+        "vehicleHash": "HVWCC9VJndK9IqJJGeiLuD6EoarXDQRSMkXTZJkvqSc=",
+        "ctpInsurer": "AAMI"
+    },
+    {
+        "plate": "AVP000",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "cAVX/OflgKP9VMaXTald599htkTwGVOCGRiYkmkopt4=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "14700/14700",
+        "manufacturerGvmGcm": "14700/14700",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

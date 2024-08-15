@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "AVP298",
+        "make": "KUBOTA",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "Y/x3Hm4K0htblfFPgwPf8aiwmWjcYiByOvmahz7hxOk=",
+        "registeredGvmGcm": "3330/3330",
+        "manufacturerGvmGcm": "3330/3330",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES",
+                "OM2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES",
+            "OM2 NHVR NOTICE"
+        ]
+    }
+]

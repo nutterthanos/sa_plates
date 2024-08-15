@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "AVP045",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "wEka2uNwme6ee+2X29GRNJ/S5BKFbohnDnubhWZOizY=",
+        "registeredGvmGcm": "3700/",
+        "manufacturerGvmGcm": "3700/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "CTBA CONDITIONS TO BE ASSESSED",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "CTBA CONDITIONS TO BE ASSESSED",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

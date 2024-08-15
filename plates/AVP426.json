@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "AVP426",
+        "make": "NOT LISTED",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREY",
+        "vehicleHash": "uhOW0MLWORD8AveZDYjH1wV3WJUmR04VZq6gXOEwSvw=",
+        "registeredConfiguration": "PSV4 - 4 axle SPV - Plant",
+        "registeredGvmGcm": "43500/",
+        "manufacturerGvmGcm": "43500/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5 ROAD RESTRICTION",
+                "LO5B ROAD RESTRICTION - WORK SITES",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5 ROAD RESTRICTION",
+            "LO5B ROAD RESTRICTION - WORK SITES",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

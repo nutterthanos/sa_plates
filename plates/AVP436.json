@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVP436",
+        "make": "DAEDONG",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "8hw2c5erkr+pDzGZdcOBhpzNCsM1Qr+mDQuOv7KFU4s=",
+        "registeredGvmGcm": "3900/",
+        "manufacturerGvmGcm": "3900/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-24T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

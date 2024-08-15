@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVP561",
+        "make": "TORO",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "SAMQq5y4zkfAucoSNnTWBKru9uOtKM/eLGRC3vmCVj0=",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

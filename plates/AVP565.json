@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVP565",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "SILVER",
+        "vehicleHash": "8sEXmIccWwYoFhMRnieQLdFaYhbVPLo+8RIqL9DjH/U=",
+        "registeredGvmGcm": "3800/3800",
+        "manufacturerGvmGcm": "3800/3800",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-21T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

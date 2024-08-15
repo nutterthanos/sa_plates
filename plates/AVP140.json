@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "AVP140",
+        "make": "MANITOU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "RED",
+        "vehicleHash": "3+TqJC1O6BsGDqFJQ8uGRd24v6kh6Xqy0YKtg3d+b6c=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "10450/10450",
+        "manufacturerGvmGcm": "10450/10450",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

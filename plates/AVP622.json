@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVP622",
+        "make": "TEREX",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREY",
+        "vehicleHash": "7cQnlvC/tM9XsYJ0piSGHALneJ8GSXA3YWSaUjDO8FQ=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "10760/14460",
+        "manufacturerGvmGcm": "10760/14460",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

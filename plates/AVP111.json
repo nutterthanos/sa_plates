@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVP111",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "qN2PjaDIZJPZmy/uVBf/YJtAbPNfAQM6Kldum+9YWdE=",
+        "registeredGvmGcm": "1500/1500",
+        "manufacturerGvmGcm": "1500/1500",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-04-06T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

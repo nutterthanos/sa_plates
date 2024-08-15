@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "AVP096",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "VBMSsJPoc1RKrwu/XBVJ4jpc7t09KG4JkUYfjHeMTwk=",
+        "registeredGvmGcm": "3700/",
+        "manufacturerGvmGcm": "3700/",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-08-18T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

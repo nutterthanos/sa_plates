@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "AVP358",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "z/OJxOp1U6hKnkJXZqWvoOz83Gm8YqPOR0jNYHAGGvk=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "23000/23000",
+        "manufacturerGvmGcm": "23000/23000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "LO5 ROAD RESTRICTION",
+                "LO5B ROAD RESTRICTION - WORK SITES",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "LO5 ROAD RESTRICTION",
+            "LO5B ROAD RESTRICTION - WORK SITES",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

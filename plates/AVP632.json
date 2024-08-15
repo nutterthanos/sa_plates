@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVP632",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "oiV4Wf7R+iISTSsTLl9rDwtWEUj+h9dDIXXAVJpP/Jo=",
+        "registeredGvmGcm": "3510/6010",
+        "manufacturerGvmGcm": "3510/6010",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-02T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

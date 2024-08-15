@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVP335",
+        "make": "JLG",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "BEIGE",
+        "vehicleHash": "T9MefRmjW7siQ0LcgaAwVF6IUe6rZNRhwcTiJmQeH5k=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "13118/13118",
+        "manufacturerGvmGcm": "13118/13118",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

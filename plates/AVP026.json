@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVP026",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "RWHxG8+FTmtHogLzxJcN3a6o3G9oJNWdM4LdPMD/OBE=",
+        "registeredGvmGcm": "3700/3700",
+        "manufacturerGvmGcm": "3700/3700",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-10-20T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

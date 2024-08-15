@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVP578",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "pw+IEPK4n7Ib72ez1ykOfYjbRypu3sCw3sh2f7Zv6FI=",
+        "registeredGvmGcm": "3510/3510",
+        "manufacturerGvmGcm": "3510/3510",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-24T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

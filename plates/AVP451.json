@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVP451",
+        "make": "HONDA",
+        "bodyType": "QUAD CYCLE",
+        "primaryColour": "RED",
+        "vehicleHash": "iUXuXSGuSA84z9KqhY++RKa2jkuijxeokWzEdJTw9yc=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO19 GAZETTE - 3&4 WHEEL AGRICULTURAL BIKE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-09-01T00:00:00.000+09:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO19 GAZETTE - 3&4 WHEEL AGRICULTURAL BIKE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

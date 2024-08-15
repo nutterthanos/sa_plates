@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "AVP331",
+        "make": "JLG",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "H8luyhbahbyJ/3TuL7ChpqOkjIZwk8X5emDL8yEI9Po=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "13111/13111",
+        "manufacturerGvmGcm": "13111/13111",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "expiry": "2025-06-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

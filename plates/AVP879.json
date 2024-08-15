@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVP879",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "A7A/2MRhihRvSql3Gb7igSeJ+Sch2fnjzBBzU47atcE=",
+        "registeredGvmGcm": "3900/3900",
+        "manufacturerGvmGcm": "3900/3900",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-10-21T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

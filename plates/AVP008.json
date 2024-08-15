@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVP008",
+        "make": "BELARUS",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "MD7e12rbCiqUnggxHCIoAtbb0Xa7ZrgsYCR/aE+mU6k=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5300/5300",
+        "manufacturerGvmGcm": "5300/5300",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

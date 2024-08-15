@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "AVP986",
+        "make": "BOBCAT",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "IJ+29vt/bXbWFfhQGTM7jkdDcWPHBAvLkbIGiG5BA8Q=",
+        "registeredGvmGcm": "2150/2150",
+        "manufacturerGvmGcm": "2150/2150",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-15T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
