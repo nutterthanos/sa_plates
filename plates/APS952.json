@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "APS952",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "va0+xc1NjlIcjsJ2ypLI+j1QmxCwcZzW1QrmZKyVZLs=",
+        "registeredGvmGcm": "1000/1300",
+        "manufacturerGvmGcm": "1000/1300",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

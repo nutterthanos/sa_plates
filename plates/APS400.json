@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "APS400",
+        "make": "NEW HOLLAND",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "7cwTOmcXaDefjONObnVlRFDGR3LTfqu1VHt/0UwZz/k=",
+        "registeredGvmGcm": "2600/",
+        "manufacturerGvmGcm": "2600/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO27 AGRICULTURAL CODE OF PRACTICE",
+                "OM2 NHVR NOTICE",
+                "SP30 30 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-07-28T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO27 AGRICULTURAL CODE OF PRACTICE",
+            "OM2 NHVR NOTICE",
+            "SP30 30 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

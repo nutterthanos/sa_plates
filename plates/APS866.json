@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "APS866",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "CIrSu7Z3iZKhDX2i8QnaOhL1+mml952mL2XfwG7XZEs=",
+        "registeredGvmGcm": "4075/4075",
+        "manufacturerGvmGcm": "4075/4075",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-10-29T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

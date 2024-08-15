@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "APS565",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "pzZWsxU9FEiGG9CCOmbVgsXcZYE4nl82lCm/iUzLoYI=",
+        "registeredGvmGcm": "2000/2000",
+        "manufacturerGvmGcm": "2000/2000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2024-08-29T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

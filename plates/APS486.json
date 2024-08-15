@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "APS486",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "wwZOdfK00dUXI/4xqg91k3DWY9RFWrevu1yj6D67S74=",
+        "registeredGvmGcm": "3765/",
+        "manufacturerGvmGcm": "3765/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-09-12T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

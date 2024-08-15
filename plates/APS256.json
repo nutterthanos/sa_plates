@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "APS256",
+        "make": "BOBCAT",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "WHITE",
+        "vehicleHash": "oasl+lkLRQokE3U4mtc6evvdVc3KH4hHzVEaqabSEuE=",
+        "registeredGvmGcm": "2948/2948",
+        "manufacturerGvmGcm": "2948/2948",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5 ROAD RESTRICTION",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5 ROAD RESTRICTION",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

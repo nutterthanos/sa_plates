@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "APS671",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "s0bQ9NBqfaQNFrTb6k6C8lwM7hVtNIwQVrCCsSMLYbQ=",
+        "registeredGvmGcm": "4100/6300",
+        "manufacturerGvmGcm": "4100/6300",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-09-26T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

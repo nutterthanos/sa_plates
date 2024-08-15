@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "APS245",
+        "make": "ISEKI",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "dM/8cFFar0tWI9vgMcNFJbwUKejBVCQV938AAgwCWik=",
+        "registeredGvmGcm": "2130/",
+        "manufacturerGvmGcm": "2130/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-02T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

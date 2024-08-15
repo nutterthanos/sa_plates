@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "APS916",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "qDfQBMKmzZHFQld1vXo31FHHPg6uQ61tc+jR9I1GqKo=",
+        "registeredGvmGcm": "2225/",
+        "manufacturerGvmGcm": "2225/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-05-09T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

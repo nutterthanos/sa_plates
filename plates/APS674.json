@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "APS674",
+        "make": "SHIBAURA",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "PXPXHswvvx+cQGJdUA0v5jFqu5FvGxXRoelXmaB2g6g=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

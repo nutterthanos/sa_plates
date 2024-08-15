@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "APS925",
+        "make": "KUBOTA",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "7049wE9Xhtk9s3o2uKzURINAwfN82CZ6FpKFRLH4RW4=",
+        "registeredGvmGcm": "3100/3100",
+        "manufacturerGvmGcm": "3100/3100",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-10-17T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

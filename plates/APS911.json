@@ -1,0 +1,36 @@
+[
+    {
+        "plate": "APS911",
+        "make": "FORD",
+        "bodyType": "VAN VEHICLE",
+        "primaryColour": "SILVER",
+        "vehicleHash": "zYBFAhW54oxbGjs6kr3+YGiOti/U9aLyyh00iLvA4Gw=",
+        "ctpInsurer": "AAMI",
+        "expiry": "2024-10-22T00:00:00.000+10:30"
+    },
+    {
+        "plate": "APS911",
+        "make": "CASE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "Xv2R7FIHMllZtSiR3zISoLM/GbL1SEjxK/nhmKFLFGQ=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "10770/",
+        "manufacturerGvmGcm": "10770/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

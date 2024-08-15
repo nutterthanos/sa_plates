@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "APS708",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "f13yhougRmP451OwgpdlsLRT4vMF4QNvpaUAbsXV9yk=",
+        "registeredGvmGcm": "900/",
+        "manufacturerGvmGcm": "900/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "APS284",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREY",
+        "vehicleHash": "o3X0Wy0q07KFJ7GHcmTz2Lc0gKxK+MP6fmMwbQ4hADg=",
+        "registeredGvmGcm": "4195/4195",
+        "manufacturerGvmGcm": "4195/4195",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-10-28T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

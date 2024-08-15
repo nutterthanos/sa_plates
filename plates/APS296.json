@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "APS296",
+        "make": "VOLVO",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "9rykDtV2JmUx5hees6JxP2OKc2vhaoweZ+l/84GXAjg=",
+        "registeredConfiguration": "TSV5 - 5 axle SPV - Truck",
+        "registeredGvmGcm": "20500/",
+        "manufacturerGvmGcm": "20500/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5A ROAD RESTRICTION GAZETTE",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5A ROAD RESTRICTION GAZETTE",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]
