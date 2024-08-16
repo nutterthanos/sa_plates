@@ -1,0 +1,33 @@
+[
+    {
+        "plate": "BAM007",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "7ufppm1xosyIuI0EnKFRjz4GAfD7AetZS/rNgradr30=",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-10-12T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "BAM007",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "GREY",
+        "vehicleHash": "yMABdkVdOiGIRig8CkZWP7MG07OngSEZsP+NcC0gWw8=",
+        "ctpInsurer": "ALLIANZ"
+    },
+    {
+        "plate": "BAM007",
+        "make": "HOLDEN",
+        "bodyType": "UTILITY",
+        "primaryColour": "SILVER",
+        "vehicleHash": "ZG3XnrZsbvi4w8DWUZ59KxOby7IDj3tAWIuF/6cnwrU=",
+        "ctpInsurer": "NRMA"
+    }
+]
