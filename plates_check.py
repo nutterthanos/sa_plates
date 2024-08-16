@@ -71,7 +71,7 @@ async def check_registration():
             task = asyncio.create_task(handle_plate_number(session, plate_number, bearer_token))
             tasks.append(task)
 
-            if len(tasks) >= 2:  # Limit to 2 concurrent requests
+            if len(tasks) >= 5:  # Limit to 2 concurrent requests
                 await asyncio.gather(*tasks)  # Wait for all tasks to complete
                 tasks = []  # Reset the tasks list
 
