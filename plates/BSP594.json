@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "BSP594",
+        "make": "AUSTIN",
+        "bodyType": "TRUCK",
+        "primaryColour": "GREEN",
+        "vehicleHash": "VDgTWVinJXd484YInYkKEonbUdrztLRPMbGafRBaTlc=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "9150/13220",
+        "manufacturerGvmGcm": "9150/13220",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]

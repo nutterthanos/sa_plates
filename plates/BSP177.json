@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "BSP177",
+        "make": "FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREY",
+        "vehicleHash": "JhNkL5wj1Jmn6Fu/ktPZTWmr+kxBU9NacowHeC7daLA=",
+        "registeredGvmGcm": "1000/",
+        "manufacturerGvmGcm": "1000/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-08-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BSP571",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "dzDJKuoginTra9yNLwS5RL1VrltEg9MgyT/Cq8sG+Qw=",
+        "registeredGvmGcm": "4400/",
+        "manufacturerGvmGcm": "4400/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-07-18T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

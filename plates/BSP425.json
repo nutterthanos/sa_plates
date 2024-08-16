@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "BSP425",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "yjjooqO/8lWI0Pl8H2bH1ImdcMuMFg2z3Fzq9wMUMDM=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

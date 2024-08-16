@@ -1,0 +1,30 @@
+[
+    {
+        "plate": "BSP369",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "riGaDaYl71jeFYAGluTMjYXpkN1YpU/7Se7oh5XI6J0=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6800/6800",
+        "manufacturerGvmGcm": "6800/6800",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+                "GO28 AGRICULTURAL CODE OF PRACTICE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-07-22T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+            "GO28 AGRICULTURAL CODE OF PRACTICE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

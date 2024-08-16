@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BSP415",
+        "make": "FORDSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "LCkPki6ef14Elpe7MNzvEsDpFSPdo+8OgqbzPecY0b4=",
+        "registeredGvmGcm": "1800/",
+        "manufacturerGvmGcm": "1800/",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-07-09T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "BSP399",
+        "make": "NASH",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "pnL6YJqzz+QX+F8kI8Wq7MmQ49RmGMj6iJLoJqBnQAU=",
+        "registeredGvmGcm": "1800/",
+        "manufacturerGvmGcm": "1800/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

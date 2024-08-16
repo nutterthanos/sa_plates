@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BSP535",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "UmmZ6mltaKgA82vQS78G2NXh3ifxPSjWWbt6bj7YPVE=",
+        "registeredGvmGcm": "4077/",
+        "manufacturerGvmGcm": "4077/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-12-18T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

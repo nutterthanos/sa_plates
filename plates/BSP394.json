@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BSP394",
+        "make": "KUBOTA",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "pOpScq0uJbe2mt5dHhaORBhae70vKvFxdF+IHwRqv48=",
+        "registeredGvmGcm": "3570/3570",
+        "manufacturerGvmGcm": "3570/3570",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-07-09T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

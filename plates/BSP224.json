@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BSP224",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "6NFiwztYUlzHVQxXEeaZbRnVP6DaWctzDg8rOF9INq8=",
+        "registeredGvmGcm": "4450/",
+        "manufacturerGvmGcm": "4450/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-05-29T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

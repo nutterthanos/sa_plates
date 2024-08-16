@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BSP537",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "moZyYecdt5LKJJ/HOKUv2HXAqoWMedPlvdUfmChjyR8=",
+        "registeredGvmGcm": "3990/",
+        "manufacturerGvmGcm": "3990/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-04T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

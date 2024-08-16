@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "BSP474",
+        "make": "FORD",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "50g88zg7T5ZNJrncbZWrRL6hWEukqDu5m0NKuHLM6x8=",
+        "registeredGvmGcm": "3200/",
+        "manufacturerGvmGcm": "3200/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

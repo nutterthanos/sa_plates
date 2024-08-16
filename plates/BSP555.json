@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "BSP555",
+        "make": "DAVID BROWN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "X7y+FI7/T6xHoPEcRGqglJRBZfo7t2DKZyhLxdSiwzY=",
+        "registeredGvmGcm": "1000/",
+        "manufacturerGvmGcm": "1000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

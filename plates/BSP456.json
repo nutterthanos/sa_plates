@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "BSP456",
+        "make": "INTERNATIONAL",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "yHHpYjc+1k7jNufq5gTP05HoYmbSTu3pcE9GDpz5HIQ=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6700/",
+        "manufacturerGvmGcm": "6700/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-07-11T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

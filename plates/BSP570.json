@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "BSP570",
+        "make": "ZETOR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "QFrzwQJnRv81BU8O4HJFySuexw99s33YmV6ayVp+Qw8=",
+        "registeredGvmGcm": "4350/",
+        "manufacturerGvmGcm": "4350/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

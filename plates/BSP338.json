@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BSP338",
+        "make": "DEUTZ",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "MjAcotkXMLjL0nPAzMR64reT/4ps6gebd43jjAMtyAQ=",
+        "registeredGvmGcm": "2622/",
+        "manufacturerGvmGcm": "2622/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-02-17T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

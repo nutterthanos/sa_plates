@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "BSP002",
+        "make": "MASSEY HARRIS",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "Lrw1iHgNuKEapJpNXxtR2brRw0DFzw0nFOPtoOdX8kA=",
+        "registeredGvmGcm": "3112/",
+        "manufacturerGvmGcm": "3112/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "BSP085",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "qMFVngUtsN6FWpda7qCwex5HX32fugEzdPl/f/CEA6Y=",
+        "registeredGvmGcm": "3166/3166",
+        "manufacturerGvmGcm": "3166/3166",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

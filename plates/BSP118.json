@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "BSP118",
+        "make": "JOHN DEERE",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "RL0IKuadzYwb4WKzTgGG2ovGMCVM0+2DIqnDbngnN38=",
+        "registeredGvmGcm": "2350/",
+        "manufacturerGvmGcm": "2350/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

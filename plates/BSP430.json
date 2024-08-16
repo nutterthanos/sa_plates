@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "BSP430",
+        "make": "JOHN DEERE",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "xIKMSc+B9ucQg9u45uw8oTCx+p4kMdrK7LHCFe0SC9c=",
+        "registeredGvmGcm": "4500/4500",
+        "manufacturerGvmGcm": "4500/4500",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

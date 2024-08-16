@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BSP540",
+        "make": "ZETOR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "rvlj4PXhsi+AXWPCO8zlONlZDa83lltsRMGGe+c69mY=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4850/",
+        "manufacturerGvmGcm": "4850/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

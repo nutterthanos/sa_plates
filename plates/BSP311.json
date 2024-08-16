@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BSP311",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "7k7HAfeL1IeG6rS2IZbM37YvczwkPqLMPReEn77uCfA=",
+        "registeredGvmGcm": "1881/",
+        "manufacturerGvmGcm": "1881/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-05T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BSP958",
+        "make": "WHITE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREY",
+        "vehicleHash": "B2eIwqYRUu9epFNldIBiVs3mWDtSkYBfoy55TVqIsDo=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5530/5530",
+        "manufacturerGvmGcm": "5530/5530",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

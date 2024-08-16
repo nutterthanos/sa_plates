@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BSP297",
+        "make": "FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREY",
+        "vehicleHash": "+X6IYLfxwwLk2ClMHSgd8LrY/wEX0IoGUmXyUc1HqXI=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-07-03T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

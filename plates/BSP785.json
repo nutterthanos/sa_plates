@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BSP785",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "XrKNUQO5+fQs7qFLikbDpOysY4K9/SxfMPrmpwhGNDo=",
+        "registeredGvmGcm": "2420/",
+        "manufacturerGvmGcm": "2420/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-16T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

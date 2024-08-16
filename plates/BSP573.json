@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "BSP573",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "L9QNF6yY0E/ATWa7lsqDC122Z2qcxrbKBXLo9g7kxtg=",
+        "registeredGvmGcm": "1800/",
+        "manufacturerGvmGcm": "1800/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

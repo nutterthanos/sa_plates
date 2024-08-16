@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "BSP603",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "6VUvKDAsrKCwGGWI3JXoMKI9uv1FtTyDO8Q3ZAq62zE=",
+        "registeredGvmGcm": "2622/",
+        "manufacturerGvmGcm": "2622/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

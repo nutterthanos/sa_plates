@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BSP205",
+        "make": "FORD",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "JSX72i3XrNtTciSqvTEM3i3QoAGyB9DA2H75nx9QAHs=",
+        "registeredGvmGcm": "4000/4000",
+        "manufacturerGvmGcm": "4000/4000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-07-08T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

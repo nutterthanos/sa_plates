@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "BSP550",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "XUK1lxBc6TZX/vHW6qCM9XwQpVcUpOaoyfxnNDiIcmI=",
+        "registeredGvmGcm": "3950/",
+        "manufacturerGvmGcm": "3950/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]
