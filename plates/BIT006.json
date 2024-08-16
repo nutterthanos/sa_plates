@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "BIT006",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "GREEN",
+        "vehicleHash": "bIE3X5wL10YjPCjq9g4XYMymJWnj5spAGsHL1I9Y2Pk=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "26500/90000",
+        "manufacturerGvmGcm": "26500/90000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "LV2 PERMIT/GAZETTE REQUIRED",
+                "MV2 NHVR NOTICE"
+            ]
+        },
+        "expiry": "2024-11-05T00:00:00.000+10:30",
+        "conditions": [
+            "LV2 PERMIT/GAZETTE REQUIRED",
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
