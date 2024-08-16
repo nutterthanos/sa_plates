@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "CAT018",
+        "make": "VOLVO",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "nMnYo37mDaz9oBxbnVhm7LRCiIFXQBOpTRaFvSsozJE=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "28100/90000",
+        "manufacturerGvmGcm": "28100/90000",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2025-06-13T00:00:00.000+09:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]

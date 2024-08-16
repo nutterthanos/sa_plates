@@ -1,0 +1,37 @@
+[
+    {
+        "plate": "CAT079",
+        "make": "FREIGHTLINER",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "02Hf7wznembMgVT/tyCBO8ou2FBGIA+ePTeGPROAY50=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "26000/70000",
+        "manufacturerGvmGcm": "26000/70000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2025-07-26T00:00:00.000+09:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "CAT079",
+        "make": "WESTERN STAR",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "Ah+2PcQJUehU6enkdR3RnPKkxs/RIjS5z5v5/YtxYsM=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "28000/106000",
+        "manufacturerGvmGcm": "28000/106000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]

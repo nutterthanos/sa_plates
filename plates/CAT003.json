@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "CAT003",
+        "make": "WESTERN STAR",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "RED",
+        "vehicleHash": "ukkkaiRY7xBMVd33IjA4bEgGty2QJaSuTdBtbsgdLjI=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "27400/106000",
+        "manufacturerGvmGcm": "27400/106000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "CAT003",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "NAyCNw0NoJ/b6Tb5jKudlo47ZuDcJ9jaGgGwg2Mnqvk=",
+        "ctpInsurer": "MAC"
+    }
+]

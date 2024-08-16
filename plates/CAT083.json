@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "CAT083",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "xZSLjv0RxoKnfkKxyb4g7rV2+N7tmslGa4ZTuNY1CR4=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "27610/97000",
+        "manufacturerGvmGcm": "27610/97000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2025-07-05T00:00:00.000+09:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]

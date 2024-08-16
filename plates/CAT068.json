@@ -1,0 +1,37 @@
+[
+    {
+        "plate": "CAT068",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "MAROON",
+        "vehicleHash": "ScvwV3S3zdEaoOgfwV5stWKDnFTsVRezFw9tH0ZSYZw=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "27600/97000",
+        "manufacturerGvmGcm": "27600/97000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2024-11-15T00:00:00.000+10:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "CAT068",
+        "make": "WESTERN STAR",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "BLUE",
+        "vehicleHash": "hYAbbmXgJRUtoouFsgPRL6zbHaI4Q5KzhNg2X8OuRWY=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "27400/106000",
+        "manufacturerGvmGcm": "27400/106000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]

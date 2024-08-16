@@ -1,0 +1,36 @@
+[
+    {
+        "plate": "CAT007",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "BLACK",
+        "vehicleHash": "U/gaMdLeUXAL9DIKQaPmMxqJXQKuCy7lX2IFEzMOmGs=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "27600/97000",
+        "manufacturerGvmGcm": "27600/97000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2025-07-01T00:00:00.000+09:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "CAT007",
+        "make": "ASTON MARTIN",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLACK",
+        "vehicleHash": "0ykRGE6iuF3i/xZ8iacLlBxQ4sRhn7AHV6ITv/69PfI=",
+        "ctpInsurer": "QBE"
+    },
+    {
+        "plate": "CAT007",
+        "make": "DATSUN",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "/A8up/SHk32R1Cr3XFX814gFYqfVv6qhjsGXvxbHfPA=",
+        "ctpInsurer": "MAC"
+    }
+]

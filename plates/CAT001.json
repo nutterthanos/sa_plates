@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "CAT001",
+        "make": "TOYOTA",
+        "bodyType": "SEDAN",
+        "primaryColour": "BEIGE",
+        "vehicleHash": "KHQMhVqO8NGRr7Ctp2Ybxi4x91WoY/b1GJXI79S3RZc=",
+        "ctpInsurer": "AAMI",
+        "expiry": "2025-07-19T00:00:00.000+09:30"
+    },
+    {
+        "plate": "CAT001",
+        "make": "HONDA",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "WVBHJoQb9Qq4no4Fly7UQFL4cxPgxZporyE0R8wY6mI=",
+        "ctpInsurer": "MAC"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "CAT666",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "MAROON",
+        "vehicleHash": "TTjK7LIjhlyNBnOp5mcst6vh1yADQ71DNfwUXvjOwqk=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "27800/97000",
+        "manufacturerGvmGcm": "27800/97000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2025-07-13T00:00:00.000+09:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "CAT666",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "hbS8h/Lbr6FJ9P1pDkUpXbkCdsCkudCQYsFJ4uSgTLc=",
+        "ctpInsurer": "MAC"
+    }
+]

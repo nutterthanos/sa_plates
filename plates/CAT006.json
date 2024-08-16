@@ -1,0 +1,42 @@
+[
+    {
+        "plate": "CAT006",
+        "make": "M.A.N.",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "y8wZZ1kvVxRRDuCl/mWg5sLQOOBaDiSl3/HwVP9Jpn4=",
+        "registeredConfiguration": "SP3 - 3 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "26000/70000",
+        "manufacturerGvmGcm": "26000/70000",
+        "ctpInsurer": "QBE",
+        "expiry": "2025-07-12T00:00:00.000+09:30"
+    },
+    {
+        "plate": "CAT006",
+        "make": "M.A.N.",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "7/ODDID3NjHvAjZCqvEcsCF3MiZmfP4ji9IDgoDJMGM=",
+        "registeredConfiguration": "SP3 - 3 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "26000/68500",
+        "manufacturerGvmGcm": "26000/68500",
+        "ctpInsurer": "QBE"
+    },
+    {
+        "plate": "CAT006",
+        "make": "D A F",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "hctJDVY4OxjK/I/Zv2agnyh4FxEsH8SeS0AhZcC0MV8=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "24600/70000",
+        "manufacturerGvmGcm": "24600/70000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
