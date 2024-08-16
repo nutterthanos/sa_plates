@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BVS757",
+        "make": "FENDT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "at60bKf7Vf4BLBgBHWQft0c+JDr9ufWYKlhAbRltzlo=",
+        "registeredGvmGcm": "2510/",
+        "manufacturerGvmGcm": "2510/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-02T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BVS716",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "nh1y+J3SuoMRqEEMwYQr9+kckAK2OIhpOSjFYTpjdHU=",
+        "registeredGvmGcm": "4277/",
+        "manufacturerGvmGcm": "4277/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-24T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

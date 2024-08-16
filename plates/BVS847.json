@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BVS847",
+        "make": "INGERSOLL RAND",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "FAWN",
+        "vehicleHash": "h08azbFlQ7/gWmpxK5VLMlc1YU6ESSdiP6fHFJ2qDb4=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "11000/",
+        "manufacturerGvmGcm": "11000/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

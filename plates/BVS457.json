@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BVS457",
+        "make": "TEREX",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "DOh3SDSXnarZrWN5vGq/twZbFlxSnFPaSfRdLuzEVic=",
+        "registeredConfiguration": "OSV3 - 3 axle SPV - Overmass",
+        "registeredGvmGcm": "20555/20555",
+        "manufacturerGvmGcm": "20555/20555",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

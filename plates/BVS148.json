@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BVS148",
+        "make": "CHEVROLET",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "qUFZwzaqUDVrmJ2fifmBXKLvjdiX5AcbNyYY6hawfko=",
+        "registeredConfiguration": "TSV2 - 2 axle SPV - Truck",
+        "registeredGvmGcm": "9700/",
+        "manufacturerGvmGcm": "9700/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

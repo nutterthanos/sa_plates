@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BVS485",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "pa6CYdsW84PoLbTetfZBFg+yNONAOX5NkdnGAhcFEY4=",
+        "registeredGvmGcm": "4130/4130",
+        "manufacturerGvmGcm": "4130/4130",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-10-01T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

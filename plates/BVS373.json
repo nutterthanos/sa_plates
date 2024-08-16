@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BVS373",
+        "make": "GREGOIRE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "9S/IlD2fvb3s7nQwT2M2TiujWV9q0IhFlsSTbwjcFvg=",
+        "registeredConfiguration": "PSV4 - 4 axle SPV - Plant",
+        "registeredGvmGcm": "7900/7900",
+        "manufacturerGvmGcm": "7900/7900",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BVS280",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "2uRYsfXWcYMJkZprBvuPn4rUVC+1CnEaIhtVp8b9xTo=",
+        "registeredGvmGcm": "4440/",
+        "manufacturerGvmGcm": "4440/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "expiry": "2025-05-03T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]
