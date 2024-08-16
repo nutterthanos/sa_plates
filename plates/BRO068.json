@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BRO068",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "PIXVtHyK4jCOVayu6F8l/GRWWV/a6zFajAY5BemR1sM=",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-01-30T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "BRO068",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "fFBJJRBeop5GTFo3c5jAe+0RB2LlQe17LIPUv4tXXXM=",
+        "ctpInsurer": "MAC"
+    }
+]
