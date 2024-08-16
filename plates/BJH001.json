@@ -1,0 +1,54 @@
+[
+    {
+        "plate": "BJH001",
+        "make": "FORD",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "xwfJPqnTppFswxPHIwPWaUKOWYND9NcpdD0MPb9ac/k=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "23240/81000",
+        "manufacturerGvmGcm": "23240/81000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "LV2 PERMIT/GAZETTE REQUIRED"
+        },
+        "expiry": "2024-10-31T00:00:00.000+10:30",
+        "conditions": [
+            "LV2 PERMIT/GAZETTE REQUIRED"
+        ]
+    },
+    {
+        "plate": "BJH001",
+        "make": "INTERNATIONAL",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "JSQ+NvxZ8eA3DIeELYm4uWV6q5f7kxqYu2BXaCBZiPE=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "24000/131000",
+        "manufacturerGvmGcm": "24000/131000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "BJH001",
+        "make": "FORD",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "qdipteMqDge4vZg4ofQIhPiMbkyNHR+jChPfknLNQVI=",
+        "registeredConfiguration": "LP3 - 3 axle P/Mover + 2 or 3 trailers (LP3)",
+        "registeredGvmGcm": "24000/90000",
+        "manufacturerGvmGcm": "24000/90000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "LV2 PERMIT/GAZETTE REQUIRED"
+        },
+        "conditions": [
+            "LV2 PERMIT/GAZETTE REQUIRED"
+        ]
+    }
+]
