@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "BVP627",
+        "make": "ISUZU",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "pEmewBkuSxu/q3W7ZMaw6hVmVH2cUF4mhkxEgxWs8Q4=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "11000/11000",
+        "manufacturerGvmGcm": "11000/11000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

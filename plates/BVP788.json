@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BVP788",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "juvCjL15mpRAt81qctxKnOCe2H2y+fgXm3qoL0f9oX8=",
+        "registeredGvmGcm": "3785/3785",
+        "manufacturerGvmGcm": "3785/3785",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-06-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

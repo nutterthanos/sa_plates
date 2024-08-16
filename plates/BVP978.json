@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "BVP978",
+        "make": "HOMEMADE",
+        "bodyType": "INDUSTRIAL TRAILER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "ELwc88Fc0BpPhke8F5b8VCPshi4ZcOk/9ZvMJbQCX7I=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "25000/",
+        "manufacturerGvmGcm": "25000/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS2 NHVR NOTICE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2024-12-14T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS2 NHVR NOTICE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

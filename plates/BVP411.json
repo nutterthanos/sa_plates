@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BVP411",
+        "make": "WACKER",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "wZojuCQvtSTrkMLg1WeJP7h/6WQOrVBojge/GmnblLQ=",
+        "registeredGvmGcm": "1075/1075",
+        "manufacturerGvmGcm": "1075/1075",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-06-22T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

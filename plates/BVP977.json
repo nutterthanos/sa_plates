@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BVP977",
+        "make": "HOMEMADE",
+        "bodyType": "INDUSTRIAL TRAILER",
+        "primaryColour": "GREY",
+        "vehicleHash": "K0k0F6SttCLoWA8CTHau67nWEJVt5ebr+hsPGC/YmvU=",
+        "registeredGvmGcm": "4500/",
+        "manufacturerGvmGcm": "4500/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-08-03T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

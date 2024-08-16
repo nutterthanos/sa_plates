@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BVP674",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "BLUE",
+        "vehicleHash": "pO0ZxXmXBz3Fjm5oN9xkW5Qzsz6w1dxAU+fJ7Gq7Ay8=",
+        "registeredGvmGcm": "3810/",
+        "manufacturerGvmGcm": "3810/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-09-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

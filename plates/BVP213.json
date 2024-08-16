@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BVP213",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "D9ZJ/G066qJ7yNB/C2+6afiYq1t/pnEIjHvQ+BGbWRk=",
+        "registeredGvmGcm": "2563/2563",
+        "manufacturerGvmGcm": "2563/2563",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-24T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

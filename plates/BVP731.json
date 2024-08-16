@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BVP731",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "jJu5Tch0KROFM4UcPpKqSlCnQKu26fzRURm9cYQux5g=",
+        "registeredGvmGcm": "3400/5400",
+        "manufacturerGvmGcm": "3400/5400",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-04-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

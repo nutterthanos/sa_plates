@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BVP745",
+        "make": "ALLIS CHALMERS",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREY",
+        "vehicleHash": "TfRNb1zIp1iFfyhRsVU9f/oZrNL2DUELdsJ1kfg/yR0=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9040/",
+        "manufacturerGvmGcm": "9040/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "ERV EMERGENCY RESPONSE VEHICLE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

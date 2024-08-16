@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "BVP405",
+        "make": "YAMAHA",
+        "bodyType": "QUAD CYCLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "ydGDBe8Iz1rXyZZ6l5AqTOnHiaFl7b+4nOI1dRrXp/U=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "LO3 ROUTE RESTRICTION",
+                "LO3B ZONE RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "LO3 ROUTE RESTRICTION",
+            "LO3B ZONE RESTRICTION"
+        ]
+    }
+]

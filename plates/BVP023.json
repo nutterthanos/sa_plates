@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BVP023",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "hthV0dtYZCSGs7hOMl5ASxnFq/2AMNoW/GnadCnwVBc=",
+        "registeredGvmGcm": "2660/2660",
+        "manufacturerGvmGcm": "2660/2660",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-05-12T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

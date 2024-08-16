@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BVP497",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "V76HKb/H/TuW9a8YTSRGPhCC3smBXhR8xr5iAsvBv9M=",
+        "registeredGvmGcm": "3690/3690",
+        "manufacturerGvmGcm": "3690/3690",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-06-14T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

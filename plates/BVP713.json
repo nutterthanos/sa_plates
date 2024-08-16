@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BVP713",
+        "make": "NEW HOLLAND",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "aBC0Pc5bTDbQt3C4F05blvcYN+xHB7yvFdD2cVjJaNA=",
+        "registeredGvmGcm": "3600/3600",
+        "manufacturerGvmGcm": "3600/3600",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-11T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
