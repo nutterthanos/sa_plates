@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BUG066",
+        "make": "VOLKSWAGEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "bKql50Ncxv/Pgm4Px1xPsUX25tmfPmonELrYjThEFEY=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2026-06-05T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "BUG066",
+        "make": "VOLKSWAGEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "B0dnMATDWszYQaPxX5hpuDaic2QqZxcRCRC2tr9u3Jw=",
+        "ctpInsurer": "MAC"
+    }
+]

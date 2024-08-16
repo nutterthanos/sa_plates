@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BUG001",
+        "make": "VOLKSWAGEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "46/43V1HCBwhgTLXrQSglakPCSIhdoxLwNWo3xc6DN4=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-06-09T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "BUG001",
+        "make": "VOLKSWAGEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "/UkBOnKrIQRXK4T6yqhSzeJ+MshzIcBI7oh7cdRSlmk=",
+        "ctpInsurer": "MAC"
+    }
+]
