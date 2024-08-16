@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "BMG001",
+        "make": "MG",
+        "bodyType": "TOURER",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "RoUA1brVavJQky4jDBMjhieqyx52TdCQk5TzBEzXfBk=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "OL3G HISTORIC VEHICLE + EXTENSION",
+                "OL3 MEMBERSHIP OF CLUB"
+            ]
+        },
+        "expiry": "2025-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION",
+            "OL3 MEMBERSHIP OF CLUB"
+        ]
+    },
+    {
+        "plate": "BMG001",
+        "make": "MAZDA",
+        "bodyType": "STATION WAGON",
+        "primaryColour": "WHITE",
+        "vehicleHash": "6LENVaIlMwr0hPFfQ/C5Wx7o4zhKMzxhZoKMCxUCNAI=",
+        "ctpInsurer": "MAC"
+    }
+]
