@@ -1,0 +1,39 @@
+[
+    {
+        "plate": "BMC998",
+        "make": "LEYLAND",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "I8apysena5UtwL9Rs6HhEC2YhJh0wpWNIoaNyymI7Ik=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-01-24T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "BMC998",
+        "make": "LEYLAND",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "rgxD2SROf3wZ//m4mVNrsoPmVu3TIpXoSMWOYOD46PE=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "BMC998",
+        "make": "MORRIS",
+        "bodyType": "SEDAN",
+        "primaryColour": "GREEN",
+        "vehicleHash": "8acdQqitSHAG0FnXc2aEAp3benAin51/vcw89jzK3Mc=",
+        "ctpInsurer": "MAC"
+    }
+]
