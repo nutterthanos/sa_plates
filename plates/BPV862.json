@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPV862",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "ldhstBRuVP6G47RgHHpRPSanlAfQo+pIhAKfGHbj8SQ=",
+        "registeredGvmGcm": "2420/2420",
+        "manufacturerGvmGcm": "2420/2420",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-03T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

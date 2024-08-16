@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "BPV184",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "acWc8tZ1zMXqvKXYKfX1YrBI1iuZV2FdQm0pZhbP6U0=",
+        "registeredGvmGcm": "3120/3120",
+        "manufacturerGvmGcm": "3120/3120",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPV435",
+        "make": "FENDT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "pp3Rc4c2lHr6qcu7Z5bwuiYXdzA4wzZD/WSSqTtmbt0=",
+        "registeredGvmGcm": "3888/",
+        "manufacturerGvmGcm": "3888/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-09-23T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
