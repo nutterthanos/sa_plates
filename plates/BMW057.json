@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BMW057",
+        "make": "BMW",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "ajAJw8P/A2y7lR9JNBtG66wkV80lIrbqChW7v3M40XI=",
+        "ctpInsurer": "NRMA",
+        "expiry": "2024-08-23T00:00:00.000+09:30"
+    },
+    {
+        "plate": "BMW057",
+        "make": "BMW",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "aB8sZhxMZVQoeuJuq+D3gxLBM7bg0AATKV+GYvoG+XQ=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    }
+]

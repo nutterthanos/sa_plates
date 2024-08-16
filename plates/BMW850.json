@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BMW850",
+        "make": "BMW",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "dfILJDgKHI9jaHTL3vFNXrXNB0ajrS/bR8Ohl7LmhJ4=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2027-06-18T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "BMW850",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "qBFhfbnat1j7o1SBcrcS/DxncsgpU47ZZKjwK2PGuq4=",
+        "ctpInsurer": "MAC"
+    }
+]

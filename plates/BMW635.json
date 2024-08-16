@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BMW635",
+        "make": "BMW",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "BVYMbbXOD57uFlAoL+p2pYVAsw2nEZy7hGhLiAPAWs0=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-02-04T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "BMW635",
+        "make": "BMW",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLACK",
+        "vehicleHash": "DBVewyLSbepI6VvbNPLmcWkbuCq7HP9x3ci1yAefOF4=",
+        "ctpInsurer": "MAC"
+    }
+]

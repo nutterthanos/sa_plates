@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BMW800",
+        "make": "BMW",
+        "bodyType": "SOLO",
+        "primaryColour": "WHITE",
+        "vehicleHash": "CSEOrSlwPiv334uAqtwYjdtpQr3aUxQCmCLGCTaqdFI=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2027-06-26T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "BMW800",
+        "make": "BMW",
+        "bodyType": "SOLO",
+        "primaryColour": "PINK",
+        "vehicleHash": "notrqAWHqMphIuHhlKT9Y1P52PqxV21t6R/o45kDpHM=",
+        "ctpInsurer": "MAC"
+    }
+]

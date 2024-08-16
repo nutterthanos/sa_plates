@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "BMW999",
+        "make": "BMW",
+        "bodyType": "SOLO",
+        "primaryColour": "SILVER",
+        "vehicleHash": "soUikEqkdjmF5MW/fBd467JTCiJ08SkUHVQGTKrzvK4=",
+        "ctpInsurer": "NRMA"
+    },
+    {
+        "plate": "BMW999",
+        "make": "BMW",
+        "bodyType": "SOLO",
+        "primaryColour": "RED",
+        "vehicleHash": "4mDOvkkjCtIU26nnmYxL6KL67L77cqZGtQ4CHJ4a3Vg=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "BMW325",
+        "make": "TRIUMPH",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "2hUdwXlko+T8J1aBsgKJA48PPH6xF3Pa6I7/SdKE7i0=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2024-11-23T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "BMW325",
+        "make": "BMW",
+        "bodyType": "SEDAN",
+        "primaryColour": "GOLD",
+        "vehicleHash": "A22T4PS/XfAJKYj4CmIHInE6PK+pked/34s/ACIrQa8=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    }
+]
