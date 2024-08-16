@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "CDS006",
+        "make": "HYUNDAI",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "x0jU5f5Crb3Agw2GW7k2NT/22X8N7grndMIihyaDfkk=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "27000/60000",
+        "manufacturerGvmGcm": "27000/60000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2024-10-31T00:00:00.000+10:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
