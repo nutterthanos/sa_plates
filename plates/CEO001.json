@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "CEO001",
+        "make": "PORSCHE",
+        "bodyType": "STATION WAGON",
+        "primaryColour": "BLACK",
+        "vehicleHash": "C5MFjfCfQkhiTfGAJsQK1gP2P6U0xxrBs+mDWf/jTKg=",
+        "ctpInsurer": "QBE"
+    },
+    {
+        "plate": "CEO001",
+        "make": "CHEVROLET",
+        "bodyType": "SEDAN",
+        "primaryColour": "GREEN",
+        "vehicleHash": "/Hy6FknGa4oGTT/fdbCbtSFwbkczeLWW48JDzD8Wz5k=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    }
+]
