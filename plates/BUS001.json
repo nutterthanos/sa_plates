@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BUS001",
+        "make": "MERCEDES BENZ",
+        "bodyType": "CARAVAN VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "uPnjoSZlrGAU+j5IbvYm9ouosNoFPewI2jpoxZNs330=",
+        "registeredConfiguration": "2R2 - 2 axle truck GVM > 12000kg",
+        "registeredGvmGcm": "13900/15400",
+        "manufacturerGvmGcm": "13900/15400",
+        "ctpInsurer": "NRMA",
+        "expiry": "2025-08-20T00:00:00.000+09:30"
+    },
+    {
+        "plate": "BUS001",
+        "make": "NOT LISTED",
+        "bodyType": "BUS",
+        "primaryColour": "WHITE",
+        "vehicleHash": "7l8DPPep2jmJOtLaAxZkviI1isjZrZj4VZpsW8WTJYw=",
+        "registeredConfiguration": "2B3 - 3 axle bus GVM > 4500kg",
+        "registeredGvmGcm": "17800/17800",
+        "manufacturerGvmGcm": "17800/17800",
+        "ctpInsurer": "MAC"
+    }
+]
