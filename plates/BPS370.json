@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BPS370",
+        "make": "PELLENC",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "6zdLeo1juW67b7fN1FXm1lZ4m19aIXyoNz8VlDNiwBE=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "8200/",
+        "manufacturerGvmGcm": "8200/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

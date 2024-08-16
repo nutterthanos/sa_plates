@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS392",
+        "make": "CASE",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "HM35H8hC7hH0eRIDsJaQ3U+7n2LcyPejd5Ithrnqk5g=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9950/9950",
+        "manufacturerGvmGcm": "9950/9950",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

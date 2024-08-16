@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "BPS605",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "RRuMMalWsDW6g20ccmkmEC5Ex5703MCJFZ5c80H0h6Q=",
+        "registeredGvmGcm": "2740/2740",
+        "manufacturerGvmGcm": "2740/2740",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-11-26T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

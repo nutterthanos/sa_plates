@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS567",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "EFTTEu93wsujn6k6rstgtJ0kuUAF7hUy0tl/oLyr4Cc=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6680/",
+        "manufacturerGvmGcm": "6680/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

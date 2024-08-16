@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS888",
+        "make": "LAMBORGHINI",
+        "bodyType": "TRACTOR",
+        "primaryColour": "WHITE",
+        "vehicleHash": "+bPetRJajZFYSxRUmBSUUI9N4GLhDzPpm3qa7YT3XY4=",
+        "registeredGvmGcm": "2100/",
+        "manufacturerGvmGcm": "2100/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-11-13T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

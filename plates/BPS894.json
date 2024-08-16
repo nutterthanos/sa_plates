@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "BPS894",
+        "make": "DAVID BROWN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "x+f3eZehdGGxjqjF1x7saP3Bxdu24UEnhzqz6H9KjfU=",
+        "registeredGvmGcm": "2500/",
+        "manufacturerGvmGcm": "2500/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

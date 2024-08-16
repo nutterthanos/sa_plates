@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "BPS602",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "/ciNwY8D9mZwIxI7QYujU7YOj0VSlQ/Gj6acWmfhJUI=",
+        "registeredGvmGcm": "4000/4000",
+        "manufacturerGvmGcm": "4000/4000",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-11-27T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

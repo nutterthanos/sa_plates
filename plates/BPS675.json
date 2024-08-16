@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "BPS675",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "UEfusp4jHt52/pRmhURQpjIPKzzidZPQjne7Np1pylY=",
+        "registeredGvmGcm": "2785/",
+        "manufacturerGvmGcm": "2785/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

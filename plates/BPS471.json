@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS471",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "8p18pMpWJP8QFgpY0Y/87jIbo+dDaedgeeNr1M6sIZQ=",
+        "registeredConfiguration": "PSV1 - 1 axle SPV - Plant",
+        "registeredGvmGcm": "4100/",
+        "manufacturerGvmGcm": "6300/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

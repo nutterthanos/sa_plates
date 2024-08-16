@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS493",
+        "make": "VOLVO",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "rxpXc5/HcOlTID/OIXEGRf+XxmxIhyvfpoT30Q+eO5Y=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "21500/21500",
+        "manufacturerGvmGcm": "21500/21500",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

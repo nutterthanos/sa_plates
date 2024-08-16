@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "BPS345",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "GUyWyUfLULlqlZ5BgAnlXlZXKUi2Ebcf7/WGYa4Fc4c=",
+        "registeredGvmGcm": "4070/6340",
+        "manufacturerGvmGcm": "4070/6340",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS996",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "BROWN",
+        "vehicleHash": "I5no2EajcrHBW4Mkgo72dg/WvoXC8nDOBB+gkKB8b2Y=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "16140/",
+        "manufacturerGvmGcm": "16140/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

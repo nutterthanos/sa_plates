@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS592",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "9trEAzsiHChLKeCiqB+7voVCUGE+Kem89dKEa/94abo=",
+        "registeredGvmGcm": "3146/",
+        "manufacturerGvmGcm": "3146/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-19T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

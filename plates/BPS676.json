@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BPS676",
+        "make": "VERSATILE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "b2HFqH43ADFAY3sFb26KjxwIxIQuzNcAtYJnMSym3gg=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "11000/11000",
+        "manufacturerGvmGcm": "11000/11000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

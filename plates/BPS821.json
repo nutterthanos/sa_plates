@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS821",
+        "make": "VOLVO",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "YvpG+LR6at7fJBMp0oFAP8/LHre8kHvG1cyE/r8UCvU=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9000/",
+        "manufacturerGvmGcm": "9000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

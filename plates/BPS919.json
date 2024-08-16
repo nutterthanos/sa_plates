@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "BPS919",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "QACoYYVb/V6OY7mFWZfjB98N04HAVX0aCGUC1/55u1E=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "15020/",
+        "manufacturerGvmGcm": "15020/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]

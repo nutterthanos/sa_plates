@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS326",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "P2VYWaO7W3zLnNrbhhrmRZL2vPJLxuOx+O7p7+R+cjI=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4650/",
+        "manufacturerGvmGcm": "4650/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

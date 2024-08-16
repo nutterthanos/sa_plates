@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "BPS681",
+        "make": "CATERPILLAR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "59VhxKBuMNh01Jtc5Ot/R7+D+Xx1IIcU5qgbWGu3GgQ=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "15413/",
+        "manufacturerGvmGcm": "15413/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "expiry": "2026-02-13T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

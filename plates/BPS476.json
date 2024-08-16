@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "BPS476",
+        "make": "HONDA",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "XMyG2UG6B4qXYw0Z7QKVXEh/rxVv+D10VvwvM+cz75Q=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

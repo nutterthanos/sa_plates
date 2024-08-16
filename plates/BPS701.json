@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS701",
+        "make": "JCB",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "+3ql3G69mk1xNn1VJFpEG/paB4WCkq3OzzolJ8xm8Dc=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "8200/",
+        "manufacturerGvmGcm": "8200/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

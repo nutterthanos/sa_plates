@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS818",
+        "make": "VOLVO",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "ziD0WeS08c3GXYTnYDZdPVQSMZXJgRJzMy+f8OE13DM=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "12500/",
+        "manufacturerGvmGcm": "12500/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

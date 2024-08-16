@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "BPS596",
+        "make": "NEW HOLLAND",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "+ZAljaVqmdSQ2FMktMegL199RsmBMdfFuGUJEd0BqAI=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "11245/11245",
+        "manufacturerGvmGcm": "11245/11245",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "ERV EMERGENCY RESPONSE VEHICLE",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

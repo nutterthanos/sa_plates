@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS541",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "np4MTdOH9Cq/1fkLh0Oe7mMSsrRZ7AgmEMnryUv0HFI=",
+        "registeredGvmGcm": "2500/",
+        "manufacturerGvmGcm": "2500/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-11-11T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

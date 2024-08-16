@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "BPS757",
+        "make": "PACIFIC ACE",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "gVBPnt6g+/ks2iwl+BodtYzCwJXHcUt4fTIve7uhsNo=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "8121/",
+        "manufacturerGvmGcm": "8121/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS543",
+        "make": "JOHN DEERE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "3nv8Sjcs8L3hezHss8yk+b6JmvuJQgLC7X5REgddZQo=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "12780/",
+        "manufacturerGvmGcm": "12780/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "CTBA CONDITIONS TO BE ASSESSED"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "CTBA CONDITIONS TO BE ASSESSED"
+        ]
+    }
+]

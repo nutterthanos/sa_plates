@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS724",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "bb/TFoOT+t3zxvZ4wT4MY10Trl2AT8ZDGMhlvd7m17M=",
+        "registeredGvmGcm": "2640/4140",
+        "manufacturerGvmGcm": "2640/4140",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-01-31T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

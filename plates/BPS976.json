@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS976",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "BROWN",
+        "vehicleHash": "ttt0VLrXRq4Tp0Cja/9vAAIi/HxnMj6/G+H4ortbglc=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9700/",
+        "manufacturerGvmGcm": "9700/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

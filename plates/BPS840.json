@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS840",
+        "make": "SAME",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "RED",
+        "vehicleHash": "MvPxA8Ks0k4M49aclmy7THBL+NHJ0HyGQf5ZC/Jw73o=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5000/",
+        "manufacturerGvmGcm": "5000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

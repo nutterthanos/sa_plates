@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BPS597",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "yM766HM1VJgK6bIP6FID/4vjWQWCU2slfv1AyXz2FAM=",
+        "registeredGvmGcm": "3953/",
+        "manufacturerGvmGcm": "3953/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

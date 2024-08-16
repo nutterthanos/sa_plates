@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "BPS301",
+        "make": "NOT LISTED",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "m9vB5zkqzc0LKn9xJbug2P4TxuEFoiPppDh5ZhBUreM=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "BPS570",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "9lsnSrSHw8CcDOGlNoBmiT9sB8M1HLmg5PnJLhwjhhA=",
+        "registeredGvmGcm": "2000/",
+        "manufacturerGvmGcm": "2000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

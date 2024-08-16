@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS982",
+        "make": "DAEWOO",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "LInH3GFQ+rwEUihNlwHseayT3bAttlSsL0Gmn7iHV3Q=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5300/",
+        "manufacturerGvmGcm": "5300/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS800",
+        "make": "VOLVO",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "yXVvqVom5gyVx+zeMFyFDqnh9RuiCZoWPjB5BrfuBL4=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "12500/12500",
+        "manufacturerGvmGcm": "12500/12500",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

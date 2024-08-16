@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS822",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "G+d+CO5zsZF1+Fs3b//Ptw+yedt7ySNPbt1DyW7u4v4=",
+        "registeredGvmGcm": "4050/6550",
+        "manufacturerGvmGcm": "4050/6550",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-01-29T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

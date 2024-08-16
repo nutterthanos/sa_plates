@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "BPS651",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "9kVD3SYBhEsqPwkHwSKUsVM/D3+F39cae8yva+0OLGE=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4697/4697",
+        "manufacturerGvmGcm": "4697/4697",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-03-04T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

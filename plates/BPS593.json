@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "BPS593",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "wyULvBk6R6weoTxq0Wb7rfa74a0nCJNocyLc8ev5fk0=",
+        "registeredGvmGcm": "3396/",
+        "manufacturerGvmGcm": "3396/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2024-11-30T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "BPS465",
+        "make": "NOT LISTED",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "S5SNl9iVWLUcUDPHJasA8qYCXqRoDFNH8jBtqXx3r2Q=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "6000/6000",
+        "manufacturerGvmGcm": "6000/6000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

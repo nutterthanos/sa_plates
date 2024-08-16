@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "BPS373",
+        "make": "KAWASAKI",
+        "bodyType": "QUAD CYCLE",
+        "primaryColour": "RED",
+        "vehicleHash": "NjlGbb7wxQ7962Pe6b1OxpIi0w3UEXyHy2gzz1O16pI=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

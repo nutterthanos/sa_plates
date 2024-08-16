@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "BPS559",
+        "make": "KUBOTA",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "9d8W40YM3/uBkytXPDp1fs5YOU7eS8rEQvqH3ga9uck=",
+        "registeredGvmGcm": "3300/3300",
+        "manufacturerGvmGcm": "3300/3300",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2027-01-31T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

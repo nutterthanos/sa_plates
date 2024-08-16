@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "BPS574",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "gNgxXMw8jWavde463EefQER7zsCDkblwll5tlSFocK8=",
+        "registeredGvmGcm": "4000/",
+        "manufacturerGvmGcm": "4000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

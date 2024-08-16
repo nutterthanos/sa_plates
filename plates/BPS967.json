@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "BPS967",
+        "make": "CASE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "yD7gGV3u0x+62aMfTP8AsU8u36fRQFwWpLssVKDKUB0=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "13714/13714",
+        "manufacturerGvmGcm": "13714/13714",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-11-24T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BPS436",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "jc5qwUC+M8BhhN3Ol8Allg+KvDnWcHnocWHaCoe33Nk=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9090/",
+        "manufacturerGvmGcm": "9090/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

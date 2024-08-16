@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS323",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "1A6VmhfYyYahpzr3u37DladiLBkzu5OCwvzSA7KxV1o=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4600/7300",
+        "manufacturerGvmGcm": "4600/7300",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

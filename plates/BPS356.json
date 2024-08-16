@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "BPS356",
+        "make": "JOHN DEERE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "w5yS+JVI6VVqpTN1C3gZtzT0jeekz8BpnhECqpJX7/Q=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

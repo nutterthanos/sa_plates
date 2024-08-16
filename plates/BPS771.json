@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "BPS771",
+        "make": "CATERPILLAR",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "TMapY/2HLrEfls3Sk4wQfa/3sjVx+Ca2TTQECC9AWeM=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "28758/28758",
+        "manufacturerGvmGcm": "28758/28758",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5A ROAD RESTRICTION GAZETTE",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5A ROAD RESTRICTION GAZETTE",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS829",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "G3ijLqes7QaPcD8IyrAG2TlOiwK5on4Z+Z2TqkV/pGY=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4900/4900",
+        "manufacturerGvmGcm": "4900/4900",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

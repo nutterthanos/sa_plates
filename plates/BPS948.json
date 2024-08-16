@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS948",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "WDbft0GNEtPaSONzYJ67C0Nd1NhmX4QL1F2HtlP7iB0=",
+        "registeredGvmGcm": "4050/4050",
+        "manufacturerGvmGcm": "4050/4050",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-12-21T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

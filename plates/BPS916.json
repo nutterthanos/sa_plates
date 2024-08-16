@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS916",
+        "make": "CATERPILLAR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "giO2PIJ+aBYHVQ6QmL73ixP4rhpGH0RbM83vCj/O008=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "8000/",
+        "manufacturerGvmGcm": "8000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

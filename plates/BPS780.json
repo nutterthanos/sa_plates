@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "BPS780",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "nMa8Fp6PQCuEEc7xqg7ECTnrBy23wxvgawojse9pbSg=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "12000/",
+        "manufacturerGvmGcm": "12000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5A ROAD RESTRICTION GAZETTE"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5A ROAD RESTRICTION GAZETTE"
+        ]
+    }
+]

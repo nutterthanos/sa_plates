@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS711",
+        "make": "JOHN DEERE",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "fyuyA5xZqLApk39j6YjdGt2R+UUN2QgfNPJxXI9U0i0=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7780/",
+        "manufacturerGvmGcm": "7780/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "CTBA CONDITIONS TO BE ASSESSED"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "CTBA CONDITIONS TO BE ASSESSED"
+        ]
+    }
+]

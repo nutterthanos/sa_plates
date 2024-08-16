@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "BPS637",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "EO1siZ1Ishrm5is9aiMn5eBq5Qazjjs+kE//ixlhqn4=",
+        "registeredGvmGcm": "3970/3970",
+        "manufacturerGvmGcm": "3970/3970",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-04-17T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

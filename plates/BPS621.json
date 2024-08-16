@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "BPS621",
+        "make": "NEW HOLLAND",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "7g+MUlp+ECb56xOo036X0fssdJcHU0B8UzKMBW28MT4=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4900/4900",
+        "manufacturerGvmGcm": "4900/4900",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO26 EXEMPTION FOR LHD AGRICULTURAL MACHINES",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-24T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO26 EXEMPTION FOR LHD AGRICULTURAL MACHINES",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

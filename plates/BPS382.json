@@ -1,0 +1,30 @@
+[
+    {
+        "plate": "BPS382",
+        "make": "PELLENC",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "Lk7BGd3xxMKGNMZR0DwyifMEL6HQ1oQPf508i9PEBCE=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "8360/8360",
+        "manufacturerGvmGcm": "8360/8360",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "GO28 AGRICULTURAL CODE OF PRACTICE",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "expiry": "2025-06-03T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "GO28 AGRICULTURAL CODE OF PRACTICE",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

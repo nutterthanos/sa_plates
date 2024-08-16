@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BPS489",
+        "make": "CATERPILLAR",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "RED",
+        "vehicleHash": "/TqW+ayZ8X/7un2Z0+Km14C8cno0n7XH/Kc3MRgu430=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "18000/",
+        "manufacturerGvmGcm": "18000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

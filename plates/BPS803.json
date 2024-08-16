@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "BPS803",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "G22mHz0FNKpwlCsPsp0eOQmCM0+4HZW91afF5a6e0Es=",
+        "registeredGvmGcm": "3300/",
+        "manufacturerGvmGcm": "3300/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-11-12T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "BPS929",
+        "make": "KORVAN",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "nEuoUbk0p1wfGPNPKwf2italuDtORyAl2Vo/n3kCheo=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "4910/4910",
+        "manufacturerGvmGcm": "4910/4910",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]
