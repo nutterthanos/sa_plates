@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BSV060",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "XNWNjaOonJrjIIykGoS9UNjmG9ayMy4t/It2WBKXTtU=",
+        "registeredGvmGcm": "3430/",
+        "manufacturerGvmGcm": "3430/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-23T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

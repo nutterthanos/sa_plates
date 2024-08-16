@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "BSV090",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "bJZJw1qSbt9AtFibcA+y5TCLHaW4RrJGFO2nHgrIQLk=",
+        "registeredGvmGcm": "2375/",
+        "manufacturerGvmGcm": "2375/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

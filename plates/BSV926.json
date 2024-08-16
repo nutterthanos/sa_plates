@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "BSV926",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "myG5cL4tp9z7p7I3auAS2kt+G7P45W5zkfqVJ5HVEyk=",
+        "registeredGvmGcm": "4006/",
+        "manufacturerGvmGcm": "4006/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-01-02T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
