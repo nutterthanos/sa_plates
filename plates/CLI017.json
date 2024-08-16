@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "CLI017",
+        "make": "CHRYSLER",
+        "bodyType": "TOURER",
+        "primaryColour": "BLUE",
+        "vehicleHash": "KHg+X1niQNig+8TF/22IRfAabXkDXQDf0WbxwYKMgAE=",
+        "ctpInsurer": "ALLIANZ"
+    },
+    {
+        "plate": "CLI017",
+        "make": "CADILLAC",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLACK",
+        "vehicleHash": "gf5LWvoy5XJ4OrhRUeDxm8C/v4S7h3OGN3lt0B977Zc=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    }
+]
