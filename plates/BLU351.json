@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "BLU351",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "X4EmThNcpjsV9hVOKyev45WPzrtZ9WKCthdXcz5ArDI=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-11-06T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "BLU351",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "VjoFLZXnFD13e7exX/uQv1jPIiJ0grbDKbHcIk+ax8Q=",
+        "ctpInsurer": "MAC"
+    }
+]
