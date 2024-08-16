@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "CAM069",
+        "make": "CHEVROLET",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "VQ5TcHzE4YPZY8XW86GQrIZOQJlMjYHVshVe6A9Kno8=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3K LEFT HAND DRIVE + EXTENSION"
+        },
+        "expiry": "2024-11-23T00:00:00.000+10:30",
+        "conditions": [
+            "OL3K LEFT HAND DRIVE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "CAM069",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "GREEN",
+        "vehicleHash": "CdmqPH+tIjAYRLHjrSvAiWqGDU30SPuKPRz1nY+AVcA=",
+        "ctpInsurer": "MAC"
+    }
+]

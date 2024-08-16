@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "CAM074",
+        "make": "CHEVROLET",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "Vjmb32d2ftblVYoSsINJ+knbZFaogKFplWerVVkofSM=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2024-09-29T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "CAM074",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "nP1ERK+a8bV+/KxxnrtnXabncfJ1zIRk6EEOeyIBJyU=",
+        "ctpInsurer": "MAC"
+    }
+]
