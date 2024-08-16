@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "BLS002",
+        "make": "ISUZU",
+        "bodyType": "TRUCK",
+        "primaryColour": "WHITE",
+        "vehicleHash": "TxPu8U8wl9Pgd4Ktmb51h+Gp/KtHg2rQ75rfam1vI6M=",
+        "registeredConfiguration": "2R4 - 4 axle truck GVM > 20000kg",
+        "registeredGvmGcm": "30000/35000",
+        "manufacturerGvmGcm": "30000/35000",
+        "ctpInsurer": "NRMA",
+        "expiry": "2024-11-08T00:00:00.000+10:30"
+    },
+    {
+        "plate": "BLS002",
+        "make": "FORD",
+        "bodyType": "UTILITY",
+        "primaryColour": "BLACK",
+        "vehicleHash": "G4SRzYJgmvs5bEPQgVFzsSdxKFY+9e0BBPkReTI87qg=",
+        "ctpInsurer": "MAC"
+    }
+]
