@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "CCT555",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "AhlToUjMX1EiUdyYq/Li2EA/UAIZa6MI/2YM5CVWWiE=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "27800/97000",
+        "manufacturerGvmGcm": "27800/97000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2025-04-22T00:00:00.000+09:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]

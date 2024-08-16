@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "CCT006",
+        "make": "D A F",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "R99NOn75Cw1bsR9Eltjj+i9LLW+S8VrEB4m1+x6kTTI=",
+        "registeredConfiguration": "TSV4 - 4 axle SPV - Truck",
+        "registeredGvmGcm": "30000/50000",
+        "manufacturerGvmGcm": "30000/50000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2024-12-03T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

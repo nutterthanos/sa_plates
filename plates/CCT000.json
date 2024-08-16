@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "CCT000",
+        "make": "ISUZU",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "WwK9oC6PAjuTBLGmaCiC6cVeR1dkKVDeePu4V/47kag=",
+        "registeredConfiguration": "SP2 - 2 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "16000/38000",
+        "manufacturerGvmGcm": "16000/38000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "CCT000",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "VkE2heMbLrb+VBw83uqhS3BAT+Ad8IybZWiiuy9gc10=",
+        "ctpInsurer": "MAC"
+    }
+]

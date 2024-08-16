@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "CCT004",
+        "make": "VOLVO",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "RA/VQWUpZzqau6zjqd5Pf28HxYVTNPf5Srpk9ybkI/E=",
+        "registeredConfiguration": "SP5 - 5 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "40000/70000",
+        "manufacturerGvmGcm": "40000/70000",
+        "ctpInsurer": "AAMI",
+        "expiry": "2024-11-12T00:00:00.000+10:30"
+    },
+    {
+        "plate": "CCT004",
+        "make": "FREIGHTLINER",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "LgoInb68w4HeWfQfDPPpaDw1YjmLfFM6s8YM4vknwDs=",
+        "registeredConfiguration": "SP3 - 3 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "24000/50000",
+        "manufacturerGvmGcm": "24000/50000",
+        "ctpInsurer": "QBE"
+    }
+]
