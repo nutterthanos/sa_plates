@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CSP313",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "ttihg+QMCK5sygHLNI7gcYwj2ZMOeR6/T6hnAMa8Q6A=",
+        "registeredGvmGcm": "3367/",
+        "manufacturerGvmGcm": "3367/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-07-10T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "CSP751",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "tUV4mJkWSE6rxPaaYsTnVE0ios3GlEYKIZSQYKgU7wk=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6000/",
+        "manufacturerGvmGcm": "6000/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "SP20 20 KM/H MAXIMUM"
+        },
+        "expiry": "2024-12-23T00:00:00.000+10:30",
+        "conditions": [
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

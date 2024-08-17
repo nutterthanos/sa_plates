@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "CSP166",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "iz5n6Kf3Uu3Q1XauY/3QJQykY8vRWG/16zV/SIPhwYw=",
+        "registeredGvmGcm": "2350/",
+        "manufacturerGvmGcm": "2350/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

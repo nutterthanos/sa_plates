@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "CSP344",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "y2gfCGpySAXwzk9EsEEDiLDi4nAHPTPE8+HLAwx74J0=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5500/5500",
+        "manufacturerGvmGcm": "5500/5500",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "SP20 20 KM/H MAXIMUM"
+        },
+        "expiry": "2026-08-09T00:00:00.000+09:30",
+        "conditions": [
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

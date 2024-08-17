@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "CSP321",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "9T3fsMywG/S8x2DBLjlrY8qznMJaS50CZWWLgMykxXg=",
+        "registeredGvmGcm": "2261/",
+        "manufacturerGvmGcm": "2261/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]
