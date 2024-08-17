@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CVP002",
+        "make": "LINMAC",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "RED",
+        "vehicleHash": "3GqffaI7DOswnfdvWHbYhRHZo1/uAHLuEdD0pYmY+7I=",
+        "registeredGvmGcm": "2840/",
+        "manufacturerGvmGcm": "2840/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-09-01T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

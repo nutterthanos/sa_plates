@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CVP112",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "xRW9WGpgsB7ygb6nYf5VB/Qqzd8ukwp9iVeKaW+hhSA=",
+        "registeredGvmGcm": "750/750",
+        "manufacturerGvmGcm": "750/750",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-09-01T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CVP628",
+        "make": "CLARK",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "4E+pV5WRl0xaUBbGwornkqW+KxA1cVpnI8S+7WKuzm8=",
+        "registeredGvmGcm": "4150/4150",
+        "manufacturerGvmGcm": "4150/4150",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-31T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

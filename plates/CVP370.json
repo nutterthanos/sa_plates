@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CVP370",
+        "make": "DEUTZ",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "jph/8tJsba2ykx+g7ti5ifadTE2ACY84/4fYlr3hgko=",
+        "registeredGvmGcm": "3100/3100",
+        "manufacturerGvmGcm": "3100/3100",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-09-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

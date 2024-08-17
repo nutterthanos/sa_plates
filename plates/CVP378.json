@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CVP378",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "0m6TRDbef1dHZC87Go8RQKLtQERubJ/gcFY8lU10ZdU=",
+        "registeredGvmGcm": "3550/3550",
+        "manufacturerGvmGcm": "3550/3550",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

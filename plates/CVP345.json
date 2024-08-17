@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "CVP345",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "rUPz6PtGD8QGekTPwLtkR2OERBt2PGrfcGaip6N9fFk=",
+        "registeredGvmGcm": "4390/4390",
+        "manufacturerGvmGcm": "4390/4390",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-05-10T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]
