@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVP086",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "3pDPFFJkQl8oLvUHSZEgt5fe/9ZTHo0tOGyETquO4vY=",
+        "registeredGvmGcm": "3900/3900",
+        "manufacturerGvmGcm": "3900/3900",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-21T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "DVP087",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "bVcs+TnYwBVHRTqXkYg9K2rGLM0YtOoeHxev+e0+Jkg=",
+        "registeredGvmGcm": "3900/3900",
+        "manufacturerGvmGcm": "3900/3900",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

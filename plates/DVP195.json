@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVP195",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "qUHGEiU4in38ZylI4/zDOAqEZeS1UnFwTWie+uHSuyU=",
+        "registeredConfiguration": "PSV6 - 6 axle SPV - Plant",
+        "registeredGvmGcm": "34800/34800",
+        "manufacturerGvmGcm": "34800/34800",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

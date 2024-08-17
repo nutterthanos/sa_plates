@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVP705",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "SILVER",
+        "vehicleHash": "KMueeWkjlQL5Z0OAhO7XGAHEh7/hi1mlu3V0b3rFcDg=",
+        "registeredGvmGcm": "3925/",
+        "manufacturerGvmGcm": "3925/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-20T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

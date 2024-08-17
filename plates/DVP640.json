@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVP640",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "M6oa+q8OhXkELjnylUpMnW9sbOR9jC2P45wq5++W+AI=",
+        "registeredGvmGcm": "1316/1316",
+        "manufacturerGvmGcm": "1316/1316",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-04-19T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

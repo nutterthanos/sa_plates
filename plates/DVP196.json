@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "DVP196",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "FCRZxAeSVRuTQIw1EDHTp2hdq2PjcE7GMZOpGUiM7nU=",
+        "registeredConfiguration": "PSV6 - 6 axle SPV - Plant",
+        "registeredGvmGcm": "19700/19700",
+        "manufacturerGvmGcm": "19700/19700",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2024-11-24T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

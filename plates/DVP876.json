@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVP876",
+        "make": "JOHN DEERE",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "9PHPu/kmnbcIux7OvghIbr4UEM+RU0G5xGQMFnGjVkY=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5010/5010",
+        "manufacturerGvmGcm": "5010/5010",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

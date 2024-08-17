@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "DVP742",
+        "make": "BOMAG",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "RzJQn+gxcLrzvJyPxs0n1lctV8/HoMyURPOcNAFL4Aw=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "11000/11000",
+        "manufacturerGvmGcm": "11000/11000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "LO5 ROAD RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-23T00:00:00.000+10:30",
+        "conditions": [
+            "LO5 ROAD RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

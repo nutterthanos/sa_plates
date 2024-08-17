@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "DVP212",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "NL0dHMPGQqetToXDHwDpU2VRoX1xwdbRLfb9eNGKYWI=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "62358/62358",
+        "manufacturerGvmGcm": "62358/62358",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": "LO5 ROAD RESTRICTION"
+        },
+        "expiry": "2025-02-09T00:00:00.000+10:30",
+        "conditions": [
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "DVP311",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "Ky9YyGOfbI1Pzr9u3iejkAonqlE2eFdksa2bR5dbjEg=",
+        "registeredGvmGcm": "2408/2408",
+        "manufacturerGvmGcm": "2408/2408",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

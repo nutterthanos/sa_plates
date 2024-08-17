@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVP502",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "sPjdGdqntoLg5HEZewMvJy9qDeWc/9OaXGRXXb5W6ow=",
+        "registeredGvmGcm": "4190/4190",
+        "manufacturerGvmGcm": "4190/4190",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-01-18T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "DVP751",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "vbtDw12aH5qLJgBqA8FcbOx0EbAx79oMHOIoqeSrBUE=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4700/4700",
+        "manufacturerGvmGcm": "4700/4700",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+            ]
+        },
+        "expiry": "2026-02-03T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+        ]
+    }
+]

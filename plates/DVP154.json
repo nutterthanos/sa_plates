@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVP154",
+        "make": "NEW HOLLAND",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "5z9hDjgGtMPhoE/GbUZCUcV2giytSzoxryCRNoVVuh4=",
+        "registeredGvmGcm": "3400/3400",
+        "manufacturerGvmGcm": "3400/3400",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-11-15T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

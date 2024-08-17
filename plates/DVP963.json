@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "DVP963",
+        "make": "KOBELCO",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "6p9inFbku0cFKkRVrfBYceDgZX2itGcqazqCWiLn1dA=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "11535/",
+        "manufacturerGvmGcm": "11535/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2024-11-02T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

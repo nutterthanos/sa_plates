@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVP300",
+        "make": "DAEDONG",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "5uWPdTl3pr8cODwwfRvRt51TJvC2Q5DpeKekeNc3gqQ=",
+        "registeredGvmGcm": "3250/",
+        "manufacturerGvmGcm": "3250/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-21T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

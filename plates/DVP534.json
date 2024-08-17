@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVP534",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "lau+eVdo3T49913pFsTVh8YtRp8kzSjw42wcNCnirVo=",
+        "registeredGvmGcm": "3024/",
+        "manufacturerGvmGcm": "3024/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-02-08T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

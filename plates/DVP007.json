@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVP007",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "SILVER",
+        "vehicleHash": "4gumgM/GBvkUHAq99Sv6GgmyI3VUfFu7YTdu2qH1L80=",
+        "registeredGvmGcm": "4225/",
+        "manufacturerGvmGcm": "4225/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-03-15T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

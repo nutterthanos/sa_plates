@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVP040",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "/TPx16C3rAF3rieapKsHfJ5trrbHedaZ+nTmjDxgJzo=",
+        "registeredGvmGcm": "4490/4490",
+        "manufacturerGvmGcm": "4490/4490",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-03-03T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

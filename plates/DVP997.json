@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVP997",
+        "make": "JOHN DEERE",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "0qq+jqeQWzLF1bmIrjtbzmApI0A3nx5EP3vRIKGsm80=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "LO3 ROUTE RESTRICTION"
+            ]
+        },
+        "expiry": "2024-10-31T00:00:00.000+10:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "LO3 ROUTE RESTRICTION"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "DVP080",
+        "make": "FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREY",
+        "vehicleHash": "hLtUxPPTwbBSpbohyNoB5KS8VixC5uIf/fAJ/VVS+6Y=",
+        "registeredGvmGcm": "1500/1500",
+        "manufacturerGvmGcm": "1500/1500",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-05-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

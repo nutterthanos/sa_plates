@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVP704",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "7cHlm6JpPUXJVIhFod7f+rWiOavKqU4dgRCkF+TGL1E=",
+        "registeredGvmGcm": "2825/",
+        "manufacturerGvmGcm": "2825/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-20T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

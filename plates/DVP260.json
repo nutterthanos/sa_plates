@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVP260",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "hhPqtKqP9ukAOXmGL6sdPYZ96OuVjt/KKQxRgHPhOX0=",
+        "registeredGvmGcm": "3510/5710",
+        "manufacturerGvmGcm": "3510/5710",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2024-09-20T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

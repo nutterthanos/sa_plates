@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "DVP233",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "5QmwrgOoQ4Q7Hoc4TKYfqPmcCo4OHAVDqXn6DOLTuZg=",
+        "registeredGvmGcm": "4120/4120",
+        "manufacturerGvmGcm": "4120/4120",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2026-04-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

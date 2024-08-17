@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVP879",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "BPK7wtGZaI3YrT669zuu2eCHVAMMyWFnLUQIR/5TeY8=",
+        "registeredGvmGcm": "3700/3700",
+        "manufacturerGvmGcm": "3700/3700",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-09-01T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

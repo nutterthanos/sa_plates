@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVP186",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "EcYaq9szmOQ93MOd42mYgBh6sgW1PKVXdtG0Pl12VZM=",
+        "registeredGvmGcm": "3510/3510",
+        "manufacturerGvmGcm": "3510/3510",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-31T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
