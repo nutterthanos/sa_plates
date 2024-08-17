@@ -1,0 +1,35 @@
+[
+    {
+        "plate": "DHL000",
+        "make": "FUSO",
+        "bodyType": "TRUCK",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "TZncBGgn8V4v+oKPriAefT+yqAyKbmnMLY7WJZENr0c=",
+        "registeredConfiguration": "2R2 - 2 axle truck GVM > 12000kg",
+        "registeredGvmGcm": "13500/20000",
+        "manufacturerGvmGcm": "13500/20000",
+        "ctpInsurer": "AAMI",
+        "expiry": "2025-06-21T00:00:00.000+09:30"
+    },
+    {
+        "plate": "DHL000",
+        "make": "MITSUBISHI",
+        "bodyType": "TRUCK",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "MWRXCQJgSDL3q1Vs495E+TCtyVr532kZxtt2erOljTU=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "10400/20000",
+        "manufacturerGvmGcm": "10400/20000",
+        "ctpInsurer": "MAC"
+    },
+    {
+        "plate": "DHL000",
+        "make": "TOYOTA",
+        "bodyType": "TRUCK",
+        "primaryColour": "WHITE",
+        "vehicleHash": "t3ROP4eEs5Du7AMICJUOAoY0Vt1Alnznf172vbOm3+I=",
+        "registeredGvmGcm": "4400/5720",
+        "manufacturerGvmGcm": "4450/5720",
+        "ctpInsurer": "MAC"
+    }
+]
