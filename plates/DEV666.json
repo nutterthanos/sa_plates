@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "DEV666",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "pRF7xr+EUQMtwklg470aZXQTlPcKVEMcXIhh8U23LNI=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2026-08-31T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "DEV666",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "LmfCWL/LWY585ChvWFWjyLzZYB6+fHSrMkVbRDPSYrc=",
+        "ctpInsurer": "MAC"
+    }
+]
