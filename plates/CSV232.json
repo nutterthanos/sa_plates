@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CSV232",
+        "make": "CATERPILLAR",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "Mxr0KKtSlFbcr5vC+a5b6KbIevTBMGNamvRSWNNRQo4=",
+        "registeredConfiguration": "1SV5 - 5 axle SPV Under Limit",
+        "registeredGvmGcm": "10500/",
+        "manufacturerGvmGcm": "10500/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "CTBA CONDITIONS TO BE ASSESSED"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "CTBA CONDITIONS TO BE ASSESSED"
+        ]
+    }
+]

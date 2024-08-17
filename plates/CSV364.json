@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "CSV364",
+        "make": "LEYLAND",
+        "bodyType": "DRILLING RIG VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "Jo8ndeaS6lvi1nwtrTvRQK8K0ppoYJ23GIUw3tf6nA0=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "22000/22000",
+        "manufacturerGvmGcm": "22000/22000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2026-08-22T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

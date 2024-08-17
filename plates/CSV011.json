@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "CSV011",
+        "make": "NOT LISTED",
+        "bodyType": "NOT RECORDED-NON-COMM VEH",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "drPTS5tj9HzaYrRtqDi1opDkXMOYbQ9q/1vw1a8dDfc=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "CSV119",
+        "make": "FORDSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "OCcHNGm2djtIyjZSma7+K2qgUKrVQQHKgddPezlvGDk=",
+        "registeredGvmGcm": "3600/3600",
+        "manufacturerGvmGcm": "3600/3600",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

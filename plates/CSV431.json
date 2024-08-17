@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CSV431",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "no0NkZ7UgKykcfGMYWL/bEeymNTNyZKtnjQztkpH3wE=",
+        "registeredGvmGcm": "4060/",
+        "manufacturerGvmGcm": "4060/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-05T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

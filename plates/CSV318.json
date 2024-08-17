@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "CSV318",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "aiGI4sU27cWHoSifdZMch379Z9LqeRxz6l2Ibqgl5nU=",
+        "registeredGvmGcm": "3760/",
+        "manufacturerGvmGcm": "3760/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

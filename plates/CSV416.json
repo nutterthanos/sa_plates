@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CSV416",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "u5omaLvv/5q19euvQrqOPdOiVylcbvIewmDOKq9uZE8=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9440/",
+        "manufacturerGvmGcm": "9440/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

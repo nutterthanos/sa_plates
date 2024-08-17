@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "CSV324",
+        "make": "DITCHWITCH",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "BROWN",
+        "vehicleHash": "4CAfJyhdtX2KbDPvPerQJoel4v3iaR0eF/ofEyhzf/s=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4535/4535",
+        "manufacturerGvmGcm": "4535/4535",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

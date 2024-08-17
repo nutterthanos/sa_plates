@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "CSV112",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREY",
+        "vehicleHash": "GPtkqCTGBmiWJd7sE1Y1MlWTM07yl28EHfs8zVQve6Y=",
+        "registeredGvmGcm": "1592/3092",
+        "manufacturerGvmGcm": "1592/3092",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "CSV252",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "fANKv3X5DRJ0k/GgoeAR5CAMDUNfpeqLRddV46O4AN4=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO1 ROAD RESTRICTION",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO1 ROAD RESTRICTION",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

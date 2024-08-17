@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CSV161",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "ucB1tOnzP/8giGYBBv7ghBHPSjrkz8sVIZgDr96g7wg=",
+        "registeredGvmGcm": "2935/",
+        "manufacturerGvmGcm": "2935/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-10-01T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

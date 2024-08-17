@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CSV271",
+        "make": "CLARK",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "BLUE",
+        "vehicleHash": "EYzip3r2O//0X8GpYlKKwy6863pkkb10kfDfro38ACQ=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "10640/",
+        "manufacturerGvmGcm": "10640/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

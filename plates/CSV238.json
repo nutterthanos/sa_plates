@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CSV238",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "BLUE",
+        "vehicleHash": "Oba1GcNq0lDqDonqV7KCTJkmZyGV8s2D/mVwsyvAXto=",
+        "registeredGvmGcm": "2570/",
+        "manufacturerGvmGcm": "2570/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-11-20T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

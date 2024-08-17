@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "CSV200",
+        "make": "NOT LISTED",
+        "bodyType": "INDUSTRIAL TRAILER",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "2eCc4dkcKBPyt6mNz/fQ8sJ3c4bNj4VX6MjhOfStvpk=",
+        "registeredConfiguration": "TSV1 - 1 axle SPV - Truck",
+        "registeredGvmGcm": "6400/",
+        "manufacturerGvmGcm": "6400/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

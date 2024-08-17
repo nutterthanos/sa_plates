@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "CSV290",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "210h2SJ2ueAkWRQHqGGDdZrYy6E4utvGoekPB8eu3+s=",
+        "registeredGvmGcm": "2810/4310",
+        "manufacturerGvmGcm": "2810/4310",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-02-27T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

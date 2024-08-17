@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "CSV602",
+        "make": "LAMBORGHINI",
+        "bodyType": "TRACTOR",
+        "primaryColour": "WHITE",
+        "vehicleHash": "MLOY27YsOdF4Dkkgy6WP1AkaedR7vgXGyEYbICwFnps=",
+        "registeredGvmGcm": "3100/",
+        "manufacturerGvmGcm": "3100/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
