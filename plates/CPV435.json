@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "CPV435",
+        "make": "LAVERDA",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "BROWN",
+        "vehicleHash": "XcIKn3DPUKqOOm0+9pUD9UD6x/POvNemeyBHM5xnh4U=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "8915/",
+        "manufacturerGvmGcm": "8915/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CPV775",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "AnAVw5WXm2DyH0cTOLeGKJIPCKVJ6yhFNEGsW+fWjIw=",
+        "registeredGvmGcm": "4211/4211",
+        "manufacturerGvmGcm": "4211/4211",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-01-02T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

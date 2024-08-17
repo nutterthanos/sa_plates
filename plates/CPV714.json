@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CPV714",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "T0HqSVhkRHcFI44T01OOEksLp95tNbm4s9FRZuNLuEI=",
+        "registeredGvmGcm": "3500/5500",
+        "manufacturerGvmGcm": "3500/5500",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2024-12-23T00:00:00.000+10:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]
