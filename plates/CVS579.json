@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "CVS579",
+        "make": "KOMATSU",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "RPvlQokFa6jlhxVKb50BqFJrMbBTm+d1yDwRjUIUhVo=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "14950/14950",
+        "manufacturerGvmGcm": "14950/14950",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-07-09T00:00:00.000+09:30",
+        "conditions": [
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]
