@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "DBH002",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "HkOa9Kux8mnUtt7bdI5JEJDet+euukx4S/pHXi1NB+o=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "26500/90000",
+        "manufacturerGvmGcm": "26500/90000",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2024-08-23T00:00:00.000+09:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
