@@ -1,0 +1,36 @@
+[
+    {
+        "plate": "DES148",
+        "make": "VOLGREN",
+        "bodyType": "BUS",
+        "primaryColour": "WHITE",
+        "vehicleHash": "OZjkATjzrPHANO937FmtLTS5O3MvH7O1YPHJsKBIUj8=",
+        "registeredConfiguration": "2B2 - 2 axle bus GVM > 12000kg",
+        "registeredGvmGcm": "18000/",
+        "manufacturerGvmGcm": "18000/",
+        "ctpInsurer": "QBE",
+        "expiry": "2025-03-02T00:00:00.000+10:30"
+    },
+    {
+        "plate": "DES148",
+        "make": "DAEWOO",
+        "bodyType": "BUS",
+        "primaryColour": "BLUE",
+        "vehicleHash": "zHEBb7ZM9x18DLphaz19bwcdzyDVAMjmbYQroValhyo=",
+        "registeredConfiguration": "2B2 - 2 axle bus GVM > 12000kg",
+        "registeredGvmGcm": "17640/13540",
+        "manufacturerGvmGcm": "17640/13540",
+        "ctpInsurer": "NRMA"
+    },
+    {
+        "plate": "DES148",
+        "make": "SCANIA",
+        "bodyType": "BUS",
+        "primaryColour": "WHITE",
+        "vehicleHash": "cSzWOi6M8WPQ5S0EdknyyD+KyLpJdZNXyjvMWBlm+sk=",
+        "registeredConfiguration": "2B3 - 3 axle bus GVM > 4500kg",
+        "registeredGvmGcm": "24000/",
+        "manufacturerGvmGcm": "24000/",
+        "ctpInsurer": "NRMA"
+    }
+]
