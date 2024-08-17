@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "CUL904",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "o3CjhN0o7BEGfusNhUu9oS+GaHZ9iRDumqRZRQvB/+M=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "26500/90000",
+        "manufacturerGvmGcm": "26500/90000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2024-10-17T00:00:00.000+10:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
