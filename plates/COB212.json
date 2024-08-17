@@ -1,0 +1,21 @@
+[
+    {
+        "plate": "COB212",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "rr+zmSIPxsEKkc1P7PBSHGUPDmQwepP3Q4CbPLbwLJs=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "OL3G HISTORIC VEHICLE + EXTENSION",
+                "OL3 MEMBERSHIP OF CLUB"
+            ]
+        },
+        "expiry": "2025-02-01T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION",
+            "OL3 MEMBERSHIP OF CLUB"
+        ]
+    }
+]
