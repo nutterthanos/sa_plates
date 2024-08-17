@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "DPV321",
+        "make": "BEDFORD",
+        "bodyType": "TRUCK",
+        "primaryColour": "WHITE",
+        "vehicleHash": "dhhvQMzt4srJ6wACGNqwKeCfddJuN3DpXGPRBK/rx1Y=",
+        "registeredConfiguration": "2R2 - 2 axle truck GVM > 12000kg",
+        "registeredGvmGcm": "12500/15000",
+        "manufacturerGvmGcm": "12500/15000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]

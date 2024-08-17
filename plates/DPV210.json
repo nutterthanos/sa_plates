@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "DPV210",
+        "make": "CHEVROLET",
+        "bodyType": "TRUCK",
+        "primaryColour": "GREEN",
+        "vehicleHash": "bB3fgGR58MPVhw1l7E/6fMEDfjCgo7+wjwFwdjzMqH4=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "11900/15900",
+        "manufacturerGvmGcm": "11900/15900",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]

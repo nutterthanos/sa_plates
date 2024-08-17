@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DPV070",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "2ARYziKZ7zXdAG+l4+VcOpqsgNRDN2e9JCyHEHWTbCQ=",
+        "registeredGvmGcm": "4357/",
+        "manufacturerGvmGcm": "4357/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-01T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

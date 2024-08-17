@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "DPV822",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRUCK",
+        "primaryColour": "RED",
+        "vehicleHash": "sEDnGcCTvtV/VD7eftqnoopWmisV2E78c6t+uwlbUYw=",
+        "registeredConfiguration": "2R3 - 3 axle truck GVM > 16500kg",
+        "registeredGvmGcm": "18260/25400",
+        "manufacturerGvmGcm": "18260/25400",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "expiry": "2024-11-12T00:00:00.000+10:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]
