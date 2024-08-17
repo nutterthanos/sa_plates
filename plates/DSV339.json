@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "DSV339",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "SZ6kT3FMqveSM7CIsikM6fn4Fm1+FWd57bmCOIxVEmQ=",
+        "registeredGvmGcm": "2800/",
+        "manufacturerGvmGcm": "2800/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

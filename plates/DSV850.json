@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "DSV850",
+        "make": "HOMEMADE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GOLD",
+        "vehicleHash": "BqakzsolZOVnjGc5f8kIdyw9QixNpwMjlfpnvt09Gzs=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

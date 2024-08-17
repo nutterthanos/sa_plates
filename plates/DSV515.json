@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "DSV515",
+        "make": "CLARK",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "RED",
+        "vehicleHash": "0W06A32buosgfhYkrKf8dLqpqRfJXP7wQO6Kpg4/jmQ=",
+        "registeredGvmGcm": "3500/3500",
+        "manufacturerGvmGcm": "3500/3500",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-05-23T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

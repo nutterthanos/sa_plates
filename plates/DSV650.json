@@ -1,0 +1,32 @@
+[
+    {
+        "plate": "DSV650",
+        "make": "NEW HOLLAND",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "gBsewODuNkf0yevXE9tJaSJuVIh+Y0C2esHVxrxAi60=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "8000/8000",
+        "manufacturerGvmGcm": "8000/8000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+                "GO26 EXEMPTION FOR LHD AGRICULTURAL MACHINES",
+                "GO28 AGRICULTURAL CODE OF PRACTICE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2024-08-27T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+            "GO26 EXEMPTION FOR LHD AGRICULTURAL MACHINES",
+            "GO28 AGRICULTURAL CODE OF PRACTICE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

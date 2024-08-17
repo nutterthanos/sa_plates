@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "DSV441",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BROWN",
+        "vehicleHash": "Gv94RO8icrUdM+8NQ7A33MWVjO91W3ds4tV0qE34+m0=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6100/",
+        "manufacturerGvmGcm": "6100/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

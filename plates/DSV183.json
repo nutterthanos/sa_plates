@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DSV183",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "oJnj2C0MUcePpjMWMbPKpI627YgR5IX03ceT6jP15nY=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "8000/8000",
+        "manufacturerGvmGcm": "8000/8000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "DSV001",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BROWN",
+        "vehicleHash": "2BD34DnGHSea+fU9ZD2kkKr9g5pMNNEadydT2B2Y/r8=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "8465/8465",
+        "manufacturerGvmGcm": "8465/8465",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

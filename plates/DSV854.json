@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "DSV854",
+        "make": "CATERPILLAR",
+        "bodyType": "NOT RECORDED-NON-COMM VEH",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "kSQtbXbFdH8HqxsdjBwppA+yPk5at6WyZSv39qL2iIw=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "15800/15800",
+        "manufacturerGvmGcm": "15800/15800",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DSV218",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "XRZV8d/puCNZhf6qtXtrEbSo3ymn8TQx8b+LSzdQLZU=",
+        "registeredGvmGcm": "3557/",
+        "manufacturerGvmGcm": "3557/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-10-20T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

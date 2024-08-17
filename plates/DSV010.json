@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "DSV010",
+        "make": "DEUTZ",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREY",
+        "vehicleHash": "Uxt7mq29xsuL8S7dAMmtS+KHhIpSGg0HmZB3hGweHdU=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "12000/12000",
+        "manufacturerGvmGcm": "12000/12000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

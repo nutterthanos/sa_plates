@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "DSV641",
+        "make": "NOT LISTED",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "QJOZW3lZcRsHeD1xEmtMxwmSQvHjOt6SPSnqj2IXWbQ=",
+        "registeredConfiguration": "OSV4 - 4 axle SPV - Overmass",
+        "registeredGvmGcm": "33000/33000",
+        "manufacturerGvmGcm": "33000/33000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "DSV614",
+        "make": "NOT LISTED",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "xKiBhx1mW0oVmq7Qm/QjeZJoV1LnryZKUMg8FFgLc5c=",
+        "registeredConfiguration": "OSV2 - 2 axle SPV - Overmass",
+        "registeredGvmGcm": "24000/",
+        "manufacturerGvmGcm": "24000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5A ROAD RESTRICTION GAZETTE",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5A ROAD RESTRICTION GAZETTE",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

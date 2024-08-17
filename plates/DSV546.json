@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DSV546",
+        "make": "KOMATSU",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "8y4JEMc2xwQy3ya+sZGFXsMcliVfW0aOae7INH+DyTo=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "82825/82825",
+        "manufacturerGvmGcm": "82825/82825",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

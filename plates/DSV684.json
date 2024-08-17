@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DSV684",
+        "make": "ZETOR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLACK",
+        "vehicleHash": "iWx0iVt6GoF96yqTjm3IfucqvwG22JtGHAYeSGXm0AU=",
+        "registeredGvmGcm": "3720/",
+        "manufacturerGvmGcm": "3720/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-11-26T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
