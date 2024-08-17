@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "DEN058",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "GREEN",
+        "vehicleHash": "BIByFkvCDR+WX2/v52ix6j89yUqDK6swA99LNpPFRNA=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "27400/130000",
+        "manufacturerGvmGcm": "27400/130000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2024-10-02T00:00:00.000+09:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
