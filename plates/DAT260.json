@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "DAT260",
+        "make": "DATSUN",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "Unr8vgAT3v89zuy5mqYrPCAaR5L+kbpRkAOGas1FI7E=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2024-09-25T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "DAT260",
+        "make": "DATSUN",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "/o0XLGyzKwbu287nq0agtfExMQGaNrhv0f6c7G86FHc=",
+        "ctpInsurer": "MAC"
+    }
+]
