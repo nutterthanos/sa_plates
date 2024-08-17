@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "DPS155",
+        "make": "FERRARI",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "sZiA8ybXt4BxydgpfmcJKX/kfUu5Cyip+IAVjxTYnoc=",
+        "registeredGvmGcm": "1975/",
+        "manufacturerGvmGcm": "1975/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-06-11T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

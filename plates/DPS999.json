@@ -1,0 +1,21 @@
+[
+    {
+        "plate": "DPS999",
+        "make": "HONDA",
+        "bodyType": "QUAD CYCLE",
+        "primaryColour": "RED",
+        "vehicleHash": "2F0TuyU0eNSoPXSI8W6Jl96ZTqxVHi3pja763fZPA08=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-08-01T00:00:00.000+09:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

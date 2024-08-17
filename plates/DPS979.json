@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DPS979",
+        "make": "CHAMBERLAIN",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "6+Dek9DK09Vn5b7LYNhdyF4x7IkU/7CStXbJz5Ik/9c=",
+        "registeredConfiguration": "TSV2 - 2 axle SPV - Truck",
+        "registeredGvmGcm": "10688/10688",
+        "manufacturerGvmGcm": "10688/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

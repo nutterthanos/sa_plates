@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DPS448",
+        "make": "MERCEDES BENZ",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "D3APi0hSNHe4lAe+JW9frKMT534gacSOQNgf3nfBNS8=",
+        "registeredConfiguration": "TSV2 - 2 axle SPV - Truck",
+        "registeredGvmGcm": "12500/18300",
+        "manufacturerGvmGcm": "12500/18300",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "CTBA CONDITIONS TO BE ASSESSED"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "CTBA CONDITIONS TO BE ASSESSED"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DPS917",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "xX2aImkW4boB9MIiw7y1u1nOPWxK1t/Q6g6pFOvavW8=",
+        "registeredConfiguration": "PSV6 - 6 axle SPV - Plant",
+        "registeredGvmGcm": "18000/18000",
+        "manufacturerGvmGcm": "18000/18000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

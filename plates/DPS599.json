@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DPS599",
+        "make": "CATERPILLAR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "LbQpIQApte5fFNp93J0vf+dVkvFApLnYRbH975z/5LM=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "12100/12100",
+        "manufacturerGvmGcm": "12100/12100",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

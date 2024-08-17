@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "DPS829",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "TszyLf5UwGO2EazPD7UQZXJQee/ziuDvbNVb7uvdmtA=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5589/5589",
+        "manufacturerGvmGcm": "5589/5589",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+            ]
+        },
+        "expiry": "2025-03-31T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+        ]
+    }
+]

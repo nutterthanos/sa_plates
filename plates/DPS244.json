@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DPS244",
+        "make": "KATO",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "SILVER",
+        "vehicleHash": "bhF6GLGEgYAQX4rcjNbegOOq1ERkAUU1MQdAIkMKbho=",
+        "registeredConfiguration": "OSV2 - 2 axle SPV - Overmass",
+        "registeredGvmGcm": "12875/12875",
+        "manufacturerGvmGcm": "12875/12875",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DPS138",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "vL8LQVr6X1MFRaTrHrxRIlJRn0WscRs9F0UiDFewfdw=",
+        "registeredGvmGcm": "2750/",
+        "manufacturerGvmGcm": "2750/",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-11-03T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "DPS418",
+        "make": "HOMEMADE",
+        "bodyType": "LAND IMPLEMENT TRAILER",
+        "primaryColour": "GREEN",
+        "vehicleHash": "D4FBI08gTvNcnOAegUimiU0bCxbl36PqSZg7Oa2WIk0=",
+        "registeredConfiguration": "PSV1 - 1 axle SPV - Plant",
+        "registeredGvmGcm": "7000/",
+        "manufacturerGvmGcm": "7000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

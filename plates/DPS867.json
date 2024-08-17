@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DPS867",
+        "make": "DEUTZ",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "u1pJ8EBzZgfH36H0dbieV3XcXg1WRkwaFOm+ecDD4J4=",
+        "registeredGvmGcm": "3100/",
+        "manufacturerGvmGcm": "3100/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-13T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

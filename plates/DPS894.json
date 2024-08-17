@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DPS894",
+        "make": "KUBOTA",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "Pn0rFYrYK+XMYJyWqaN8/4qx1xhvktl11QNK7OwhW/M=",
+        "registeredGvmGcm": "2180/",
+        "manufacturerGvmGcm": "2180/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-03-12T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

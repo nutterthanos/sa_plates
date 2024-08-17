@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "DPS323",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "lLbPOi0x4ppYiyWrgSHd33enBwepW69QA4NaWug7uak=",
+        "registeredGvmGcm": "3950/3950",
+        "manufacturerGvmGcm": "3950/3950",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2024-09-09T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

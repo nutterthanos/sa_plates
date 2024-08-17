@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "DPS115",
+        "make": "CASE",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "y/l2TH8nFblLN1rdDRZGk0T9oue427lpjZfzkezcOg0=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6000/6000",
+        "manufacturerGvmGcm": "6000/6000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SP40 40 KM/H MAXIMUM"
+        },
+        "expiry": "2025-07-17T00:00:00.000+09:30",
+        "conditions": [
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

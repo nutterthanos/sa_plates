@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "DPS533",
+        "make": "INGERSOLL RAND",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "CREAM",
+        "vehicleHash": "P0yQmMZConY7s3KCls2IX0JESBlInKAAya4PNEMnTpI=",
+        "registeredGvmGcm": "3750/",
+        "manufacturerGvmGcm": "3750/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "LO5B ROAD RESTRICTION - WORK SITES",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "LO5B ROAD RESTRICTION - WORK SITES",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

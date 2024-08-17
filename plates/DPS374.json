@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DPS374",
+        "make": "KUBOTA",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "6g6S9SR11iBb7hXp6Qb3YgWS2nUl1ffP222ZcAy0UF8=",
+        "registeredGvmGcm": "2330/2330",
+        "manufacturerGvmGcm": "2330/2330",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-01-10T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

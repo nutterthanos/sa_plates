@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "DPS444",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "xz+hQebS7iz8nEsxxwJ39P+BafiR61/D0EuHcz+NtJ0=",
+        "registeredGvmGcm": "3860/3860",
+        "manufacturerGvmGcm": "3860/3860",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-06-10T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

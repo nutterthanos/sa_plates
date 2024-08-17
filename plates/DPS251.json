@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "DPS251",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "F6omymMtT6jy38kO2K7Xedudg6RaonhYK8ieE80WY40=",
+        "registeredGvmGcm": "400/",
+        "manufacturerGvmGcm": "400/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

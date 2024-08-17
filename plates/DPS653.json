@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DPS653",
+        "make": "CLARK",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "pN6QD9L5eAIiAQDJ0sV5S32h7Eq3ZF6cGgduKzsKMOw=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7300/",
+        "manufacturerGvmGcm": "7300/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
