@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CPS464",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "6M5+T4Yr9zsTFP4Djv2GVZO58V4b0Keq8o9Zbv8wiYo=",
+        "registeredGvmGcm": "3700/6200",
+        "manufacturerGvmGcm": "3700/6200",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-11-03T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

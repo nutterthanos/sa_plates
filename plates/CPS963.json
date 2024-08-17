@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CPS963",
+        "make": "LAWTON",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "MNek/5FtRL7Z2GxnVuUc+3Q5gCLH5npTPw21AmBpbBQ=",
+        "registeredGvmGcm": "4308/",
+        "manufacturerGvmGcm": "4308/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-03-13T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

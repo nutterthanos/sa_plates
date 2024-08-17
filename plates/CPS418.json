@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CPS418",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "KYSVXdTHIZSqpxsN4RvuBp0NIGd0J7ioaWxJHf9G1SA=",
+        "registeredGvmGcm": "3760/3760",
+        "manufacturerGvmGcm": "3760/3760",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-01-01T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

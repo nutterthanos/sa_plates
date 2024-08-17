@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CPS729",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "WBbdmwT1EdLmI5X9BBJNTjsxNI7eZGqPJURESIPPERk=",
+        "registeredGvmGcm": "4234/",
+        "manufacturerGvmGcm": "4234/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-01-31T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

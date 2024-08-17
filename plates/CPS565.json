@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CPS565",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "0rK4+buVKCYoD2bczb33FvRkiu5toacAXrQdeimi+sU=",
+        "registeredGvmGcm": "4269/4269",
+        "manufacturerGvmGcm": "4269/4269",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-10-24T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

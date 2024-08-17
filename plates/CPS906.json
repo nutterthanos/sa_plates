@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "CPS906",
+        "make": "NEW HOLLAND",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "bw7JHlN9Saz1K+TH+mfix/3xMsvYcWUJH8VEk00gKzU=",
+        "registeredGvmGcm": "2650/",
+        "manufacturerGvmGcm": "2650/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-02-08T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

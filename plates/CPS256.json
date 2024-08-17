@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "CPS256",
+        "make": "CATERPILLAR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "G3eCtpNVvO6jVdvusAttmLHFgAzOzV9DCwLrocgOxws=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "18598/18598",
+        "manufacturerGvmGcm": "18598/18598",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO27 AGRICULTURAL CODE OF PRACTICE"
+            ]
+        },
+        "expiry": "2025-09-22T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO27 AGRICULTURAL CODE OF PRACTICE"
+        ]
+    }
+]

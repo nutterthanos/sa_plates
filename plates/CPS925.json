@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "CPS925",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "nwBTe99p4i1pDfd90Vnqzh6Qcq9pgYvOwrWUMskczUg=",
+        "registeredGvmGcm": "3430/",
+        "manufacturerGvmGcm": "3430/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2026-04-23T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

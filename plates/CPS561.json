@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "CPS561",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "2oH/QkEWkJOFTYCPvWKyfEHZ1lIMI8CwZ93fH+s2dvA=",
+        "registeredGvmGcm": "2200/2200",
+        "manufacturerGvmGcm": "2200/2200",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-02-22T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]
