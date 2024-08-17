@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVS921",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "VNiu3c3EPognU3on8WDnJykIRQsK7B49yN5S/ftsAKs=",
+        "registeredGvmGcm": "3760/",
+        "manufacturerGvmGcm": "3760/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-02-24T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "DVS123",
+        "make": "JOHN DEERE",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "a6pxq0zUFs64DHveGVJKy1aZPqhcs0XOl/S8vt6YJA0=",
+        "registeredGvmGcm": "2811/",
+        "manufacturerGvmGcm": "2811/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

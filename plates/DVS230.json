@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVS230",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "oTDANCklJJcIKHRlEMmQR7niC84d3+yGMYzzpP+znAQ=",
+        "registeredGvmGcm": "3625/",
+        "manufacturerGvmGcm": "3625/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-03T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

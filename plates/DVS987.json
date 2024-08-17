@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVS987",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "qhgBHexML8FFYm9PMNjJ3puRb/xnMsbodfw1q74EI0A=",
+        "registeredGvmGcm": "3620/6120",
+        "manufacturerGvmGcm": "3620/6120",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2026-09-17T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

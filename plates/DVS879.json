@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVS879",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "C1YT0V+acxVbraokB4H9s/3nt6HO0SuBra8+EnPniSw=",
+        "registeredGvmGcm": "3396/3396",
+        "manufacturerGvmGcm": "3396/3396",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-09-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "DVS304",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "IDpOdVqVPUGxVgEr04+mdR1cXGigmLwewgLIL1mUO/o=",
+        "registeredGvmGcm": "4000/4000",
+        "manufacturerGvmGcm": "4000/4000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "CTBA CONDITIONS TO BE ASSESSED"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "CTBA CONDITIONS TO BE ASSESSED"
+        ]
+    }
+]

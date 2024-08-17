@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DVS772",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "oUfkKLDf97KSkt+cW4d6JwgPr54OmLbvDLcM3dKlPFo=",
+        "registeredGvmGcm": "3610/",
+        "manufacturerGvmGcm": "3610/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-09-03T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

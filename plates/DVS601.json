@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "DVS601",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "t8bVGzOHWa5dW6WLjd901s7WAQcj5zwM+PFsUDtdWdg=",
+        "registeredGvmGcm": "1520/",
+        "manufacturerGvmGcm": "1520/",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
