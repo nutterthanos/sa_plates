@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "DSP255",
+        "make": "NUFFIELD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "U32SkgFgRhJXStLrxW4wcGibhRzE4Pv8/jb/t9BywPU=",
+        "registeredGvmGcm": "2057/",
+        "manufacturerGvmGcm": "2057/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

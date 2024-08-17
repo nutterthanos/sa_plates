@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "DSP129",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "Ej4So8d2FPBwRDYSRKyQsmtpschm2GJ+Gtn0kQwaufc=",
+        "registeredGvmGcm": "3100/3100",
+        "manufacturerGvmGcm": "3100/3100",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

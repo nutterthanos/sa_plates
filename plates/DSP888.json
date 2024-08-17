@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "DSP888",
+        "make": "FORDSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "AfEb+yVQ0bD380SGepbR72Fqj3lWUjEXQuIv1xO+ipU=",
+        "registeredGvmGcm": "2800/2800",
+        "manufacturerGvmGcm": "2800/2800",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

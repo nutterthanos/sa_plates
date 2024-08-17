@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DSP851",
+        "make": "ZETOR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "NRXrpXQ0etTFfvijNZK1iVC9i4V9t3Ug3YuLpNDAECE=",
+        "registeredGvmGcm": "3995/",
+        "manufacturerGvmGcm": "3995/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-21T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

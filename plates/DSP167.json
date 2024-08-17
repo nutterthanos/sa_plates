@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DSP167",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "fPIlwI4hLnAXEjpeJenU4rgg0ZYhRuFM0lKXl+kiiRU=",
+        "registeredGvmGcm": "2359/3583",
+        "manufacturerGvmGcm": "2359/3583",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-21T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DSP111",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "2m7idqMxZmfgX+nNj8BUOJhun+4iD8xqlxHg//HyRb8=",
+        "registeredGvmGcm": "3055/3055",
+        "manufacturerGvmGcm": "3055/3055",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-05-03T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

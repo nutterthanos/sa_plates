@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "DSP297",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "211lPctXzlTFtqQJNiF3DQTwhKhXIl28HqxSEEs3cmw=",
+        "registeredGvmGcm": "2529/",
+        "manufacturerGvmGcm": "2529/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-12T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]
