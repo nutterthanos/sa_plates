@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "COL113",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "GREEN",
+        "vehicleHash": "dyC3RKI1WaM5k6nFLuSvWFPr9xjM2eMy4un72HtPDI4=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "26500/90000",
+        "manufacturerGvmGcm": "26500/90000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "COL113",
+        "make": "COMMER",
+        "bodyType": "CARAVAN VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "awxXjvf8RS/5CP0sYGk0mNp42ocqEQUoWcAKDf+FrvY=",
+        "registeredGvmGcm": "2390/3220",
+        "manufacturerGvmGcm": "2390/3220",
+        "ctpInsurer": "MAC"
+    }
+]

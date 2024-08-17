@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "COL049",
+        "make": "WESTERN STAR",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "GREEN",
+        "vehicleHash": "TSaUY82QG7N80NfdAFVtg9pF3gIX0d/LgriZlWLnN2w=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "27400/90500",
+        "manufacturerGvmGcm": "27400/90500",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "COL049",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "SILVER",
+        "vehicleHash": "hOYBhsTYUb4lOKb9nyAwur7Qib23b2FOuXfshZHuDRs=",
+        "ctpInsurer": "MAC"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "COL008",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "GREEN",
+        "vehicleHash": "BikvR5ChNdcGr4WFS6SgwQi5DXVh+P6PcKfs+39bG78=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "24100/85000",
+        "manufacturerGvmGcm": "24100/85000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "LV2 PERMIT/GAZETTE REQUIRED",
+                "MV2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "LV2 PERMIT/GAZETTE REQUIRED",
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
