@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "EPV378",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "MQLn7YJNqKeSNgFHtG+wbbFjjwVEiC2oFV0qIhaunwo=",
+        "registeredGvmGcm": "3217/3217",
+        "manufacturerGvmGcm": "3217/3217",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-03-27T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

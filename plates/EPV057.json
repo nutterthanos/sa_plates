@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "EPV057",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "SdCcXppnE642HwIFvdvf7K3EpEn98FKK3JhjpDgpFk8=",
+        "registeredGvmGcm": "3090/",
+        "manufacturerGvmGcm": "3090/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-09-23T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
