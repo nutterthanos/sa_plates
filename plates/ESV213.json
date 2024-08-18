@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "ESV213",
+        "make": "NOT LISTED",
+        "bodyType": "MOWER VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "mhlwev7LGJmjIgj55XcbTwnvxV9BVHpTTaCsBFsLgbs=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO1 ROAD RESTRICTION",
+                "LO5 ROAD RESTRICTION",
+                "SL1 SPECIAL LIGHTS",
+                "SP30 30 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO1 ROAD RESTRICTION",
+            "LO5 ROAD RESTRICTION",
+            "SL1 SPECIAL LIGHTS",
+            "SP30 30 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

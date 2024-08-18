@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "ESV097",
+        "make": "AEC",
+        "bodyType": "DRILLING RIG VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "wkdSt/L1/JXwYmSbZEe3988pDbcDRDUNEZufgFYJ0bU=",
+        "registeredConfiguration": "TSV4 - 4 axle SPV - Truck",
+        "registeredGvmGcm": "23400/",
+        "manufacturerGvmGcm": "23400/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS2 NHVR NOTICE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS2 NHVR NOTICE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

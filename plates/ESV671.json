@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ESV671",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "s0eu2HmudFHHCXYAZ9yzxxrlxwnwjWZx0Fo1sOrhavE=",
+        "registeredGvmGcm": "1130/",
+        "manufacturerGvmGcm": "1130/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-11-06T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "ESV199",
+        "make": "FRANNA",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "BLACK",
+        "vehicleHash": "R8TMbPChf3YerRrmJH2wNGa1GH7GdC/peCWJk5KwvXY=",
+        "registeredConfiguration": "OSV2 - 2 axle SPV - Overmass",
+        "registeredGvmGcm": "16200/16200",
+        "manufacturerGvmGcm": "16200/16200",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ESV317",
+        "make": "FENDT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "GDaiHvOba0U2z24Kf1RH+mP8DeB3j488eNuYePXD6yY=",
+        "registeredGvmGcm": "2510/2510",
+        "manufacturerGvmGcm": "2510/2510",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-10-17T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

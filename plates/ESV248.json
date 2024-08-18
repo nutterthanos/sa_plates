@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "ESV248",
+        "make": "JOHN DEERE",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "PY+4eJOPvaygd5ccTUYKDgKE9ZsF2iCmDlP5/x71uEY=",
+        "registeredGvmGcm": "1350/1350",
+        "manufacturerGvmGcm": "1350/1350",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS2 NHVR NOTICE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS2 NHVR NOTICE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

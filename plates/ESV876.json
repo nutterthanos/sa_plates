@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ESV876",
+        "make": "NISSAN",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "CREAM",
+        "vehicleHash": "a+c45+HEyS/XQgk8t9AMgCc20RdmtmL1VqXaVNJIpFc=",
+        "registeredGvmGcm": "3946/",
+        "manufacturerGvmGcm": "3946/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
