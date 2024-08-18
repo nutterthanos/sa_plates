@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "EBV892",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "8hP42428jfMHDn/QFAurKNFtVYMvqdR+YipnWIomNTo=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-04-28T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "EBV892",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "pihnoC8GTjPCr8jDqCpgKBEhttNRo7E5yvzMHz/LB/Q=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    }
+]
