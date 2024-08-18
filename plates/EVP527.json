@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "EVP527",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "3DrP2ROdQGwbVbw2wR87QQtLWiMOEzdakZKYyytuTb0=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9000/",
+        "manufacturerGvmGcm": "9000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    },
+    {
+        "plate": "EVP527",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "BROWN",
+        "vehicleHash": "qlfjIiFMQhHLOZPXkUTIDSAGHEPCf1++griaJlLsV4U=",
+        "ctpInsurer": "MAC"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "EVP110",
+        "make": "BROONS",
+        "bodyType": "INDUSTRIAL TRAILER",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "2+7n0y/9Cg4Vw/eKVvOkaDTQvL1WeRwaFg7nIwFh+mU=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "10670/",
+        "manufacturerGvmGcm": "10670/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING"
+            ]
+        },
+        "expiry": "2024-09-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING"
+        ]
+    }
+]

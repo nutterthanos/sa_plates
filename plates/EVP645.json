@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "EVP645",
+        "make": "TEREX",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "4gHUJ0YxijHjvgYehytp9lvLmnsBPSHZ/RKwJqwtg4E=",
+        "registeredConfiguration": "TSV3 - 3 axle SPV - Truck",
+        "registeredGvmGcm": "36000/",
+        "manufacturerGvmGcm": "36000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "OS2 NHVR NOTICE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "OS2 NHVR NOTICE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

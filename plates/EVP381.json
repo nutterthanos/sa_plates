@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "EVP381",
+        "make": "NOT LISTED",
+        "bodyType": "LAND IMPLEMENT TRAILER",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "edCFOwhkpeS5uycv3Yxgcn+nL/PLbl1evj13+o4fjSI=",
+        "registeredConfiguration": "TSV1 - 1 axle SPV - Truck",
+        "registeredGvmGcm": "6500/",
+        "manufacturerGvmGcm": "6500/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "OS2 NHVR NOTICE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-01-31T00:00:00.000+10:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "OS2 NHVR NOTICE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

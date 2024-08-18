@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "EVP424",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "3vB+0LAVFXIi5UFK162zMk4eDLaHb50OatOiJJZ2X/A=",
+        "registeredGvmGcm": "2065/2065",
+        "manufacturerGvmGcm": "2065/2065",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-12-13T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

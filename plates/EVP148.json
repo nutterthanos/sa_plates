@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "EVP148",
+        "make": "CATERPILLAR",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "MXU5V9D6dTw0hx+nsHMVb7ij6r1O+mnfcl0x18B/U+g=",
+        "registeredGvmGcm": "4010/4010",
+        "manufacturerGvmGcm": "4010/4010",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2024-09-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

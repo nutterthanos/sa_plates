@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "EVP732",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "6F5HPTuG7MNL1Gyf4D6m2t7vtCWMz9webwX94/9geAU=",
+        "registeredGvmGcm": "3350/3350",
+        "manufacturerGvmGcm": "3350/3350",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-07-17T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

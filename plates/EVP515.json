@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "EVP515",
+        "make": "JLG",
+        "bodyType": "INDUSTRIAL TRAILER",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "N2WrTMxqbqUW3m3qAKhaNLpikXCroioOLkHb5pqbO+o=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5148/",
+        "manufacturerGvmGcm": "5148/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-03-28T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

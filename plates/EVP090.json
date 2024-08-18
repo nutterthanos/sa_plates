@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "EVP090",
+        "make": "BOBCAT",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "heVR2DDMvfOKOmWTfM6y3kqLhPKW+5ubT/dbyu/yLI4=",
+        "registeredGvmGcm": "2635/2635",
+        "manufacturerGvmGcm": "2635/2635",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2024-12-27T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

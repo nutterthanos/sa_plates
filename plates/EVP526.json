@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "EVP526",
+        "make": "KATO",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "O/dpp/DMMGbazpJzpqFHnyl31uMdU1NQKUQKzciwSn0=",
+        "registeredConfiguration": "TSV3 - 3 axle SPV - Truck",
+        "registeredGvmGcm": "22500/22500",
+        "manufacturerGvmGcm": "22500/22500",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

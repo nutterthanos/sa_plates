@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "EVP105",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "XS3pP1b2bCncG99rOTM77soU9sjZOmrm76uGvKg7TT4=",
+        "registeredGvmGcm": "3735/3735",
+        "manufacturerGvmGcm": "3735/6235",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-01-31T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
