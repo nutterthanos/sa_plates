@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "ESC200",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "STXwIDKtYkZPzHcTqra2wf2bnAbNuAjFqXZYw43DS7U=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2026-11-09T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "ESC200",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "GOLD",
+        "vehicleHash": "LewLY73lj1rU5l9vBpJv8IdYZK+Sa2Rw106HEHgq+UM=",
+        "ctpInsurer": "MAC"
+    }
+]
