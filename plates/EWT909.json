@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "EWT909",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "3lmrX43q+3otRGOFHjJnpeIOcN1nYjvSmrx8ZPKSLb4=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "27800/115000",
+        "manufacturerGvmGcm": "27800/115000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2024-11-25T00:00:00.000+10:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "EWT909",
+        "make": "KENWORTH",
+        "bodyType": "TRUCK",
+        "primaryColour": "WHITE",
+        "vehicleHash": "2pSZHu0XLg5ipZm16zKEydW3dz/PBcJzHGPfTgPMFHw=",
+        "registeredConfiguration": "MR3 - 3 axle truck + 1 trailer comb > 6 axles",
+        "registeredGvmGcm": "26500/97000",
+        "manufacturerGvmGcm": "26500/97000",
+        "ctpInsurer": "QBE"
+    }
+]
