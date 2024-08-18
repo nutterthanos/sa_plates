@@ -1,0 +1,35 @@
+[
+    {
+        "plate": "ELY251",
+        "make": "BSA",
+        "bodyType": "SOLO",
+        "primaryColour": "BLACK",
+        "vehicleHash": "MFbbp9ORF5p7km/NIBHDX+mrL8iBNK27zyyo2uYjzdM=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-07-06T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "ELY251",
+        "make": "NOT LISTED",
+        "bodyType": "SOLO",
+        "primaryColour": "BLACK",
+        "vehicleHash": "HB/XcZwB/y5mk5ld/mvNst/2tEdiQ1cg9RPucYG2yU0=",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "OL3G HISTORIC VEHICLE + EXTENSION",
+                "OL3 MEMBERSHIP OF CLUB"
+            ]
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION",
+            "OL3 MEMBERSHIP OF CLUB"
+        ]
+    }
+]
