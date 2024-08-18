@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ESP557",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "rIIZB5LQ21uT6eYeiSB4YOK/Sd17WMp1xRH7B3kDPlA=",
+        "registeredGvmGcm": "2793/",
+        "manufacturerGvmGcm": "2793/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-07-24T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

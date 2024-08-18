@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ESP894",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "c1pW7orTG9HM2uUSLNJ1D+uXNxcMcF+qJFlALPLFg5U=",
+        "registeredGvmGcm": "2159/",
+        "manufacturerGvmGcm": "2159/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

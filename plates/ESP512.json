@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ESP512",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "SXQCfgU0s0HgoammUxNeMJSFnWzFVP6VL0mjRWVwZP4=",
+        "registeredGvmGcm": "3050/",
+        "manufacturerGvmGcm": "3050/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-07-28T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

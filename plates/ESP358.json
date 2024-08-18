@@ -1,0 +1,21 @@
+[
+    {
+        "plate": "ESP358",
+        "make": "JOHN DEERE",
+        "bodyType": "QUAD CYCLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "dWc6Vu0M2dyPb1Cnjf+ncXUx6F2xgBmeuXySib4d8wY=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO9 DEPT OF TRANSPORT DISPENSATION"
+            ]
+        },
+        "expiry": "2024-10-07T00:00:00.000+10:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO9 DEPT OF TRANSPORT DISPENSATION"
+        ]
+    }
+]

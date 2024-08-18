@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ESP001",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "MVXcACX25F+/hZh+QhszuSCnVCjHcQ6Qp2Cy0NWtRtg=",
+        "registeredGvmGcm": "3150/",
+        "manufacturerGvmGcm": "3150/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

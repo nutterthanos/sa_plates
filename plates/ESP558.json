@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ESP558",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "4iaDW+JEIdZjiOH0NzYKrkiraFgsXu78dncfktr9Y5s=",
+        "registeredGvmGcm": "3814/",
+        "manufacturerGvmGcm": "3814/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

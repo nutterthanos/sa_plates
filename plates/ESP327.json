@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ESP327",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "CnoTd4d2DIv1IAK7QdQYOAhkqA3c33bU7yDsvwH1q2E=",
+        "registeredGvmGcm": "2199/",
+        "manufacturerGvmGcm": "2199/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

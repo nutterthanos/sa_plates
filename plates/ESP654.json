@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "ESP654",
+        "make": "FORDSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "WHITE",
+        "vehicleHash": "mEzE++mJA+X1tPr7Sgzz6x75tSYo6pjSKGKKx/cJ3m4=",
+        "registeredGvmGcm": "2274/2274",
+        "manufacturerGvmGcm": "2274/2274",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-07-04T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

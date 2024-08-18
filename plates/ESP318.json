@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ESP318",
+        "make": "ISEKI",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "EEGgv+7ggw32z8fXlUeHKyXHYw1sLdnN5xYoJ4jpbRg=",
+        "registeredGvmGcm": "1320/",
+        "manufacturerGvmGcm": "1320/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-07-31T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

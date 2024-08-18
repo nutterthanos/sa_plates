@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ESP541",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "yk00Zm2P7YAtinifs9sbjCn8hGMT/Tn+lvGAahmDUDk=",
+        "registeredGvmGcm": "3060/",
+        "manufacturerGvmGcm": "3060/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

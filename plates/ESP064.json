@@ -1,0 +1,32 @@
+[
+    {
+        "plate": "ESP064",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "BOXSWdjayUmPodOA+gjSSLl84b3f9j3PtrqG9nSa6XE=",
+        "registeredGvmGcm": "4250/",
+        "manufacturerGvmGcm": "4250/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    },
+    {
+        "plate": "ESP064",
+        "make": "CHRYSLER",
+        "bodyType": "SEDAN",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "B8M7q5+HPcgILWak06hQrkcQJojTH8QkkfPLSLQzRNQ=",
+        "ctpInsurer": "MAC"
+    }
+]

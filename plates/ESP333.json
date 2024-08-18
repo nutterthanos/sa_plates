@@ -1,0 +1,32 @@
+[
+    {
+        "plate": "ESP333",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "h3UKDSimC1hDFXnNujnM3I08cKtqGaN/EA7vdXHt7EQ=",
+        "registeredGvmGcm": "2000/",
+        "manufacturerGvmGcm": "2000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    },
+    {
+        "plate": "ESP333",
+        "make": "AUSTIN",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "UoNfBNaN9e33rC8ikqmzzGJ3nAprP5dy7C/i6fxl3PU=",
+        "ctpInsurer": "MAC"
+    }
+]

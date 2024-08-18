@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ESP491",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "L0Ipj87hyZ92aagXTEwl1dSqL+k74i+lnXu4qNUMxQE=",
+        "registeredGvmGcm": "4140/",
+        "manufacturerGvmGcm": "4140/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-03-19T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

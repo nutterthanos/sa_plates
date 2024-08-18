@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ESP828",
+        "make": "DEUTZ",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "V9A5lGy+XPwau2Y4KukP7yVpIIOZd/gaLSx/P9vMKX4=",
+        "registeredGvmGcm": "3990/",
+        "manufacturerGvmGcm": "3990/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-11-05T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]
