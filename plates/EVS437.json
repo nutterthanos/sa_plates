@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "EVS437",
+        "make": "KUBOTA",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "Z0jJALvVvEmR0UZuBZU8+e4FgjtJdVrxSxCWWwrT+8E=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "5520/",
+        "manufacturerGvmGcm": "5520/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

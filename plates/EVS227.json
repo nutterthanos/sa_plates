@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "EVS227",
+        "make": "KUBOTA",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "PFz7UFXt1EhbWpDivs+sJfl1JbxkIPd23qPSmG7fpgc=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5A ROAD RESTRICTION GAZETTE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5A ROAD RESTRICTION GAZETTE"
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "EVS654",
+        "make": "NEW HOLLAND",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "ZRNyboNBNCjMX7Srz0bssckWtARDMUgBPCLc5H1FXSk=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "10567/10567",
+        "manufacturerGvmGcm": "10567/10567",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-11-18T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

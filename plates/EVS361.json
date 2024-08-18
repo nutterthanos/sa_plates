@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "EVS361",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "kXn8+vsT9pKdDo1xwapfsT2mvoaVF3DI5idxL0YwDlw=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9600/",
+        "manufacturerGvmGcm": "9600/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

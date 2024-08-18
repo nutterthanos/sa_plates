@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "EVS889",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "T37u8eVWrz7gX6kQWtEn4pMkiO/zGgvGyrd209Wgmr8=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "13704/13704",
+        "manufacturerGvmGcm": "13704/13704",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-11-22T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

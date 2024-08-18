@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "EVS158",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BROWN",
+        "vehicleHash": "FWhmr1cOPu7R+ErHGi3UlHtpoNvfNM03zGP7TVA/Foo=",
+        "registeredGvmGcm": "2180/",
+        "manufacturerGvmGcm": "2180/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-03-06T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

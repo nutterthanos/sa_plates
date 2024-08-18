@@ -1,0 +1,32 @@
+[
+    {
+        "plate": "EVS491",
+        "make": "NOT LISTED",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "T9OUVo6ayLCBbhonE2MC73QrC+z9awOD4+8/VeDogyg=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "10450/10450",
+        "manufacturerGvmGcm": "10450/10450",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "GO26 EXEMPTION FOR LHD AGRICULTURAL MACHINES",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2024-10-11T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "GO26 EXEMPTION FOR LHD AGRICULTURAL MACHINES",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

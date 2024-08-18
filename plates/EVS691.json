@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "EVS691",
+        "make": "JOHN DEERE",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "C7e9FinKu/Bllwha8DB5DWvBz1bDnX8tse/pruASGyw=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "18500/",
+        "manufacturerGvmGcm": "18500/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5A ROAD RESTRICTION GAZETTE",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5A ROAD RESTRICTION GAZETTE",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

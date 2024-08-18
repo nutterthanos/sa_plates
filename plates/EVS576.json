@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "EVS576",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "BLUE",
+        "vehicleHash": "04BS03QeUC1M8qeej41HkFXY4SuqvSDHwuy3ASjUIfw=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "10000/",
+        "manufacturerGvmGcm": "10000/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-06-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "EVS144",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "H7WbpbklyE2WabaTODfmRKb3XPwm7rR8R9PXkC5oNeI=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9580/",
+        "manufacturerGvmGcm": "9580/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

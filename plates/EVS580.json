@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "EVS580",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "WZFUEYd2KQApVs9QvpWIFltrkgkBhWUdloTm7C4LplY=",
+        "registeredGvmGcm": "3860/",
+        "manufacturerGvmGcm": "3860/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2024-10-20T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

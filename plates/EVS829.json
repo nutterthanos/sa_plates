@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "EVS829",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "5KfexPut7/y6+A+ZwzRwlrkBOh6gFv6yt6+ssYvBBT8=",
+        "registeredGvmGcm": "4200/",
+        "manufacturerGvmGcm": "4200/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

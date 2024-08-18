@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "EVS247",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "KxAM5LNjflZjDeRYpm8JrkS5HEbtNflM1yNJylYtb+k=",
+        "registeredGvmGcm": "3580/",
+        "manufacturerGvmGcm": "3580/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-02-23T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

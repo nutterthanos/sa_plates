@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "EVS304",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "G/bsTu8CN7Ru6AXESJCDx+zL+BrE/9jtIKPalcHq6dw=",
+        "registeredGvmGcm": "3000/3000",
+        "manufacturerGvmGcm": "3000/3000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-10-27T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

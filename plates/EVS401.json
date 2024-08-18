@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "EVS401",
+        "make": "MITSUBISHI",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "gOnWz1O9oNNHQW/i6PlJdyGxeU70vbl/fz8QIzjQapw=",
+        "registeredConfiguration": "TSV3 - 3 axle SPV - Truck",
+        "registeredGvmGcm": "12180/",
+        "manufacturerGvmGcm": "12180/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

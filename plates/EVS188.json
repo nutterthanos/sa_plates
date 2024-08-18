@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "EVS188",
+        "make": "CLARK",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "zzpV083BCyAjinQaMrB+0ZuaN9GuPH0oc7qySZU9J34=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

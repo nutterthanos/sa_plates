@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "EVS323",
+        "make": "HANOMAG",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "fxdKrhIgvykTYysPa+E3vdCJK2moowPsAbnRNwIP6Ik=",
+        "registeredConfiguration": "TSV2 - 2 axle SPV - Truck",
+        "registeredGvmGcm": "18000/18000",
+        "manufacturerGvmGcm": "18000/18000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OS1A AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OS1A AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

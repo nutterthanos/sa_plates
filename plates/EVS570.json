@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "EVS570",
+        "make": "SAME",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "8u8bP9gsUXHceLBTxZs8JtkP4Ryq2bo/JcjGYNo/dEU=",
+        "registeredGvmGcm": "2890/",
+        "manufacturerGvmGcm": "2890/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-10-28T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
