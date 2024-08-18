@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "FPS514",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "rsYeFzDWYlEOnE2224jWOiIYem2pmL56e4jzDpkLh4A=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "20000/20000",
+        "manufacturerGvmGcm": "20000/20000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO27 AGRICULTURAL CODE OF PRACTICE"
+            ]
+        },
+        "expiry": "2025-04-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO27 AGRICULTURAL CODE OF PRACTICE"
+        ]
+    }
+]

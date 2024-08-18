@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "FPS870",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "wOGA551A2OVeaNo7i9GCgdQgFbuoIAUkcEh/G2j/c/k=",
+        "registeredGvmGcm": "2100/2100",
+        "manufacturerGvmGcm": "2100/2100",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-12-12T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

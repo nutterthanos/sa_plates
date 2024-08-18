@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FPS634",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "FG9xbJaQeC7X6c8YngUPHPQRge6C2uT6T/loTE8/zrg=",
+        "registeredGvmGcm": "4450/6950",
+        "manufacturerGvmGcm": "4450/6950",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-06-21T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

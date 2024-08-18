@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "FPS584",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "r38FlmPVI5ACNDZDhH8ZAQqQ00K/DXuwEzlGwh5ig8Q=",
+        "registeredGvmGcm": "1800/",
+        "manufacturerGvmGcm": "1800/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-07-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FPS672",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "BLUE",
+        "vehicleHash": "l0YnRlwl9cP4Jcekc2Mw8ToI/+4J/zkllpLooy3eiII=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "10230/",
+        "manufacturerGvmGcm": "10230/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

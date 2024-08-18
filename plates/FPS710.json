@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FPS710",
+        "make": "NEW HOLLAND",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "eOABPoXG8W8FR0o5JChjcxd08R2vTs1VJAYPD0YliHk=",
+        "registeredGvmGcm": "2850/2850",
+        "manufacturerGvmGcm": "2850/2850",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-09-23T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
