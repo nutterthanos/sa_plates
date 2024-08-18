@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FPV255",
+        "make": "BELARUS",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "cmfG2dyKbVEiKLzjv+Qz+mGSrS6NRUbXHq07AD7IA+4=",
+        "registeredGvmGcm": "3720/",
+        "manufacturerGvmGcm": "3720/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-09-29T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FPV787",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "vpVWQtAPiLGvOJHvDpEMrJU6DyDTg1U+GDMUz7HIpqU=",
+        "registeredGvmGcm": "2261/",
+        "manufacturerGvmGcm": "2261/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-09-29T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

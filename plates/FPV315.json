@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "FPV315",
+        "make": "FORD",
+        "bodyType": "UTILITY",
+        "primaryColour": "WHITE",
+        "vehicleHash": "wbxshdG7UEueiu8T3mewEEO0BS/PRoRcE/IZqTGvGrk=",
+        "ctpInsurer": "AAMI",
+        "expiry": "2024-10-23T00:00:00.000+10:30"
+    },
+    {
+        "plate": "FPV315",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "zzQrmfaSPp0SdPfVf0F0b+nLnPfbcnvqcTklXCwYzV8=",
+        "registeredGvmGcm": "3910/",
+        "manufacturerGvmGcm": "3910/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

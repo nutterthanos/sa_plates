@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "FPV006",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "V5B8Mp8t+55rprVMGkiQdA9Co42xeEO+LknG6OLVFJc=",
+        "ctpInsurer": "NRMA"
+    },
+    {
+        "plate": "FPV006",
+        "make": "YAMAHA",
+        "bodyType": "NOT RECORDED-CYCLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "H/kNtZ4ALJtF8gmgfFWXLr1vIZSQ622X3BLplfxB+5Y=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO17 GAZETTE - 2 WHEEL MOTOR CYCLES FOR AG USE"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO17 GAZETTE - 2 WHEEL MOTOR CYCLES FOR AG USE"
+        ]
+    }
+]

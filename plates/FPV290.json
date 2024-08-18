@@ -1,0 +1,38 @@
+[
+    {
+        "plate": "FPV290",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLACK",
+        "vehicleHash": "m+yx6aEp3oLl1wBKaEnslNzCZyqGm5dHlenQV5jsnME=",
+        "ctpInsurer": "QBE"
+    },
+    {
+        "plate": "FPV290",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "SILVER",
+        "vehicleHash": "GwR1W/HlAZziBgAMyY9hmCh+NlevgbmeewJGoMsgJkI=",
+        "ctpInsurer": "QBE"
+    },
+    {
+        "plate": "FPV290",
+        "make": "BOMAG",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "JC+b9iNksfcWkd4RsthWEXnL93OEsS9W4JY0MfLjnTY=",
+        "registeredGvmGcm": "2305/",
+        "manufacturerGvmGcm": "2305/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "CTBA CONDITIONS TO BE ASSESSED"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "CTBA CONDITIONS TO BE ASSESSED"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "plate": "FPV404",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLACK",
+        "vehicleHash": "0LB88q2janmC2v2nLM+I4JowkJ0LqFOefZ88EAQS9i4=",
+        "ctpInsurer": "NRMA",
+        "expiry": "2024-08-25T00:00:00.000+09:30"
+    },
+    {
+        "plate": "FPV404",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "MF6ThTHM06i8qTqr7ebssFAOBc7IBopsHsPKGxmP9Hc=",
+        "registeredGvmGcm": "1540/",
+        "manufacturerGvmGcm": "1540/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

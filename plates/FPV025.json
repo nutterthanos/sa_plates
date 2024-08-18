@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "FPV025",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLACK",
+        "vehicleHash": "CqBH4iH6VqUe25T6MHMdphgyyB5UXRNsUIebTpywkSM=",
+        "ctpInsurer": "AAMI",
+        "expiry": "2024-09-22T00:00:00.000+09:30"
+    },
+    {
+        "plate": "FPV025",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "X+WO9l4ZrWErxVrqJSh29Wlg3I5//qDWdJ/NRv98M8M=",
+        "registeredGvmGcm": "2812/",
+        "manufacturerGvmGcm": "2812/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

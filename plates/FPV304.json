@@ -1,0 +1,33 @@
+[
+    {
+        "plate": "FPV304",
+        "make": "FORD",
+        "bodyType": "UTILITY",
+        "primaryColour": "BLUE",
+        "vehicleHash": "qUCv448feyw/hxVj+kr36rpD1x4TDGhdVQCCEzZL/hw=",
+        "ctpInsurer": "QBE",
+        "expiry": "2024-10-03T00:00:00.000+09:30"
+    },
+    {
+        "plate": "FPV304",
+        "make": "NOT LISTED",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "QnttIu09jWVJvSaPnYwdVI3u9X+kTWpyFayndxpV2FM=",
+        "registeredGvmGcm": "2400/",
+        "manufacturerGvmGcm": "2400/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

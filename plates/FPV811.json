@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "FPV811",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "Gjj183XCzOz/qiOYevACTL70xBHx9AusG5fZW04mOq4=",
+        "ctpInsurer": "QBE",
+        "expiry": "2025-06-17T00:00:00.000+09:30"
+    },
+    {
+        "plate": "FPV811",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "fuxNn2myXd2YuOeACdQULRJ8yUjFqgPULULMLJcJJk4=",
+        "registeredGvmGcm": "2400/",
+        "manufacturerGvmGcm": "2400/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

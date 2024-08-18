@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "FPV429",
+        "make": "FORD",
+        "bodyType": "UTILITY",
+        "primaryColour": "GREEN",
+        "vehicleHash": "MsdsXEns6P1F+TzM19Cwi6611bWoEUlbj1Vc+lN3SzU=",
+        "ctpInsurer": "NRMA"
+    },
+    {
+        "plate": "FPV429",
+        "make": "DEUTZ",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "TuF5s/NGSctEF9RRxGYt+Fv3y0WJRyqqEv2O+4Rzisw=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6800/",
+        "manufacturerGvmGcm": "6800/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

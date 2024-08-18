@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "FPV045",
+        "make": "FORD",
+        "bodyType": "UTILITY",
+        "primaryColour": "BLACK",
+        "vehicleHash": "743yBpc6XZ2AIpfvXnHhapGjzu4T2HciZfDKiZhQvAY=",
+        "ctpInsurer": "AAMI"
+    },
+    {
+        "plate": "FPV045",
+        "make": "DEUTZ",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "l4TIKY+3pHp4YjBIEx6bj42IQZW49gkSO04221dmhjo=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7500/",
+        "manufacturerGvmGcm": "7500/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

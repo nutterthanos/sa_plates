@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "FPV310",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "GREY",
+        "vehicleHash": "L8L9Ro4QdCEoHTM81ykYNCzx786QyK4fmZOmB/dJVNU=",
+        "ctpInsurer": "AAMI",
+        "expiry": "2025-04-02T00:00:00.000+10:30"
+    },
+    {
+        "plate": "FPV310",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "i2aEngSSemmtkMOr24ghmw0oJ5vrKZR2D4XMCDWJEZ8=",
+        "registeredGvmGcm": "2640/",
+        "manufacturerGvmGcm": "2640/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

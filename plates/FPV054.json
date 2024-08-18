@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "FPV054",
+        "make": "FORD",
+        "bodyType": "UTILITY",
+        "primaryColour": "WHITE",
+        "vehicleHash": "Jix+mnuzumqESVl+vPMOTR3+ESUvU1kqoknA5ORdEXI=",
+        "ctpInsurer": "AAMI",
+        "expiry": "2024-10-02T00:00:00.000+09:30"
+    },
+    {
+        "plate": "FPV054",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "W89QU1lDzwvZPeIQNRIR1Jd6WOfbwenVY6zIYm/UurE=",
+        "registeredGvmGcm": "3500/",
+        "manufacturerGvmGcm": "3500/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "plate": "FPV060",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "Pxh255kiauFRtzs4HiT3mjy9MGA1mtepdSWLRUPL6Fw=",
+        "ctpInsurer": "ALLIANZ"
+    },
+    {
+        "plate": "FPV060",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "WYlprKtifysP5qU/am3y11rBqYFQnu42ejHeH0uStXg=",
+        "registeredGvmGcm": "2492/",
+        "manufacturerGvmGcm": "2492/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

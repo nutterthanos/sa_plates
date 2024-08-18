@@ -1,0 +1,32 @@
+[
+    {
+        "plate": "FPV145",
+        "make": "FORD",
+        "bodyType": "UTILITY",
+        "primaryColour": "GREEN",
+        "vehicleHash": "J1yxkMKztEWvuh+yNU67VNzsI9SxnKIQTuiTVq2uSJw=",
+        "ctpInsurer": "AAMI",
+        "expiry": "2025-06-06T00:00:00.000+09:30"
+    },
+    {
+        "plate": "FPV145",
+        "make": "CATERPILLAR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "JPsjtMnBNc9hDVSsDMkkWxVeJVxFK9QM3ScJRbCItCY=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6000/",
+        "manufacturerGvmGcm": "6000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "CTBA CONDITIONS TO BE ASSESSED"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "CTBA CONDITIONS TO BE ASSESSED"
+        ]
+    }
+]

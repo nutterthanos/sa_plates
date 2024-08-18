@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "FPV303",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "j/GGhAQzJBcEs3bfDHebuEYnLYhzf53MztE1J1CQj5I=",
+        "ctpInsurer": "QBE",
+        "expiry": "2024-11-15T00:00:00.000+10:30"
+    },
+    {
+        "plate": "FPV303",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "8+byT3OAnB1nY3WxLvppaUwJ61Uj0sr8V7Arh+rpaYI=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
