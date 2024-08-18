@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "EPS192",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "vMIFpppPUasjwlSWuDGIIldR0cnoq/8j2i6LWQRiNRc=",
+        "registeredGvmGcm": "2155/",
+        "manufacturerGvmGcm": "2155/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

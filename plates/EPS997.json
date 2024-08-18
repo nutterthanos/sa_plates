@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "EPS997",
+        "make": "KUBOTA",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "yHXiszzPF02CDNQ32DdUAVZsFYcyQ+zgPkT8TUyW0Sk=",
+        "registeredGvmGcm": "2040/",
+        "manufacturerGvmGcm": "2040/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+            ]
+        },
+        "expiry": "2025-11-22T00:00:00.000+10:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+        ]
+    }
+]

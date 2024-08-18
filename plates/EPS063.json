@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "EPS063",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "qwL+VAqQm67rHWJo37b3kefgDPXsYPWN2/gjBMxTZ6k=",
+        "registeredGvmGcm": "3295/",
+        "manufacturerGvmGcm": "3295/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-03-11T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

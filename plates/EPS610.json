@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "EPS610",
+        "make": "TADANO",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "LSGqkC3qMif24KxsIY11RjGoR2y61jCr2D+E/8x6D4E=",
+        "registeredConfiguration": "OSV4 - 4 axle SPV - Overmass",
+        "registeredGvmGcm": "40000/40000",
+        "manufacturerGvmGcm": "40000/40000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

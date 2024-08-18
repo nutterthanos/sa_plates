@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "EPS161",
+        "make": "LANZ",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "FGNzyoDw43lt7nE4wvucBAVeBJwtlz3BjMLQP9ozt8g=",
+        "registeredGvmGcm": "1800/1800",
+        "manufacturerGvmGcm": "1800/1800",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

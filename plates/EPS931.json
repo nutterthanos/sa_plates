@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "EPS931",
+        "make": "BOBCAT",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "lLbKhSYjP4ybYOuxqkJXgyl9Ld+epc1cGl51mJeXUBQ=",
+        "registeredConfiguration": "TSV5 - 5 axle SPV - Truck",
+        "registeredGvmGcm": "4872/",
+        "manufacturerGvmGcm": "4872/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

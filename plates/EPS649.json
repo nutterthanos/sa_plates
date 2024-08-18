@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "EPS649",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "verPpsT0MUQNKiT1JKmmqzcjpRyUynfcgHClBxTa/9E=",
+        "registeredGvmGcm": "3120/4780",
+        "manufacturerGvmGcm": "3120/4780",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-04-09T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

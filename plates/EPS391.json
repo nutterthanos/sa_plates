@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "EPS391",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "2DQ8psivlRE1aPw9ZRxz0ASRDdn4TY7oTSEKS6lnhPY=",
+        "registeredGvmGcm": "2610/",
+        "manufacturerGvmGcm": "2610/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-05-13T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

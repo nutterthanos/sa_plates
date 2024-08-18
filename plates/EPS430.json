@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "EPS430",
+        "make": "BOBCAT",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "9R2SP7BkyLiQ/UJcXxCb4c4NlG3Z76Jr9uAkW+rO0IM=",
+        "registeredGvmGcm": "2265/",
+        "manufacturerGvmGcm": "2265/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-04-23T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

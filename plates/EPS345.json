@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "EPS345",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "lTRmDwkcEChi/JHoE95jGjcMkkFCYboaTChaj2HHKpM=",
+        "registeredGvmGcm": "2881/",
+        "manufacturerGvmGcm": "2881/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+        ]
+    }
+]
