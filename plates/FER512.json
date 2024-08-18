@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "FER512",
+        "make": "FERRARI",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "XJWV5jjkExl59wX2DwvAc43xPBBOmPgdZYQ4aBHKeuI=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3K LEFT HAND DRIVE + EXTENSION"
+        },
+        "expiry": "2024-12-18T00:00:00.000+10:30",
+        "conditions": [
+            "OL3K LEFT HAND DRIVE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "FER512",
+        "make": "FERRARI",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "82Qs954GcTrDPTel0VZ4lRqCYUAM4SCKaFDrJTpwhO4=",
+        "ctpInsurer": "MAC"
+    }
+]

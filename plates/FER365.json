@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "FER365",
+        "make": "FERRARI",
+        "bodyType": "TOURER",
+        "primaryColour": "RED",
+        "vehicleHash": "J7DKYH5alsapmpKrQopPsJHc1f2DYZKAIfBSbH50SB4=",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-05-11T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "FER365",
+        "make": "FERRARI",
+        "bodyType": "SEDAN",
+        "primaryColour": "GREEN",
+        "vehicleHash": "YSfO2PJ8n3wQpmiEnhQzmCgMwn4+EzOqrLMqa7FiS/8=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    }
+]
