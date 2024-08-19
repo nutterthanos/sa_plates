@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "FVS926",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "WHITE",
+        "vehicleHash": "SWCBTCvOWFWCux8jh8OvYmyqsY+X/z/RFsJ+v0b//RE=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "19950/19950",
+        "manufacturerGvmGcm": "19950/19950",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2024-11-30T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

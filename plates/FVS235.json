@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FVS235",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "4IzIm54D/0nQh7kjaxx/KSt0X5q1b5PDxvWsXTIrRec=",
+        "registeredGvmGcm": "3690/",
+        "manufacturerGvmGcm": "3690/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-03-30T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FVS035",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "QA2VlyzIF7k30iUE5Lb+ix8+D+/u9iuaI9BAfcIL1x0=",
+        "registeredGvmGcm": "3765/",
+        "manufacturerGvmGcm": "3765/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-04-12T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

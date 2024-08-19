@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "FVS299",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "GSQ9Tbp6iU/+nxxy1U2ISZ3c7i2FIN2SXjQs+KlqP/s=",
+        "registeredGvmGcm": "3200/3200",
+        "manufacturerGvmGcm": "3200/3200",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

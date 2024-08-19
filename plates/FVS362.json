@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "FVS362",
+        "make": "CATERPILLAR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "bWIFukFlp+BC8JVGzDUL48rEEIUbQTllDP97Jlq1/20=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "15413/",
+        "manufacturerGvmGcm": "15413/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "LO5 ROAD RESTRICTION",
+                "OM2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "LO5 ROAD RESTRICTION",
+            "OM2 NHVR NOTICE"
+        ]
+    }
+]

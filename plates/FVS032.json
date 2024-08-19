@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FVS032",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "jxCggWRHupXE04YSJC1JNTIzlLVa61EpQ2hb6Koc+wU=",
+        "registeredGvmGcm": "4147/",
+        "manufacturerGvmGcm": "4147/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-01-04T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

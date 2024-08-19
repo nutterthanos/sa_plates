@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FVS501",
+        "make": "ZETOR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "4T8nMxKrc1h2iMJbxUvA3R/5ORtP8eRf3ZXc8vu24w8=",
+        "registeredGvmGcm": "3535/",
+        "manufacturerGvmGcm": "3535/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-02-28T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

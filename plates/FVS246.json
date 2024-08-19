@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FVS246",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "4ttZe+2B6MS+XUuqDTfJIIOxmCXXzXXzGwm5C6uYxdI=",
+        "registeredGvmGcm": "3146/3146",
+        "manufacturerGvmGcm": "3146/3146",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-03-04T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
