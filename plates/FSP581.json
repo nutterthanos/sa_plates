@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FSP581",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "E6AFIVaeKSHetjYsOJ7ivAes+uP/kto3kwF1+yh4RMw=",
+        "registeredGvmGcm": "4420/",
+        "manufacturerGvmGcm": "4420/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-05T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FSP182",
+        "make": "DAVID BROWN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "WHITE",
+        "vehicleHash": "uYTlUvnmpu2pd+i/gH4Bqz3XnvVem9Vjmxx6XCHyM9w=",
+        "registeredGvmGcm": "2445/",
+        "manufacturerGvmGcm": "2445/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-04-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

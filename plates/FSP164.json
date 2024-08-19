@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FSP164",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "Ao8SssKBOn8aNDyYF0aqTxBBwvI9DgY6sVIr6c3NKYk=",
+        "registeredGvmGcm": "1451/",
+        "manufacturerGvmGcm": "1451/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-04-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

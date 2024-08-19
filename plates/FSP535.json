@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "FSP535",
+        "make": "NOT LISTED",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "zm/RDpbkYLswdZxokfTbOM/FvK6X72tdCqeZAWYWLK0=",
+        "registeredGvmGcm": "2000/",
+        "manufacturerGvmGcm": "2000/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2024-08-29T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

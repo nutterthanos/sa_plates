@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "FSP800",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "YYRs5Pz/u21xaeTSgAoPN8YpEM5WYUq3TECX8TtNxt0=",
+        "registeredGvmGcm": "2420/",
+        "manufacturerGvmGcm": "2420/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

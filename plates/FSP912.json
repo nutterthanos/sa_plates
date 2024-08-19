@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FSP912",
+        "make": "DEUTZ",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "ECWpbBTgpNv9aMnbSyyZy3M3MoDyYjanvdtRSQrG1DE=",
+        "registeredGvmGcm": "4470/",
+        "manufacturerGvmGcm": "4470/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-12T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

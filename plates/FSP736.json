@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "FSP736",
+        "make": "ALLIS CHALMERS",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "SILVER",
+        "vehicleHash": "1pvMQcZ2qIELcvnvPCf0xyy/C6e/GYOHK0jcGqDWiq4=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "8577/8577",
+        "manufacturerGvmGcm": "8577/8577",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

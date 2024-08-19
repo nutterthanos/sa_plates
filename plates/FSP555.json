@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "FSP555",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "dXr52qEkJ3Z4v9DbBwC5kHu4FAD99QW0EWnAO+B7YN4=",
+        "registeredGvmGcm": "3855/",
+        "manufacturerGvmGcm": "3855/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

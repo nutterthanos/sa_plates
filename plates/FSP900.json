@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FSP900",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "ZSyh85mmv+XfBfBmyh/v3E1y7pPrNNShH7SoKldlGYo=",
+        "registeredGvmGcm": "3400/",
+        "manufacturerGvmGcm": "3400/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-07-31T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

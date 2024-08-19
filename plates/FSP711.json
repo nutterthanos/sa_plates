@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "FSP711",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "dGZDz7mAQeOrIGvDXGEb6Qof3v2lb6vt3w4nYNekbuM=",
+        "registeredGvmGcm": "3538/",
+        "manufacturerGvmGcm": "3538/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

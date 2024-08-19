@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FSP085",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "kg/QGLTsY1FxrlsR1vA71LXaBJI8Qaz2xwBpB1u5B74=",
+        "registeredGvmGcm": "1425/",
+        "manufacturerGvmGcm": "1425/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-09-05T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

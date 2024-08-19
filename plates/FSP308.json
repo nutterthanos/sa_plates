@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FSP308",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "6soP2eNB4WQoJEe3IaC8JDFQNodXvEBVjaT7EgVv0GM=",
+        "registeredGvmGcm": "2879/",
+        "manufacturerGvmGcm": "2879/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-09-22T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

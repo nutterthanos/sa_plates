@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FSP920",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "AybQzNB9wnfrM3YcZcNDje28uYOliUCPVYw1FEcu2+E=",
+        "registeredGvmGcm": "4354/",
+        "manufacturerGvmGcm": "4354/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-31T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

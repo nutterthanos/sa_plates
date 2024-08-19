@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "FSP620",
+        "make": "JOHN DEERE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "DnxtZdxwOLUYczEweVR6VyBbf4x3CeARe5QamAVBbUQ=",
+        "registeredGvmGcm": "4000/4999",
+        "manufacturerGvmGcm": "4000/4999",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]
