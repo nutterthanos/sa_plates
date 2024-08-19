@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FVP466",
+        "make": "PACIFIC",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "DX1h1tlomLrmc7Y7L8fDl3CWZCCZZtF0jTpgTK7pL+8=",
+        "registeredConfiguration": "PSV4 - 4 axle SPV - Plant",
+        "registeredGvmGcm": "38000/38000",
+        "manufacturerGvmGcm": "38000/38000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FVP572",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "GGYt8o4mSEjNzK1Rb2rcsL2ty2lZao5Ovx9VtOBt12A=",
+        "registeredGvmGcm": "3800/3800",
+        "manufacturerGvmGcm": "3800/3800",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2027-06-10T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "FVP760",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "CREAM",
+        "vehicleHash": "dM06rodQ98LgWLCNz7Gke4UfoIaWge6m+/T+tj2X4Ds=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5370/",
+        "manufacturerGvmGcm": "5370/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-06-27T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

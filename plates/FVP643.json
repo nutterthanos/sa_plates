@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FVP643",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "SILVER",
+        "vehicleHash": "43dmr7sZ8X9KTF8cqFIxqdwgEKINSh7SChGE7toY5Fs=",
+        "registeredGvmGcm": "4470/",
+        "manufacturerGvmGcm": "4470/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-09-10T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

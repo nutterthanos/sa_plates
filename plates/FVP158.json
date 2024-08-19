@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "FVP158",
+        "make": "KAWASAKI",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "kw1SFwLa1m/qXweOyVhQFJxMpAaKMXqq9EHD4SZl76M=",
+        "registeredGvmGcm": "356/",
+        "manufacturerGvmGcm": "356/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "LO3 ROUTE RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "LO3 ROUTE RESTRICTION"
+        ]
+    }
+]

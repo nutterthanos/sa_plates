@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "FVP123",
+        "make": "JOHN DEERE",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "lXHWdAjSbQ1q4n8mvTD3QjEuxMKFbzXAwBAA7WsL40c=",
+        "registeredGvmGcm": "3089/3089",
+        "manufacturerGvmGcm": "3089/3089",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

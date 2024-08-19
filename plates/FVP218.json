@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "FVP218",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "/yyKM8KpUaeI1HtXBUgG1Jsv349TdiUaGgyjI3VfKuY=",
+        "registeredGvmGcm": "1900/2000",
+        "manufacturerGvmGcm": "1900/2000",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FVP629",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "vObrFYh1OLnTgM5xJ68zQlc8lcjc78W+5y5vdONzzE4=",
+        "registeredGvmGcm": "3220/",
+        "manufacturerGvmGcm": "3220/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FVP709",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "BU9iyyi7KC0B1dPVj4pf+ZwSCnc/jJka2nhHGvvyDB8=",
+        "registeredGvmGcm": "4350/4350",
+        "manufacturerGvmGcm": "4350/4350",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-01T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FVP442",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "sP+6RB+S7Dl5woaFEJfj01+MBR7woyfhkOuT8l4jIHY=",
+        "registeredGvmGcm": "3560/",
+        "manufacturerGvmGcm": "3560/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-06-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

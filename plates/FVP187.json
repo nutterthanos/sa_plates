@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FVP187",
+        "make": "MCCORMICK",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "VsUAlxDC3nX2biWn8GgWLA9YwDY2mm0+S7g2TTSjvzI=",
+        "registeredGvmGcm": "3880/3880",
+        "manufacturerGvmGcm": "3880/3880",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-07-31T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

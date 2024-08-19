@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "FVP603",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "SILVER",
+        "vehicleHash": "AlG6fo539VoyCwszsCtZkpSW8GLjWMwKgtv96gngun8=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4825/4825",
+        "manufacturerGvmGcm": "4825/4825",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-06-14T00:00:00.000+09:30",
+        "conditions": [
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

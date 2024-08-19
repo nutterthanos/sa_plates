@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FVP028",
+        "make": "KATO",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "0JYITzSLVRclAb6uzWZB1TEuaXgvEEEMNz8QwxQ0ZQg=",
+        "registeredConfiguration": "OSV4 - 4 axle SPV - Overmass",
+        "registeredGvmGcm": "29000/29000",
+        "manufacturerGvmGcm": "29000/29000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]

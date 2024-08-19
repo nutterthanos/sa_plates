@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FVP742",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "IYUvcUKwl1r+ERg/C5B32dF2aqMzvOIRs/hVz7i5TUk=",
+        "registeredGvmGcm": "2520/2520",
+        "manufacturerGvmGcm": "2520/2520",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-10-05T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
