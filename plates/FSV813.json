@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FSV813",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "CLpx9xQjZo9IxBYyWAfmCOnS6k1R5NKcGHe0DoMHnA0=",
+        "registeredGvmGcm": "769/",
+        "manufacturerGvmGcm": "769/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-11-30T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

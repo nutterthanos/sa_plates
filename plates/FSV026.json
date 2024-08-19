@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "FSV026",
+        "make": "AUSTIN",
+        "bodyType": "TRUCK",
+        "primaryColour": "GREEN",
+        "vehicleHash": "nCTCGrk3ntqnwRtQUYMfyAtMzyL17X5Z3o0NDJE34Xo=",
+        "registeredConfiguration": "2R2 - 2 axle truck GVM > 12000kg",
+        "registeredGvmGcm": "12240/12240",
+        "manufacturerGvmGcm": "12240/12240",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]

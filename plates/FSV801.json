@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FSV801",
+        "make": "FORDSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "Cjy132hKZsJdiT+KenxOhMcVM1ezYkAwauGm9Z4Dmsg=",
+        "registeredGvmGcm": "2730/",
+        "manufacturerGvmGcm": "2730/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-04-13T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

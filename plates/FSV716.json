@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "FSV716",
+        "make": "BLOOR KNOX",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "f6FaOzRhyM/PVZ6PR14hx/qC8DLY7C1W5R+0gre6t5E=",
+        "registeredConfiguration": "1SV3 - 3 axle SPV Under Limit",
+        "registeredGvmGcm": "16000/16000",
+        "manufacturerGvmGcm": "16000/16000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5A ROAD RESTRICTION GAZETTE",
+                "LO5B ROAD RESTRICTION - WORK SITES",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5A ROAD RESTRICTION GAZETTE",
+            "LO5B ROAD RESTRICTION - WORK SITES",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

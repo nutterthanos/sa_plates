@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "FSV775",
+        "make": "FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "5dkvaII9HXhAPKm2DU/K8NbDwpfaFn9zxDSP++uCTEU=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5216/5316",
+        "manufacturerGvmGcm": "5216/5316",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-10-06T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "FSV851",
+        "make": "KOMATSU",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "5tP9mpy2xk7HjzS1JeJae4lWuSg2IKpPGK9At6uIKfs=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "27480/27480",
+        "manufacturerGvmGcm": "27480/27480",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]
