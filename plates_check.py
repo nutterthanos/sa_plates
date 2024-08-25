@@ -49,7 +49,7 @@ async def send_request_with_retry(session, plate_number, bearer_token):
                 elif response.status == 404:
                     print(f'HTTP 404 error encountered for {plate_number}, giving up.')
                     return None  # Stop retrying and give up
-                elif response.status == 429
+                elif response.status == 429:
                     print(f'Rate limit hit pausing script')
                     time.sleep(10)
                 else:
