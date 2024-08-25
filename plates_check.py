@@ -35,7 +35,7 @@ async def send_request_with_retry(session, plate_number, bearer_token):
         'Authorization': f'Bearer {bearer_token}',
         'Ocp-Apim-Subscription-Key': '4b761fe5b77d443f883698da01afa5e3'
     }
-    retries = 3
+    retries = 10
     attempt = 0
 
     while attempt < retries:
@@ -49,6 +49,9 @@ async def send_request_with_retry(session, plate_number, bearer_token):
                 elif response.status == 404:
                     print(f'HTTP 404 error encountered for {plate_number}, giving up.')
                     return None  # Stop retrying and give up
+                elif response.status == 429
+                    print(f'Rate limit hit pausing script')
+                    time.sleep(10)
                 else:
                     print(f'Received status code {response.status} for {plate_number}')
         except aiohttp.ClientError as e:
