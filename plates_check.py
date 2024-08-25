@@ -2,7 +2,8 @@ import aiohttp
 import aiofiles
 import asyncio
 import json
-import os  # To access environment variables
+import os
+import time
 
 # Function to generate plate numbers
 def generate_plate_numbers():
@@ -35,7 +36,7 @@ async def send_request_with_retry(session, plate_number, bearer_token):
         'Authorization': f'Bearer {bearer_token}',
         'Ocp-Apim-Subscription-Key': '4b761fe5b77d443f883698da01afa5e3'
     }
-    retries = 10
+    retries = 3
     attempt = 0
 
     while attempt < retries:
@@ -49,9 +50,10 @@ async def send_request_with_retry(session, plate_number, bearer_token):
                 elif response.status == 404:
                     print(f'HTTP 404 error encountered for {plate_number}, giving up.')
                     return None  # Stop retrying and give up
-                elif response.status == 429:
-                    print(f'Rate limit hit pausing script')
-                    time.sleep(10)
+                elif response.status == 429:  # Rate limit hit
+                    print('Rate limit hit. Pausing script...')
+                    await asyncio.sleep(60)  # Pause for 60 seconds
+                    continue  # Retry the request after waiting
                 else:
                     print(f'Received status code {response.status} for {plate_number}')
         except aiohttp.ClientError as e:
@@ -74,7 +76,7 @@ async def check_registration():
             task = asyncio.create_task(handle_plate_number(session, plate_number, bearer_token))
             tasks.append(task)
 
-            if len(tasks) >= 2:  # Limit to 2 concurrent requests
+            if len(tasks) >= 15:  # Limit to 15 concurrent requests
                 await asyncio.gather(*tasks)  # Wait for all tasks to complete
                 tasks = []  # Reset the tasks list
 
