@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "GCB001",
+        "make": "HINO",
+        "bodyType": "TRUCK",
+        "primaryColour": "WHITE",
+        "vehicleHash": "k1/9UHCev589slb70+mqQOuaUAO6NHHqQ4Dx4XtbWVA=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "8500/12000",
+        "manufacturerGvmGcm": "8500/12000",
+        "ctpInsurer": "QBE",
+        "expiry": "2025-07-05T00:00:00.000+09:30"
+    },
+    {
+        "plate": "GCB001",
+        "make": "MACK",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "oMpemGb2ttVhiKzv41+jsjru+Jp2mSc6xnGhua6PvQQ=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "26000/90000",
+        "manufacturerGvmGcm": "26000/90000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
