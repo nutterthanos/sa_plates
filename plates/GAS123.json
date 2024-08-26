@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "GAS123",
+        "make": "MITSUBISHI",
+        "bodyType": "UTILITY",
+        "primaryColour": "WHITE",
+        "vehicleHash": "OzjrgRVUnH9qlV7g3HDOgNH+h7HmBkvkubQUwsOI2XI=",
+        "ctpInsurer": "AAMI",
+        "expiry": "2025-04-18T00:00:00.000+09:30"
+    },
+    {
+        "plate": "GAS123",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "oK4lx3Q1wnGyVfuQHawAKgKVZzbLZQ8WgT6/bHvyJWQ=",
+        "registeredConfiguration": "SP3 - 3 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "26000/70000",
+        "manufacturerGvmGcm": "26000/70000",
+        "ctpInsurer": "MAC"
+    }
+]
