@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "GML001",
+        "make": "JAGUAR",
+        "bodyType": "SEDAN",
+        "primaryColour": "GREY",
+        "vehicleHash": "TQEk5e+/b/wFE6EmraEwX5vLxa48fdbnCFziDZOWFG4=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-08-01T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "GML001",
+        "make": "JAGUAR",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "MAt7Cb1CWZfBB6pBqvmh+LHvWdiFQ8/ovbmH/uTCeMQ=",
+        "ctpInsurer": "AAMI"
+    }
+]
