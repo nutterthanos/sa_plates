@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "GMH215",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "GREEN",
+        "vehicleHash": "CBTX3h4RXxFXp9PWC73VNxe/igiP30qhiIc0fRsjSa0=",
+        "ctpInsurer": "AAMI",
+        "expiry": "2025-07-04T00:00:00.000+09:30"
+    },
+    {
+        "plate": "GMH215",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "GREEN",
+        "vehicleHash": "V4qYhiBNDxar4vjI2tiNJ0wljFVAYlNnRH1IpC5C9BA=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    }
+]
