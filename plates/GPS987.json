@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "GPS987",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "xQSONDfyNKi1eKYB9+yZsT9x/ch2VCqnHiEkdd4Xg4Q=",
+        "registeredGvmGcm": "2640/",
+        "manufacturerGvmGcm": "2640/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2027-03-01T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

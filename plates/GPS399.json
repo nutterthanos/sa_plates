@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GPS399",
+        "make": "CLAAS",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "GwOrKX8tJpnP5IkQ9+3u/9XEfsUUPUV0QqQCDAosAIw=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "12800/",
+        "manufacturerGvmGcm": "12800/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

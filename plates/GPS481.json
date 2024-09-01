@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "GPS481",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "eF+Ni69ZiUOdYzBuxNc3KtwECBdsi4EM8zZrddOl8h4=",
+        "registeredGvmGcm": "4317/4317",
+        "manufacturerGvmGcm": "4317/4317",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-07-01T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

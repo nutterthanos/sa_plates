@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GPS622",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "I5rLfzrPGqJp6h6PfwKAGf6vz2UjwixMbqfE4QGuwlM=",
+        "registeredGvmGcm": "3630/3630",
+        "manufacturerGvmGcm": "3630/3630",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-12-04T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

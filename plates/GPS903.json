@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GPS903",
+        "make": "KUBOTA",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "Pw2EbfqMzHyqdIVvA8H5WYOgNMB0ZlfajNvsExBDm7M=",
+        "registeredGvmGcm": "4200/4200",
+        "manufacturerGvmGcm": "4200/4200",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+            ]
+        },
+        "expiry": "2027-07-05T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+        ]
+    }
+]

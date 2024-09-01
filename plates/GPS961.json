@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "GPS961",
+        "make": "CASE",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "BROWN",
+        "vehicleHash": "I3ljyYZFFzLTs0+WznaqTtcgRt/VOXGaINUQfjt0iNw=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "16527/",
+        "manufacturerGvmGcm": "16527/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

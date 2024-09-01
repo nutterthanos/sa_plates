@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GPS894",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "WHITE",
+        "vehicleHash": "7NTyMk0ZM08M4fEol7LuaA3A0aL0GOY7Xn3F/fMrMuA=",
+        "registeredGvmGcm": "3610/",
+        "manufacturerGvmGcm": "3610/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-09-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

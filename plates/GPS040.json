@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GPS040",
+        "make": "KUBOTA",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "48BQNlNOxFgVon3CNBg2l39DfoilLs1CHwx9YkySLeA=",
+        "registeredGvmGcm": "3640/3640",
+        "manufacturerGvmGcm": "3640/3640",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-10-29T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
