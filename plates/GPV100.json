@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "GPV100",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "U+vXaLWouxKzVmrW0TKYG8lSQX/wC8PZ7pCCPklx6Pk=",
+        "registeredGvmGcm": "2268/2268",
+        "manufacturerGvmGcm": "2268/2268",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
