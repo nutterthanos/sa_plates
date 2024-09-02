@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "GSL217",
+        "make": "STONESTAR",
+        "bodyType": "SEMI TRAILER",
+        "primaryColour": "BLUE",
+        "vehicleHash": "RKpfgObMrk3jZnXxaRR2xZdASreaEGyQmmiERTLRxew=",
+        "registeredConfiguration": "TS3 - Semi Trailer - Tri Axle Group",
+        "registeredGvmGcm": "40000/",
+        "manufacturerGvmGcm": "40000/",
+        "ctpInsurer": "AAMI",
+        "expiry": "2024-10-12T00:00:00.000+10:30"
+    },
+    {
+        "plate": "GSL217",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "XlbWm4ayuGs0uFdgP1SxrFvkN8hOGS1d/dEyNfATZjo=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "26500/97000",
+        "manufacturerGvmGcm": "26500/97000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
