@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "GRH000",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "GOLD",
+        "vehicleHash": "5usVECWNc5tj7RErLA4BwFHM8M5i9zTOzkls0yO+1EA=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2026-12-04T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "GRH000",
+        "make": "NISSAN",
+        "bodyType": "TOURING UTILITY",
+        "primaryColour": "BLUE",
+        "vehicleHash": "GsrGd0BbIsG2WoYEGX8YW36KqoczUsEFEAzHOUuwf0I=",
+        "ctpInsurer": "MAC"
+    }
+]
