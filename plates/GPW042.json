@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "GPW042",
+        "make": "FORD",
+        "bodyType": "TOURER",
+        "primaryColour": "GREEN",
+        "vehicleHash": "lHH1D7thjTG/F+pAuhohfBaBOC8x3tUZIQEhOzWIdE4=",
+        "ctpInsurer": "NRMA",
+        "expiry": "2025-01-10T00:00:00.000+10:30"
+    },
+    {
+        "plate": "GPW042",
+        "make": "FORD",
+        "bodyType": "UTILITY",
+        "primaryColour": "GREEN",
+        "vehicleHash": "WhioS9uH5ELuxPuK/NT+NiRW56BEjzQfut5s7ob8MLs=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    }
+]
