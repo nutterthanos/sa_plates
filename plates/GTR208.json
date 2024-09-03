@@ -1,0 +1,33 @@
+[
+    {
+        "plate": "GTR208",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "QSvBML7QrAE6U5mPY3NqPiUDCp30L1usGyoKYNwr/kI=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2027-09-22T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "GTR208",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "wNJ+ulkxYvGguLwI3WeTXwH5BDMlRvxFyrIxDAw2bDw=",
+        "ctpInsurer": "ALLIANZ"
+    },
+    {
+        "plate": "GTR208",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "SILVER",
+        "vehicleHash": "5OWuQ0zA3QaGjv5eAQfg9LpYja5p4fVt2uTDdIN1kvQ=",
+        "ctpInsurer": "MAC"
+    }
+]
