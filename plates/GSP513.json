@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GSP513",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "WHITE",
+        "vehicleHash": "zU1ZgvSNU3ikDLmrbXlUsT1cIPT17IG0BC6JRQNTOGU=",
+        "registeredGvmGcm": "2095/",
+        "manufacturerGvmGcm": "2095/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-12T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

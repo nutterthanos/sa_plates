@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "GSP711",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "XZp6nQBO0JBvCo11yCtsqq65oY4Lu+C46wDwgg8Y6Tg=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4501/4501",
+        "manufacturerGvmGcm": "4501/4501",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SP20 20 KM/H MAXIMUM"
+        },
+        "expiry": "2024-11-20T00:00:00.000+10:30",
+        "conditions": [
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

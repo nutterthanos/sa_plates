@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "GSP854",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "5RVTk4uhJIkoJkrrJ+AxM8icYNfqd+IxXCSBcto3vTI=",
+        "registeredGvmGcm": "2378/",
+        "manufacturerGvmGcm": "2378/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

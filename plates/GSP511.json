@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GSP511",
+        "make": "DAVID BROWN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "WHITE",
+        "vehicleHash": "hbvZRJpyTecP/KuKOh4RBsX+4+Ue3YHY1M2/2glu+SA=",
+        "registeredGvmGcm": "2740/",
+        "manufacturerGvmGcm": "2740/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-12T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GSP444",
+        "make": "KUBOTA",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "g4l3vkeE6mg5+pExSZVBqVdYUk9nWchcax1C3qGFIOo=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6400/6400",
+        "manufacturerGvmGcm": "6400/6400",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]
