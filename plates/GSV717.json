@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GSV717",
+        "make": "STEIGER",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLACK",
+        "vehicleHash": "gW5m6VZNLRQVWjH7o8FwMmMR4VLyzr+DB8JZngnSjQo=",
+        "registeredConfiguration": "TSV2 - 2 axle SPV - Truck",
+        "registeredGvmGcm": "7000/11500",
+        "manufacturerGvmGcm": "7000/11500",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

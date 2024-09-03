@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "GSV208",
+        "make": "ALLIS CHALMERS",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "Qoy/BQ4afhtYq+NvsxGq2WZdcAf430kccVVGx078nnw=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "11560/",
+        "manufacturerGvmGcm": "11560/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-05-24T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

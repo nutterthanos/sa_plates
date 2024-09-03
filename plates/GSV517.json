@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GSV517",
+        "make": "FORD",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "OCZ5sMd9Qx1G8OA7JM8lh0IzMd3Vo6AIuUUWHjRpMpI=",
+        "registeredConfiguration": "TSV2 - 2 axle SPV - Truck",
+        "registeredGvmGcm": "12800/",
+        "manufacturerGvmGcm": "12800/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

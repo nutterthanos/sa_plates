@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GSV845",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "jtmpauGnqb21uZrNvUNPx7y5R1yBOe/MW5KiK/zLLY0=",
+        "registeredGvmGcm": "3730/",
+        "manufacturerGvmGcm": "3730/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-05-16T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

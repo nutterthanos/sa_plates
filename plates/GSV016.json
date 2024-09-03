@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "GSV016",
+        "make": "ALLIS CHALMERS",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREY",
+        "vehicleHash": "1HDJe7lgCuVGYOXAkEca7TBHH+K50pQtXAXOED+ZDys=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "10246/10246",
+        "manufacturerGvmGcm": "10246/10246",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

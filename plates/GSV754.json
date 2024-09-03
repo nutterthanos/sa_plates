@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "GSV754",
+        "make": "BEDFORD",
+        "bodyType": "TIPPER VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "owaxxytfEu5WOiKLL6P5L4ec2ZAlro9x1emuz9S5u8A=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "5900/7670",
+        "manufacturerGvmGcm": "5900/7670",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "expiry": "2025-04-21T00:00:00.000+09:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]

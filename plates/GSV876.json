@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GSV876",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "QGaJ5S5NpHY8LcBmwkWy/aYPJlK6e6MDACH5fZ4An/M=",
+        "registeredGvmGcm": "3855/",
+        "manufacturerGvmGcm": "3855/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-17T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

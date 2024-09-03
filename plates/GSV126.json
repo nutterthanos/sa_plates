@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "GSV126",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "zFJfuARP2M+sRAcjA9Tllb8kpRfqV42t6FVDed8ulN4=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "10000/",
+        "manufacturerGvmGcm": "10000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION",
+                "LO5A ROAD RESTRICTION GAZETTE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION",
+            "LO5A ROAD RESTRICTION GAZETTE"
+        ]
+    }
+]

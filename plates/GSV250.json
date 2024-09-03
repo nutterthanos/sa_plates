@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "GSV250",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "fQIeKTyFlDzZcVesXjo2L77p+SYr9Hx9IQI7f4kamuw=",
+        "registeredGvmGcm": "4400/",
+        "manufacturerGvmGcm": "4400/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
