@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "GTI966",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "UNI8E5f5/yInleHt3qB+vG7OQOLJHpl0YmVSLzFQtyU=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2027-03-21T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "GTI966",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "P9sK57oT9GgCZ+rGeQNACqy3+GvqKhTQ1EO6FX534Ro=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    }
+]
