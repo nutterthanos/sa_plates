@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "GTS370",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "KwMEa5aCy7Msdn+PVsznPgqeoWRygaU9ketQU0yZoOk=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-09-11T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "GTS370",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLACK",
+        "vehicleHash": "G6xVBOHpbteYs0O11I+esLGOPHzC8RWgLR8Zwqolamo=",
+        "ctpInsurer": "MAC"
+    }
+]

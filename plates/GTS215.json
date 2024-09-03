@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "GTS215",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "GREEN",
+        "vehicleHash": "cs/kxrGOmDKf7xKykopEoZJGN/83vfWSzrJobOOIs20=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-04-13T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "GTS215",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLACK",
+        "vehicleHash": "A/6FgqA+aaCZISs4FVO+yZm8oU6iO/QI07a3cXDqhZ8=",
+        "ctpInsurer": "MAC"
+    }
+]
