@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "GVP726",
+        "make": "FRANNA",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "6W6RoZ/FVA3iv/ZCsyKOT5/u82Dr/ZnVhC7AKYr7+KM=",
+        "registeredConfiguration": "OSV2 - 2 axle SPV - Overmass",
+        "registeredGvmGcm": "20500/20500",
+        "manufacturerGvmGcm": "24000/24000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "expiry": "2024-11-13T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]

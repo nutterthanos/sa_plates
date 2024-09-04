@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "GVP359",
+        "make": "TEREX",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "S4ot6g6XcuUHe4vURBV4RZJB0cRxPXAixkE1wqHrRfM=",
+        "registeredConfiguration": "OSV2 - 2 axle SPV - Overmass",
+        "registeredGvmGcm": "24000/24000",
+        "manufacturerGvmGcm": "25000/25000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

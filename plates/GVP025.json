@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GVP025",
+        "make": "TEREX",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "FOpQNV6FTwCg+ZUgoI9nKUjYM+C42smJI6pNQ3ItT0U=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "32234/32234",
+        "manufacturerGvmGcm": "32234/32234",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT"
+        ]
+    }
+]

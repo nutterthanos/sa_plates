@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GVP012",
+        "make": "HYUNDAI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "WHITE",
+        "vehicleHash": "hIUYr3up9DH/8iy19zpCeAhZO2jea1ItSXE2WJdC1Qs=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5510/",
+        "manufacturerGvmGcm": "5510/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

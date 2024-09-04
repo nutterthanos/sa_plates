@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "GVP700",
+        "make": "TEREX",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "gv9982de1zCFhH65VMVEuWtMmborl8jdZs8bR+MQ8aE=",
+        "registeredConfiguration": "OSV2 - 2 axle SPV - Overmass",
+        "registeredGvmGcm": "15000/",
+        "manufacturerGvmGcm": "15000/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "expiry": "2025-06-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]

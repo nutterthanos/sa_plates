@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GVP378",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "WHITE",
+        "vehicleHash": "wAMYDu2GoP+rF19aNdBSQaBzqvwx/0qWT+W28Rqdy4M=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "37300/45800",
+        "manufacturerGvmGcm": "37300/45800",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

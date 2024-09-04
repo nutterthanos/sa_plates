@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "GVP781",
+        "make": "VOLVO",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "1vwMQ0Oeo9AX0+GE9jCtM3V553ZLMJkEFj+osJeVUrY=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "31270/68270",
+        "manufacturerGvmGcm": "31270/68270",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "LO5 ROAD RESTRICTION",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "LO5 ROAD RESTRICTION",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

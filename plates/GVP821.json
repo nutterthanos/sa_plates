@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "GVP821",
+        "make": "NOT LISTED",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "PLDRegpA8wmNjy1TcHRoNWPQAY4HQjvrl3j+AUDCdNQ=",
+        "registeredGvmGcm": "1516/1516",
+        "manufacturerGvmGcm": "1516/1516",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-03-07T00:00:00.000+10:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

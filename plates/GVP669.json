@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "GVP669",
+        "make": "KOMATSU",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "+8tV3zMR10izf+fWVUlNpcKRLHEVe8w7ETgDzKXQuAk=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "22000/22000",
+        "manufacturerGvmGcm": "22000/22000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "OS2 NHVR NOTICE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2024-12-22T00:00:00.000+10:30",
+        "conditions": [
+            "OS2 NHVR NOTICE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

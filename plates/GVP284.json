@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "GVP284",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "HMM3nszJA6G3Hz3gyxRxKpQ0HpBcHR4vKGHtVCN/Hms=",
+        "registeredGvmGcm": "2600/2600",
+        "manufacturerGvmGcm": "2600/2600",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "ST40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-05-21T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "ST40 40 KM/H MAXIMUM"
+        ]
+    }
+]

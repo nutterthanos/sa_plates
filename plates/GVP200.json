@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "GVP200",
+        "make": "KUBOTA",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "E1ezf9/LZnn/im0QoNh2nIFuLznRlnpcvRzq531Mj04=",
+        "registeredGvmGcm": "1330/",
+        "manufacturerGvmGcm": "1330/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "LO3 ROUTE RESTRICTION"
+            ]
+        },
+        "expiry": "2027-10-05T00:00:00.000+10:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "LO3 ROUTE RESTRICTION"
+        ]
+    }
+]

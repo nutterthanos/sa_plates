@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GVP974",
+        "make": "CLARK",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "Z9OvQSOoe0B34tLfqBd6bTLPudT7aM7wuIR0tvoNLrM=",
+        "registeredGvmGcm": "3400/3400",
+        "manufacturerGvmGcm": "3400/3400",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-22T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

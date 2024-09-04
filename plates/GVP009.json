@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GVP009",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "WHITE",
+        "vehicleHash": "r2Ky9n/Q3c7bRqnkdUT1Dqds00q1wvrsjRqhF/mwdBc=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4540/",
+        "manufacturerGvmGcm": "4540/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

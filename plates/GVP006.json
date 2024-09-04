@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GVP006",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "/axJPTUj/9P2pKWpwiI2Tp+Ms0q28Jx5kKOkiIBGhvI=",
+        "registeredGvmGcm": "4130/4130",
+        "manufacturerGvmGcm": "4130/4130",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-01T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

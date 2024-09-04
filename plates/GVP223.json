@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GVP223",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "At8a1Q0tDxskP7LUwfEyHYNCGKo9Zvw3lXA+JFjdxfM=",
+        "registeredGvmGcm": "2625/2625",
+        "manufacturerGvmGcm": "2625/2625",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-29T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
