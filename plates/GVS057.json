@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "GVS057",
+        "make": "CATERPILLAR",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "GOLD",
+        "vehicleHash": "8ywGbg8Y56XZEfIxDdiP0zpfS9JEkd8gSiOthporKLU=",
+        "registeredConfiguration": "1SV2 - 2 axle SPV Under Limit",
+        "registeredGvmGcm": "11100/",
+        "manufacturerGvmGcm": "11100/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS2 NHVR NOTICE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS2 NHVR NOTICE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

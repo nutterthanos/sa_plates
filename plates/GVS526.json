@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "GVS526",
+        "make": "DAEWOO",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "DqeDFo8hXbMt/tKdaULLaJT7cInsfo9jh8ZqKvzm1qc=",
+        "registeredConfiguration": "TSV5 - 5 axle SPV - Truck",
+        "registeredGvmGcm": "28300/28300",
+        "manufacturerGvmGcm": "28300/28300",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

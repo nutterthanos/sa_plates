@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "GVS571",
+        "make": "MANITOU",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "5b+F0aViAfZjUuacHQvq3qv6awKH3lle38SNYLu89mI=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4530/",
+        "manufacturerGvmGcm": "4530/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO26 EXEMPTION FOR LHD AGRICULTURAL MACHINES",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO26 EXEMPTION FOR LHD AGRICULTURAL MACHINES",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

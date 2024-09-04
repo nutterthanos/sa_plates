@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "GVS322",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "TURQUOISE",
+        "vehicleHash": "juEd8ho1NQ2ppb/yQcOJFEzlr/ZQsAsxAplPz5clLC0=",
+        "registeredGvmGcm": "2890/",
+        "manufacturerGvmGcm": "2890/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-09-12T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

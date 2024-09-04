@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GVS214",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREY",
+        "vehicleHash": "DR0ZABUMjjgD1LqYOLs4C0A0ld2/6W3d2UAoJblaCQg=",
+        "registeredGvmGcm": "3960/3960",
+        "manufacturerGvmGcm": "3960/3960",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-02-28T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

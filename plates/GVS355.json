@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GVS355",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "iw2Jk5CoNYv9Y4jDNt6pplWyhzvsN+xcfoCa6IT6QvI=",
+        "registeredGvmGcm": "4277/",
+        "manufacturerGvmGcm": "4277/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-06-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GVS596",
+        "make": "JOHN DEERE",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "WYxKBQOsXcB0oRTOI68kcxtvW/VfpoOBPHxwSHlPPz0=",
+        "registeredGvmGcm": "2811/2811",
+        "manufacturerGvmGcm": "2811/2811",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-04-17T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

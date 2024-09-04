@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GVS190",
+        "make": "LAMBORGHINI",
+        "bodyType": "TRACTOR",
+        "primaryColour": "CREAM",
+        "vehicleHash": "St+1POk7rF2a3XI1uI/EgThLJXI7fkExcsKzXdkJh4I=",
+        "registeredGvmGcm": "2910/2910",
+        "manufacturerGvmGcm": "2910/2910",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-11-23T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

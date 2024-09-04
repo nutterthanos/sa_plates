@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "GVS457",
+        "make": "SUZUKI",
+        "bodyType": "AGRICULTURAL CYCLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "I9XIjUIY51dvUUaCYEjbgub26exJdP7X5itc47i9PAM=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

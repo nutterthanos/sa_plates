@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GVS358",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "b0dfZcDDdwlJ7Vykp10EUXUw60jWV3D/ZAAejthO0no=",
+        "registeredGvmGcm": "4147/",
+        "manufacturerGvmGcm": "4147/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-11-13T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

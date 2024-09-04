@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GVS821",
+        "make": "BELARUS",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "7t8w7/Nldw8i8faHue09xOV+iGmQWQ6IWmF1gJvhPH0=",
+        "registeredGvmGcm": "3910/3910",
+        "manufacturerGvmGcm": "3910/3910",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-06-24T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

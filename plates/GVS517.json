@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "GVS517",
+        "make": "BOBCAT",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "ACb4Da1T1WHYiUMpA7hPBU5ZG9zbRpVVgeMjx01KtmI=",
+        "registeredGvmGcm": "2435/3115",
+        "manufacturerGvmGcm": "2435/3115",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2024-12-02T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]
