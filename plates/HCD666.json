@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "HCD666",
+        "make": "NISSAN",
+        "bodyType": "TRUCK",
+        "primaryColour": "WHITE",
+        "vehicleHash": "ETHlyBYOTLYQOJdwkEuejydJQUrSuOi7zbfDk9iizN0=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "9000/12500",
+        "manufacturerGvmGcm": "9000/12500",
+        "ctpInsurer": "QBE",
+        "expiry": "2025-01-23T00:00:00.000+10:30"
+    },
+    {
+        "plate": "HCD666",
+        "make": "MERCEDES BENZ",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLACK",
+        "vehicleHash": "jtWotU2ajZwbIykg4ndiceTniKRmiz+ApSFrSJeciZs=",
+        "ctpInsurer": "QBE"
+    }
+]
