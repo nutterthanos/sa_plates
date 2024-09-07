@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "HER308",
+        "make": "HOLDEN",
+        "bodyType": "STATION WAGON",
+        "primaryColour": "WHITE",
+        "vehicleHash": "6wRgniEp/KGYXlxSWfm3ZmBEX/dkWvw5Iu7kfX9C9Ds=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2024-10-22T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "HER308",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "IkwOGJ0nlEEHeZ69lIKPFTvH9HLrZe0Je7EM2kEU3rE=",
+        "ctpInsurer": "MAC"
+    }
+]
