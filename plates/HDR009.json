@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "HDR009",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "+vpO/e2sYc97ZSKy8D3/RVswhIpHhzG7VladwCou0oI=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "28000/131000",
+        "manufacturerGvmGcm": "28000/131000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "LV1 NHVR NOTICE"
+        },
+        "expiry": "2024-12-01T00:00:00.000+10:30",
+        "conditions": [
+            "LV1 NHVR NOTICE"
+        ]
+    }
+]
