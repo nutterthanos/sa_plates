@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "HNH001",
+        "make": "HINO",
+        "bodyType": "TRUCK",
+        "primaryColour": "WHITE",
+        "vehicleHash": "tWNttZB6qpnUKlPTB0NVDFiczsL6T+PRJzXe9WQsNZo=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "8500/12000",
+        "manufacturerGvmGcm": "8500/12000",
+        "ctpInsurer": "NRMA",
+        "expiry": "2024-11-28T00:00:00.000+10:30"
+    },
+    {
+        "plate": "HNH001",
+        "make": "TOYOTA",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "qoTtAwfVJ+snlI+ZOWJDoFnSFPvwS293IfX8V3KaCMQ=",
+        "ctpInsurer": "MAC"
+    }
+]
