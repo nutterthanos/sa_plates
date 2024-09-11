@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "HOT200",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "tZ3jm0P6s1NWrRZYNcsI4ojhZmQ86V2cK0wacQXcom4=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "26500/97000",
+        "manufacturerGvmGcm": "26500/97000",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": "LV1 NHVR NOTICE"
+        },
+        "conditions": [
+            "LV1 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "HOT200",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "lRMz99Gq955Cit/DjIJ1D8sDQkGYexS/WhLXfgtTYuI=",
+        "ctpInsurer": "MAC"
+    }
+]

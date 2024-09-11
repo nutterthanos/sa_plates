@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "HOT351",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "BROWN",
+        "vehicleHash": "MAiGyh5ChwRM5oVZKSPHK8xS0VGyDDap7gv/oiz6Xno=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2026-06-13T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "HOT351",
+        "make": "FORD",
+        "bodyType": "TOURING UTILITY",
+        "primaryColour": "BLUE",
+        "vehicleHash": "bruB0Gu3o3t9rVwaviIauAvohK8rCCKFQM2WEKG70gs=",
+        "registeredGvmGcm": "2900/4540",
+        "manufacturerGvmGcm": "2900/4540",
+        "ctpInsurer": "MAC"
+    }
+]
