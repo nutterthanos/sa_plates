@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPV220",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "R/7Y6BaoYL5t2y8j4b+tpIVIDPKf0fbyirU+eKqgg5o=",
+        "registeredGvmGcm": "3250/",
+        "manufacturerGvmGcm": "3250/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-31T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

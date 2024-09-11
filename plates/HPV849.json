@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "HPV849",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "VqpMI2g1cYfUMz+T85zSwkePc/o1gNeSMyiprSUXevU=",
+        "registeredGvmGcm": "1200/",
+        "manufacturerGvmGcm": "1200/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-19T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

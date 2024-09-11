@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPV982",
+        "make": "WHITE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "SILVER",
+        "vehicleHash": "f5Ag0XMHlBN3SsWKhYBhGDcjOWYmc6EeEDZEG/vN/0U=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "8250/",
+        "manufacturerGvmGcm": "8250/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

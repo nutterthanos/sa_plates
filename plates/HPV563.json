@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "HPV563",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "CREAM",
+        "vehicleHash": "qDEAX8pO9YvGGLc/bx+edGKgCZ7TVWhl17rVW3NimOg=",
+        "registeredGvmGcm": "3674/3674",
+        "manufacturerGvmGcm": "3674/3674",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2024-10-27T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

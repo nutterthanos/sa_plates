@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "HPV378",
+        "make": "DEUTZ FAHR",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "KRm17yVl3Z5KO1WDaUCP3lwtS2DBY9jm3O9OoFjvqbY=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "8000/8000",
+        "manufacturerGvmGcm": "8000/8000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

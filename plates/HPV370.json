@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPV370",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "RT/r+LcM2okao6Y7db7/YJXfxofz/VeP3NL1C6rnClY=",
+        "registeredGvmGcm": "3140/",
+        "manufacturerGvmGcm": "3140/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-09-26T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

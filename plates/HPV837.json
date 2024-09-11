@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPV837",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BROWN",
+        "vehicleHash": "r5GbLzWdhaemZAuGYBYvuPPoeHE/68KZSoYqlecntpA=",
+        "registeredGvmGcm": "2330/",
+        "manufacturerGvmGcm": "2330/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-04-16T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

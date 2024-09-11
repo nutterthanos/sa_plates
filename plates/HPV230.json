@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "HPV230",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "kvY5mjDddYg7c7YYNNwpRqmvBviTcCVTeXBVHdLeBow=",
+        "registeredGvmGcm": "3800/",
+        "manufacturerGvmGcm": "3800/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

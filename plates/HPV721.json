@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPV721",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "TFWSJNAZARjDkPX2wOmNFRxNgDDF9mH3s8a5OAbGi4s=",
+        "registeredGvmGcm": "4125/",
+        "manufacturerGvmGcm": "4125/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-01-28T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

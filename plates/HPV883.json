@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPV883",
+        "make": "DEUTZ FAHR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "cu1AeMHg/0vC4/XKP87l2QKM4gqNButOUaJDYYQ6y2k=",
+        "registeredGvmGcm": "3192/",
+        "manufacturerGvmGcm": "3192/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-09-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

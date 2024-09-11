@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPV394",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "9GSl/jXiTkZQrqLYFObnrX6h2OWnp137pcI+5jX88Jw=",
+        "registeredGvmGcm": "1600/",
+        "manufacturerGvmGcm": "1600/",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
