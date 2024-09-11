@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPS086",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "C7H3ibMXLHd8gLv7Xb6rebXiJSWKI8HAmeq+1LJYC6M=",
+        "registeredGvmGcm": "3396/",
+        "manufacturerGvmGcm": "3396/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-04-16T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

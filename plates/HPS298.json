@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPS298",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "lVIOXbQVzrLAt0tnLP/k7VIuJZfFFoJ4Fc8n3tH3d20=",
+        "registeredGvmGcm": "4240/7240",
+        "manufacturerGvmGcm": "4240/7240",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-03-18T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

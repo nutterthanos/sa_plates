@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "HPS742",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "OqBQJTJOAFDg3fowxSDjUzn3gaNRJX5wbbRcYW8Zkek=",
+        "registeredGvmGcm": "750/",
+        "manufacturerGvmGcm": "750/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

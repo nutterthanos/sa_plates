@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "HPS409",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "Fi6+NsYalpkbd4G7n5tCk/lOYc65f1D+H3HtVtZQ/gU=",
+        "registeredGvmGcm": "2250/2250",
+        "manufacturerGvmGcm": "2250/2250",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-06-13T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

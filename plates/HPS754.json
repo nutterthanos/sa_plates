@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPS754",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "iyCoM0lqf8CW/Qrwuv2Zq7s62N70GFwX5e+p/9/dQl0=",
+        "registeredGvmGcm": "4140/4140",
+        "manufacturerGvmGcm": "4140/4140",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-09-27T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

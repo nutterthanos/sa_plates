@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPS770",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "qDAxKmZxkHjPMEGVopa7D1uNuiB41VSfBHOH3voJo4c=",
+        "registeredGvmGcm": "2510/",
+        "manufacturerGvmGcm": "2510/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-03-17T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

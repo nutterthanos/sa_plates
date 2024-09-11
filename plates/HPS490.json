@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPS490",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "GTKY8okLmu8eUA7Yhy5hW8ryHCcpNQItGxu26b4NRaE=",
+        "registeredGvmGcm": "4417/4417",
+        "manufacturerGvmGcm": "4417/4417",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+            ]
+        },
+        "expiry": "2026-01-21T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+        ]
+    }
+]

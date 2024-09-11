@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "HPS961",
+        "make": "JOHN DEERE",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "OsCsld8udvz2HZYtB2P4QMR5PppuNtJzZOtQRVPouW0=",
+        "registeredGvmGcm": "468/468",
+        "manufacturerGvmGcm": "468/468",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO29 GAZETTE - AGRICULTURAL UTILITY VEHICLES",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-16T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO29 GAZETTE - AGRICULTURAL UTILITY VEHICLES",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

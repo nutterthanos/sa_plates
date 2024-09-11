@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPS751",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "TdFPqHSte7ztsoOCgT6qLTD5RHBPLy1cq9vIrjbdtik=",
+        "registeredGvmGcm": "3770/",
+        "manufacturerGvmGcm": "3770/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-06-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

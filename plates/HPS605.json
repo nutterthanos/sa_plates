@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPS605",
+        "make": "JLG",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "BEIGE",
+        "vehicleHash": "Q/vn6l4Q9f+SSOBO1HZRX4nxukgGtHeGNhh2nSNvpXE=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "12400/",
+        "manufacturerGvmGcm": "12400/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

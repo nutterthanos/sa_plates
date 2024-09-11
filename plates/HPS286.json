@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPS286",
+        "make": "LANDINI",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "PhS4GOhDauoF3/PFJaj7AXud1BtTXZ4WzDXfy2I2KZc=",
+        "registeredGvmGcm": "2650/2650",
+        "manufacturerGvmGcm": "2650/2650",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-05-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

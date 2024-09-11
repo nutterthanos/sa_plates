@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPS917",
+        "make": "TADANO",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "qwv696rdiYc5rkdpioTJviPsLmvD3wsamWkvRiQ1K+Q=",
+        "registeredConfiguration": "OSV3 - 3 axle SPV - Overmass",
+        "registeredGvmGcm": "26000/26000",
+        "manufacturerGvmGcm": "26000/26000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]

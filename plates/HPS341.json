@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPS341",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "wirBtVO0UDjSQWMD8ePl2Pj2hS+AoCybCQzSkx9yZjE=",
+        "registeredGvmGcm": "2470/",
+        "manufacturerGvmGcm": "2470/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

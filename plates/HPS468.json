@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "HPS468",
+        "make": "TORO",
+        "bodyType": "MOWER VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "7pLA3KDR4+g42JmH2EjMm0a9gePNs6iDH4oNKt9fpmE=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

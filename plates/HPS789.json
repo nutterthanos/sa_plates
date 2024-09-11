@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "HPS789",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "vLf8v0E3S3U5It2ateVxjkkGBZCniYKFdjctKzojKPE=",
+        "registeredGvmGcm": "1200/",
+        "manufacturerGvmGcm": "1200/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPS885",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "fZnz4ZHvUIGiGr+2JnX+UKnloHlhBWb1sQ9n8M7vzt8=",
+        "registeredGvmGcm": "3700/6200",
+        "manufacturerGvmGcm": "3700/6200",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-22T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

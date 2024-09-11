@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPS474",
+        "make": "HONDA",
+        "bodyType": "QUAD CYCLE",
+        "primaryColour": "RED",
+        "vehicleHash": "yCNd6Q1Z4E//0C4ImOa7BttyK6KmFfSv2D6ZagGIKII=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO19 GAZETTE - 3&4 WHEEL AGRICULTURAL BIKE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-02T00:00:00.000+09:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO19 GAZETTE - 3&4 WHEEL AGRICULTURAL BIKE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

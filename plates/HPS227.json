@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HPS227",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "yP+kq5d8YOLfcOPkjVCouQLZc1B881BdEXcUxXMGSCo=",
+        "registeredGvmGcm": "2470/2470",
+        "manufacturerGvmGcm": "2470/2470",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-03-06T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
