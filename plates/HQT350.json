@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "HQT350",
+        "make": "HOLDEN",
+        "bodyType": "UTILITY",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "Vs6tUNQKlCwJtWlhOywqOS3PuG0Jqnj52sGB+Nd6Vjk=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2026-06-01T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "HQT350",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLACK",
+        "vehicleHash": "JIBCXbFEHUNb5rQ4ARSKLOWgZo/2KqeEdCUI9tNI7Rc=",
+        "ctpInsurer": "QBE"
+    }
+]
