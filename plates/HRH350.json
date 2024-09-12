@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "HRH350",
+        "make": "MITSUBISHI",
+        "bodyType": "UTILITY",
+        "primaryColour": "WHITE",
+        "vehicleHash": "x4fe+pLiBz5zseAw7lgb4vjR2kRi1bonrro6ChWjzwo=",
+        "ctpInsurer": "QBE",
+        "expiry": "2025-08-18T00:00:00.000+09:30"
+    },
+    {
+        "plate": "HRH350",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "nq+bMX6zx1aq1cbCuO/taudSpnY7SaxnvcH8VG9w6qA=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "26000/90000",
+        "manufacturerGvmGcm": "26000/90000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
