@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "HSP221",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "tIr8HTfACQNNbpuFu3HcKdZWvUlDGZ3vHHM3o3DznKA=",
+        "registeredGvmGcm": "2000/2000",
+        "manufacturerGvmGcm": "2000/2000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

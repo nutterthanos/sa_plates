@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HSP085",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "QCDDkkkKpJLE2N4V8pOR2UaqoPLsCrKIUQH9acH4WwA=",
+        "registeredGvmGcm": "1734/",
+        "manufacturerGvmGcm": "1734/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-01-03T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

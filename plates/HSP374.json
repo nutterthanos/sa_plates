@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HSP374",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "vM2OpMWdMqrvVhFuUBl4LfQ4LkzsB0ofJSd1DjcCoIY=",
+        "registeredGvmGcm": "1633/1633",
+        "manufacturerGvmGcm": "1633/1633",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-11-06T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

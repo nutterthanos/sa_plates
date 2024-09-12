@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HSP222",
+        "make": "KUBOTA",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "wo/lrolfehxgvlekv7sFkiV6uOm+8hi1oUU4yop16ZA=",
+        "registeredGvmGcm": "2200/2200",
+        "manufacturerGvmGcm": "2200/2200",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-09-21T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

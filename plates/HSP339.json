@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HSP339",
+        "make": "KUBOTA",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "Xd1SYazAN9S9kC4+jDTeVotKvWnwefPLRG6ZtmzvoOk=",
+        "registeredGvmGcm": "2880/",
+        "manufacturerGvmGcm": "2880/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-08-21T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

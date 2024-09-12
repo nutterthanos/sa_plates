@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HSP965",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "wmVpX8qfe3civgvQbt5UnpCcvjOyvVtDo4nwjmXONVE=",
+        "registeredGvmGcm": "3780/",
+        "manufacturerGvmGcm": "3780/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-14T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

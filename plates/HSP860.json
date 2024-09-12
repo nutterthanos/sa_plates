@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "HSP860",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "TzVzhwLeZgIuRHyFr15+XsDaO25Xj1PIsKqODowQmEw=",
+        "registeredGvmGcm": "3490/",
+        "manufacturerGvmGcm": "3490/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

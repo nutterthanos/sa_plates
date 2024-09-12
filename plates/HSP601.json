@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "HSP601",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "V/ttsPiPFROuUNPLd9htjsASjENToWjjAUvN5oiJ4/A=",
+        "registeredGvmGcm": "1520/",
+        "manufacturerGvmGcm": "1520/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-12-14T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]
