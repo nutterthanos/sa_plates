@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HVP341",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "bOnd2R1rcFgA3+x4ftrlvL8fefl8mS8KAgEyvz0QlT0=",
+        "registeredGvmGcm": "4110/",
+        "manufacturerGvmGcm": "4110/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-01-09T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

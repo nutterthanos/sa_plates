@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HVP460",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "6uui1Urq+cObySA7kSCkn/7YPta3nEGVWfp8TGsF6y4=",
+        "registeredGvmGcm": "2635/2635",
+        "manufacturerGvmGcm": "2635/2635",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-02-25T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

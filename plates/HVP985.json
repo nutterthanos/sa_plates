@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "HVP985",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "qv1NBa7wk4NXWcNMOa8DW2Fy/CHKhuMdn+VCmlQZwpI=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6010/6010",
+        "manufacturerGvmGcm": "6010/6010",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "SP40 40 KM/H MAXIMUM"
+        },
+        "expiry": "2025-06-29T00:00:00.000+09:30",
+        "conditions": [
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

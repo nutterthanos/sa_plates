@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HVP729",
+        "make": "DEUTZ",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "ZmuIQk10eshvwBNy2Kqt5gqLHG+WzbUH/NNG5fY7rI4=",
+        "registeredGvmGcm": "3800/3800",
+        "manufacturerGvmGcm": "3800/3800",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-04-05T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

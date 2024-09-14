@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "HVP927",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "IkaOnP53SEINPAlUPDHOUBDG2l2uEsgZ2rhDXU6HKT8=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "13100/13100",
+        "manufacturerGvmGcm": "13100/13100",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT"
+            ]
+        },
+        "expiry": "2025-01-07T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT"
+        ]
+    }
+]

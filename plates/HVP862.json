@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HVP862",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "uZQTgbfZKEUcLNV+dCHUt4pRDGKfrgbXrOytEnBECBg=",
+        "registeredGvmGcm": "2710/",
+        "manufacturerGvmGcm": "2710/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-02-09T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "HVP214",
+        "make": "CHALLENGER",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "2cq3dcnbE1o0CbZgvDXFxWA0fhfnrdA+4hBfdjcvKCM=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "11734/11734",
+        "manufacturerGvmGcm": "11734/11734",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM2 NHVR NOTICE"
+            ]
+        },
+        "expiry": "2025-05-04T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM2 NHVR NOTICE"
+        ]
+    }
+]

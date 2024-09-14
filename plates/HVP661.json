@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "HVP661",
+        "make": "NEW HOLLAND",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "Sei0KXD8p4qdK9r1JNZEOYX3yNShPnvuCvKSAKq1Xi8=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "16000/16000",
+        "manufacturerGvmGcm": "16000/16000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SP40 40 KM/H MAXIMUM"
+        },
+        "expiry": "2024-12-13T00:00:00.000+10:30",
+        "conditions": [
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

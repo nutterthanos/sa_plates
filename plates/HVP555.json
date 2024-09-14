@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "HVP555",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "3ZUqumrfvzok0T567b5BOnd/rxfO+CLpnc6+eZFlI5g=",
+        "registeredGvmGcm": "820/",
+        "manufacturerGvmGcm": "820/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

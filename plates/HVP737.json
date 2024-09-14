@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "HVP737",
+        "make": "SNORKEL",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "MjExwXNrxfcP3jidz/dG8FViEld6fB46g2BhRBGSntg=",
+        "registeredGvmGcm": "4445/",
+        "manufacturerGvmGcm": "4445/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HVP431",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "CeaO4fG+kpXrSEt7E4io0NtjTZOxIpsB8kXKo9BahL0=",
+        "registeredGvmGcm": "3460/",
+        "manufacturerGvmGcm": "3460/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-09-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

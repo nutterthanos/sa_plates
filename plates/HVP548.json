@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HVP548",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "xtNhoccOIBh8QIhOR8iC3ebUqtWTVfCiaBVGFk3n24U=",
+        "registeredGvmGcm": "4350/4350",
+        "manufacturerGvmGcm": "4350/4350",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-04-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

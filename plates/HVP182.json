@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "HVP182",
+        "make": "ATLAS COPCO",
+        "bodyType": "INDUSTRIAL TRAILER",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "XeBxnx6IosoD4INz9iJ87FhAC8LFlk5M9+D6ppU9o7o=",
+        "registeredGvmGcm": "520/",
+        "manufacturerGvmGcm": "520/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING"
+            ]
+        },
+        "expiry": "2024-11-30T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING"
+        ]
+    }
+]

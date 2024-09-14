@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "HVP898",
+        "make": "XCMG",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "BROWN",
+        "vehicleHash": "HhLwGhYuswqS5uINnQ93Yg2CwxohTUpy3jIIEMFODtI=",
+        "registeredConfiguration": "OSV3 - 3 axle SPV - Overmass",
+        "registeredGvmGcm": "29800/29800",
+        "manufacturerGvmGcm": "29800/29800",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "expiry": "2024-12-03T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

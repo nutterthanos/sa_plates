@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "HVP210",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "EzrkJ6kaS7Vh3I5v1JGAGHGRbghm2FVPcvyZCCdwlU8=",
+        "registeredGvmGcm": "3130/3130",
+        "manufacturerGvmGcm": "3130/3130",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
