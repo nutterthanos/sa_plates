@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "INK001",
+        "make": "MITSUBISHI",
+        "bodyType": "UTILITY",
+        "primaryColour": "BROWN",
+        "vehicleHash": "AyGmnosHwnd0ir0Z1JyIiyygOIbjsGrSpfPCkGRjK8s=",
+        "ctpInsurer": "AAMI",
+        "expiry": "2024-11-22T00:00:00.000+10:30"
+    },
+    {
+        "plate": "INK001",
+        "make": "VOLKSWAGEN",
+        "bodyType": "STATION WAGON",
+        "primaryColour": "WHITE",
+        "vehicleHash": "CqYbt0Ld3V+sxENbgd+wSs4MtOcqOrdiUsJ4g6haHOM=",
+        "ctpInsurer": "AAMI"
+    },
+    {
+        "plate": "INK001",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "CREAM",
+        "vehicleHash": "bHzjBJvkUOn469FgZFWrxMqnZw4O/zXig7+86SnuLcw=",
+        "ctpInsurer": "MAC"
+    }
+]
