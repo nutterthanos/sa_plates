@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IPS634",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "w6TV4aQNV+UTnd+WJmkinXJSYcjczpbWseY+alRjY5E=",
+        "registeredGvmGcm": "3820/3820",
+        "manufacturerGvmGcm": "3820/3820",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-11T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IPS114",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "ZcHrS+h3xlKyn4mKBovgD8Hew5bnjkrUC0xXA8GU1i4=",
+        "registeredGvmGcm": "2981/2981",
+        "manufacturerGvmGcm": "2981/2981",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+            ]
+        },
+        "expiry": "2025-07-19T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+        ]
+    }
+]

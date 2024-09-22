@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IPS023",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "CNCJupEGxRMLJ64eDXSE7sleTJ14JTF5BFfYNSnhoeY=",
+        "registeredGvmGcm": "3930/6220",
+        "manufacturerGvmGcm": "3930/6220",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2026-06-23T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

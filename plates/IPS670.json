@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IPS670",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "KkBBD2Cz7BpUFp8UKnMYBcR/sWL4+abhCMqr2uMrBHw=",
+        "registeredGvmGcm": "3765/3765",
+        "manufacturerGvmGcm": "3765/3765",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-09-06T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

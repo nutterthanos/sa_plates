@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "IPS879",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "IhbEjp+wy5KAMLXlmJ2KXNOg7ACv+nliGxcoIpdPDPY=",
+        "registeredGvmGcm": "3870/",
+        "manufacturerGvmGcm": "3870/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2027-06-23T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]
