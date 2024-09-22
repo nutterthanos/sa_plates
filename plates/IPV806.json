@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "IPV806",
+        "make": "SAME",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "V4HWa8hFQNrEGZ8HdRqUoM4LlZASremBkxCBW6bWOjE=",
+        "registeredGvmGcm": "2800/",
+        "manufacturerGvmGcm": "2800/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-06-08T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

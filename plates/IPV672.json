@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "IPV672",
+        "make": "NOT LISTED",
+        "bodyType": "DRILLING RIG VEHICLE",
+        "primaryColour": "GREY",
+        "vehicleHash": "L01HROkIqbqK9dkh1EpwA3LXdWXf6XPByziApBfCrKY=",
+        "registeredConfiguration": "OSV4 - 4 axle SPV - Overmass",
+        "registeredGvmGcm": "65000/",
+        "manufacturerGvmGcm": "65000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5A ROAD RESTRICTION GAZETTE",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5A ROAD RESTRICTION GAZETTE",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

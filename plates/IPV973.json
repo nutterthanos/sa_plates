@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IPV973",
+        "make": "ZETOR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "cJDmQ6E6iLGPEs6eERAeBMbPRST53IdyGORUyTiOHjg=",
+        "registeredGvmGcm": "2880/",
+        "manufacturerGvmGcm": "2880/",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-09-26T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

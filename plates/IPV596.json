@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IPV596",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "ADaFTVqu5ZNEQI/8hJxOX8mV6BE7bK1wXpbk3PlbbOA=",
+        "registeredGvmGcm": "2509/2509",
+        "manufacturerGvmGcm": "2509/2509",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-10-15T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

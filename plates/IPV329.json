@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IPV329",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "6GRKQsICd7cdGY/gWEt25CdTXpWP9VjYOycrPuYfArQ=",
+        "registeredGvmGcm": "3800/",
+        "manufacturerGvmGcm": "3800/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-03-06T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

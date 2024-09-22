@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "IPV333",
+        "make": "WHITE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "s3OWcG3L9LiSWM5rK3ASgNHbHfOmFeWGGhj9BItHT9s=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5000/",
+        "manufacturerGvmGcm": "5000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IPV686",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "SWKhNgkeCKAdLzB4bckMNoNJ3/EFQkBlQZ5w0uFhHBg=",
+        "registeredGvmGcm": "2170/",
+        "manufacturerGvmGcm": "2170/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-04-14T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
