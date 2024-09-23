@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ISP313",
+        "make": "JOHN DEERE",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "Y4aeaedInwTLHoBq4SkkklMRpvFSMFF243MwfhVjDKY=",
+        "registeredGvmGcm": "3320/3320",
+        "manufacturerGvmGcm": "3320/3320",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

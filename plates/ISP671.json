@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ISP671",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "bHJg4UKsj1AOH4dAIeS7eKeXu0OCbhaXTWpYqBADosM=",
+        "registeredGvmGcm": "4350/",
+        "manufacturerGvmGcm": "4350/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-08-19T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

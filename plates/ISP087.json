@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ISP087",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "gTnvuL0u2RdtvIwQWOBbpgVeVysZneKWU/sjc2gRtAk=",
+        "registeredGvmGcm": "2922/",
+        "manufacturerGvmGcm": "2922/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-08-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

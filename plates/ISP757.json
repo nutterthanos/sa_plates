@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "ISP757",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "Xy5zB/hEVNQSE9m0FPxIvP2J3c0F+eSvNxUB3BwxjkA=",
+        "registeredGvmGcm": "4400/4400",
+        "manufacturerGvmGcm": "4400/4400",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

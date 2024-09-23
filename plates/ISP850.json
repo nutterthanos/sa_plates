@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "ISP850",
+        "make": "MASSEY HARRIS",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "qQjjMTKTqk90MOCNddnKHku5C7dqPeaoHAYT4goffqA=",
+        "registeredGvmGcm": "3000/",
+        "manufacturerGvmGcm": "3000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

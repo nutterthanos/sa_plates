@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "ISP779",
+        "make": "ALLIS CHALMERS",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "SILVER",
+        "vehicleHash": "WCoi+wq9Sc6GndzYXw/uaE+vFeLzusK8EhRA7asGEko=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9300/9300",
+        "manufacturerGvmGcm": "9300/9300",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

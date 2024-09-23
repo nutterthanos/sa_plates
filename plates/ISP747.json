@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ISP747",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "CJclnf8j6qD42UXV3qu+xLo43IqW6MWuejgxnZAtOfI=",
+        "registeredGvmGcm": "2595/",
+        "manufacturerGvmGcm": "2595/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

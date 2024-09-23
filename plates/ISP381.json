@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "ISP381",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "1Je2JpgZXDLOyAX4y8ZcU/VbREGztgI+GyeunTjnXo8=",
+        "registeredGvmGcm": "3000/",
+        "manufacturerGvmGcm": "3000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

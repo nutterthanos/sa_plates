@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "ISP253",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "nm8EVMn8pdbRdAl+KX+bTSLy5TisTKvUvdd15llk+Nw=",
+        "registeredGvmGcm": "3300/3300",
+        "manufacturerGvmGcm": "3300/3300",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

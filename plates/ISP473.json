@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "ISP473",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "fXBjX91XpYuVohBDFJP+hiTW8fdQB+qH4p0oqljoWjY=",
+        "registeredGvmGcm": "3560/",
+        "manufacturerGvmGcm": "3560/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "ERV EMERGENCY RESPONSE VEHICLE",
+                "CTBA CONDITIONS TO BE ASSESSED",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "ERV EMERGENCY RESPONSE VEHICLE",
+            "CTBA CONDITIONS TO BE ASSESSED",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

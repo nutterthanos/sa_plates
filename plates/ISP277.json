@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ISP277",
+        "make": "LEYLAND",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "awqPR9Av8odHLI47SMfHZn7MimcxIV+5c+n5kDM9Cmg=",
+        "registeredGvmGcm": "2561/",
+        "manufacturerGvmGcm": "2561/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-18T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

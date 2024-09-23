@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ISP365",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "cHr8N9vi4z4zGbsP0QPHz0+BQ239rZcvkSIllrQDOu8=",
+        "registeredGvmGcm": "3380/",
+        "manufacturerGvmGcm": "3380/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-06-22T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

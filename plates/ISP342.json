@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ISP342",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "vuAn4vZ/96tNKzlHTwNoFbky4ijC4rdh0ONz0No+NZo=",
+        "registeredGvmGcm": "3483/",
+        "manufacturerGvmGcm": "3483/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-21T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

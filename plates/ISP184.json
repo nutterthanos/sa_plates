@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "ISP184",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "7O9J7gKmyi4h0xvlb5UjDDFXvtlyAHfSpg2rFnNQ1CQ=",
+        "registeredGvmGcm": "2450/",
+        "manufacturerGvmGcm": "2450/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

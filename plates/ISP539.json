@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ISP539",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "FHbIVMbo/Lzg3pPx/aXgHDLqWi6dHhxuG7ZwjhNvt4I=",
+        "registeredGvmGcm": "4484/",
+        "manufacturerGvmGcm": "4484/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-10-07T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

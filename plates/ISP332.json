@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "ISP332",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "iivgPUHCmCCKbz3BrdTCLM9UKOsitvlYX89fQhkEITI=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4640/4640",
+        "manufacturerGvmGcm": "4640/4640",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    },
+    {
+        "plate": "ISP332",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "GREEN",
+        "vehicleHash": "k6TlyK9XR+oAlkCKUfi+lrjhGI8u0hssG3OZPRgW/jg=",
+        "ctpInsurer": "MAC"
+    }
+]
