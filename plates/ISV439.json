@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ISV439",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "OAebLikM0qw/glxhh2awYQ4SA0w5wTktUoyYp7OunEA=",
+        "registeredGvmGcm": "3850/3850",
+        "manufacturerGvmGcm": "3850/3850",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

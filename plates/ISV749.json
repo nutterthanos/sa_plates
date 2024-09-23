@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ISV749",
+        "make": "JOHN DEERE",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "qoKoIXGdJmx8pDBfIpSlE0yrGGHnyzpfmqSKBZ1rUcg=",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO29 GAZETTE - AGRICULTURAL UTILITY VEHICLES",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO29 GAZETTE - AGRICULTURAL UTILITY VEHICLES",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

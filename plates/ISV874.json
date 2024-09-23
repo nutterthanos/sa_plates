@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ISV874",
+        "make": "CLARK",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "Uk7Mr7SCMbiTbW32r1QQsx2Vy7bIDiQQ8ebHFaD30U8=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO29 GAZETTE - AGRICULTURAL UTILITY VEHICLES",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-11-30T00:00:00.000+10:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO29 GAZETTE - AGRICULTURAL UTILITY VEHICLES",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

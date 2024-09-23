@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ISV793",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "T1gxb3v0rcDNH5MrgUSc6bwHirJUnmohUJ/vBewv4WA=",
+        "registeredGvmGcm": "1950/",
+        "manufacturerGvmGcm": "1950/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

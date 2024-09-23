@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ISV954",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "5xRUouDU3QkU2SCET1HXCO2hBRvdCkswFZHGIi/cUPw=",
+        "registeredGvmGcm": "4210/",
+        "manufacturerGvmGcm": "4210/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ISV497",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "a6+ddZjw/iXNozdpGVKjFuvVu2QIKQ9oYrzX9b7FXDw=",
+        "registeredGvmGcm": "3206/3206",
+        "manufacturerGvmGcm": "3206/3206",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-06-11T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

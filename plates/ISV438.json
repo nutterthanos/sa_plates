@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "ISV438",
+        "make": "CLARK",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "NI+yzlcBfLe8dB1ebdEkAEa1XOqukkfFb/PBfb/NQ+8=",
+        "registeredGvmGcm": "2360/",
+        "manufacturerGvmGcm": "2360/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5A ROAD RESTRICTION GAZETTE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5A ROAD RESTRICTION GAZETTE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

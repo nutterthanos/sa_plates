@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "ISV315",
+        "make": "HOMEMADE",
+        "bodyType": "INDUSTRIAL TRAILER",
+        "primaryColour": "BLUE",
+        "vehicleHash": "SrowgIrfqYcF4s+v4WZXL22hHnJFNhBAXOFCB/Bw18o=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "8000/",
+        "manufacturerGvmGcm": "8000/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS2 NHVR NOTICE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS2 NHVR NOTICE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ISV800",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "5QuoP9pKR87+8dmkFmPy0N7FYvWYOSgXiAMlhBR9fNE=",
+        "registeredGvmGcm": "3365/",
+        "manufacturerGvmGcm": "3365/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

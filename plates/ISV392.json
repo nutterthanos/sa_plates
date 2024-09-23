@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ISV392",
+        "make": "INTERNATIONAL",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "yb66ePWffQw7oh8HUFcXdeMaa7ZsKvGRWm0tNt3UFKI=",
+        "registeredConfiguration": "TSV2 - 2 axle SPV - Truck",
+        "registeredGvmGcm": "7202/7202",
+        "manufacturerGvmGcm": "7202/7202",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

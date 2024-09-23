@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "ISV316",
+        "make": "HOMEMADE",
+        "bodyType": "INDUSTRIAL TRAILER",
+        "primaryColour": "BLUE",
+        "vehicleHash": "f5gEVl2c8745V4anEE3ZW99HzZ/fqFDIZPtFMELMTfo=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "13000/",
+        "manufacturerGvmGcm": "13000/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS2 NHVR NOTICE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS2 NHVR NOTICE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

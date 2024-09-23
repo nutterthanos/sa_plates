@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "ISV834",
+        "make": "JLG",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "59O4uxBsO8sAe+E6gbK2X1F8hZ5fWUeJ0a2yOiQsPRo=",
+        "registeredConfiguration": "1SV2 - 2 axle SPV Under Limit",
+        "registeredGvmGcm": "4994/4994",
+        "manufacturerGvmGcm": "4994/4994",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

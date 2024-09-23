@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "ISV695",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "QTJRm1vUp8e/hNXTek08FRQn7Z2Y+g1Vubk9//+wNO0=",
+        "registeredGvmGcm": "2159/",
+        "manufacturerGvmGcm": "2159/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
