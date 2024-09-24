@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "IVP207",
+        "make": "JCB",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "aefhT+u1HxlUc978ZAU3yJSR3hxFICPV4eleJw9T4Qc=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6900/6900",
+        "manufacturerGvmGcm": "6900/6900",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-03-27T00:00:00.000+10:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

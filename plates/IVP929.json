@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "IVP929",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "BngQ2opnYlaOiBNBKgelXDKLPPH3BfinK27xtzOWP18=",
+        "registeredGvmGcm": "2715/",
+        "manufacturerGvmGcm": "2715/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-09-18T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

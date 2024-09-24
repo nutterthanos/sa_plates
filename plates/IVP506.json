@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IVP506",
+        "make": "JLG",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "NbfCwPT6uyvdpUx3wSSOT0DX6ORWui20cytRF13BPBc=",
+        "registeredGvmGcm": "3120/",
+        "manufacturerGvmGcm": "3120/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-06-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

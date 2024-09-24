@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IVP451",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "NG0n9DSTpX2BM3UO4b2Dpdu6gcPhMUB1VBYT6+9SyGw=",
+        "registeredGvmGcm": "4315/",
+        "manufacturerGvmGcm": "4315/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-02-14T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

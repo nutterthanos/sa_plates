@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IVP016",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "aWmjI0U290yBWk22eQfVKUswzCbWb2s43W66EkoY7dc=",
+        "registeredGvmGcm": "3330/",
+        "manufacturerGvmGcm": "3330/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-06-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

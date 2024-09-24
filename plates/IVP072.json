@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IVP072",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "x4MKdpsKN+8JvJesBIjQdtB/a6+LlAjYfv5r99NrNvA=",
+        "registeredGvmGcm": "4310/11620",
+        "manufacturerGvmGcm": "4310/11620",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-04-27T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

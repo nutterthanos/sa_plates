@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IVP080",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "6DH8SimNUYySPxek6j3cRrrQHRzVt6+i7etxxBVtkek=",
+        "registeredGvmGcm": "2660/2660",
+        "manufacturerGvmGcm": "2660/2660",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-03-30T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

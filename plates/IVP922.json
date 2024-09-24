@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IVP922",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "n4q6mBK0rpKsqTzkOn1fP7f5jVa4RRJZI+IRPyC6e9E=",
+        "registeredGvmGcm": "4500/4500",
+        "manufacturerGvmGcm": "4500/4500",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

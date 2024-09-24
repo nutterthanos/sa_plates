@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "IVP618",
+        "make": "CATERPILLAR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "fP6mxCF5+jnrLiKBjqj2jKshDlBqB6KQQFMChoiuTTE=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "14320/",
+        "manufacturerGvmGcm": "14320/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM2 NHVR NOTICE"
+            ]
+        },
+        "expiry": "2025-05-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM2 NHVR NOTICE"
+        ]
+    }
+]

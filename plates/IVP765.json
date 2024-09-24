@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IVP765",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "OVDaP5ICT67l2qw/7dniRLS1OK+MtvBytAdfCUI0OGM=",
+        "registeredGvmGcm": "2950/",
+        "manufacturerGvmGcm": "2950/",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-10-23T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IVP435",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "q4Mp9Zjukp4wrymMtA17nuOEhKfbMU8hRQrieSh3PpQ=",
+        "registeredGvmGcm": "3620/3620",
+        "manufacturerGvmGcm": "3620/3620",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-11-15T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IVP468",
+        "make": "DAEDONG",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "CqcJwc14VRw4ycM6BE94ALiKeiQiXz1bWj9XZ5Nnzxs=",
+        "registeredGvmGcm": "2350/2350",
+        "manufacturerGvmGcm": "2350/2350",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-03-09T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

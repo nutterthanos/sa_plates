@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IVP877",
+        "make": "FORDSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "dBRYalgPylxCEKW+bim2xHrUuJ+vpOcTdD2wvqVAk2Q=",
+        "registeredGvmGcm": "1800/2600",
+        "manufacturerGvmGcm": "1800/2600",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-10-21T00:00:00.000+10:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

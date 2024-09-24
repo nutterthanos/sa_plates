@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IVP330",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "oBBgVpLwy9asRXkXyq+CLsra+m5C97wxwCiDjsgz+vY=",
+        "registeredGvmGcm": "4000/6500",
+        "manufacturerGvmGcm": "4000/6500",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-06-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

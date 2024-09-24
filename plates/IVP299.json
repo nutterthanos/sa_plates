@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IVP299",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "ZuuxPi0ZTupYBOC1SX3WEOC81i/tlblb+n1D68HeND4=",
+        "registeredGvmGcm": "2648/2648",
+        "manufacturerGvmGcm": "2648/2648",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-03-19T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

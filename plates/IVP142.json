@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IVP142",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "RED",
+        "vehicleHash": "8Z6Ag8gtVw3xQzjQG4JCtfAXrtPumcKVqHcL/H+SFis=",
+        "registeredGvmGcm": "4460/",
+        "manufacturerGvmGcm": "4460/",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-09-03T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IVP277",
+        "make": "MCCORMICK",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "irYJMGwhqnzWwU9dTlVK/FYdhPucJwyYzudqWxdlf1U=",
+        "registeredGvmGcm": "3300/3300",
+        "manufacturerGvmGcm": "3300/3300",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-08-16T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

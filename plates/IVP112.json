@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IVP112",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "Kqv7Aeo2nAACV9zRucOoe/rzhyRe/HxDXk3nxuXJlNw=",
+        "registeredGvmGcm": "4460/4460",
+        "manufacturerGvmGcm": "4460/4460",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-10T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

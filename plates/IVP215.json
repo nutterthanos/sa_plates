@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "IVP215",
+        "make": "CHAMBERLAIN",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "4QBOx1jHvZ/6PadFUC1XVPdg3QLrlBgnFTKtaOxFn80=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6020/6020",
+        "manufacturerGvmGcm": "6020/6020",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]
