@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "JAC000",
+        "make": "BMW",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "do3yqgsDp9ZPZHDKt0hIT8W30fdC64JI57ixOvpE/HY=",
+        "ctpInsurer": "ALLIANZ",
+        "expiry": "2025-09-03T00:00:00.000+09:30"
+    },
+    {
+        "plate": "JAC000",
+        "make": "MORGAN",
+        "bodyType": "TOURER",
+        "primaryColour": "GREEN",
+        "vehicleHash": "T8ETTftgkVUNQlY6N9wTaRGhsij6bvWqt+ESC/C46O0=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    }
+]
