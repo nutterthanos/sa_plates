@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "JAG070",
+        "make": "JAGUAR",
+        "bodyType": "SEDAN",
+        "primaryColour": "MAROON",
+        "vehicleHash": "ct4ph3xxpxj8gEfTeblgS79j84AUjtjNrFY5t3jB8Fg=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2024-12-18T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "JAG070",
+        "make": "HOLDEN",
+        "bodyType": "PANEL VAN",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "9uQlO4q41Ai0AXxIIWldCINDSoOGXqff+FNhouRZoAw=",
+        "ctpInsurer": "MAC"
+    }
+]
