@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "IZY000",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "u0kWqjlRCJRA57nkV0hUOmbFs/LJNFPKDW71Z1HNctk=",
+        "ctpInsurer": "NRMA",
+        "expiry": "2024-10-13T00:00:00.000+10:30"
+    },
+    {
+        "plate": "IZY000",
+        "make": "SSANGYONG",
+        "bodyType": "UTILITY",
+        "primaryColour": "BLUE",
+        "vehicleHash": "GV+nqMfBk72PUS3aJ5Wo9IQ8iA6LqS+DSsH9aQfZBLQ=",
+        "ctpInsurer": "NRMA"
+    },
+    {
+        "plate": "IZY000",
+        "make": "SSANGYONG",
+        "bodyType": "TRUCK",
+        "primaryColour": "SILVER",
+        "vehicleHash": "y05okpfK9S1llIJ7zvYnoHUMZvb0skdiubUP19bsKgM=",
+        "ctpInsurer": "AAMI"
+    }
+]
