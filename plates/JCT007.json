@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "JCT007",
+        "make": "NISSAN",
+        "bodyType": "TRUCK",
+        "primaryColour": "WHITE",
+        "vehicleHash": "KLm35GBJQ0XpRNy8krlQO0kru+5e56ay7ncdbNXd5Rg=",
+        "registeredConfiguration": "2R2 - 2 axle truck GVM > 12000kg",
+        "registeredGvmGcm": "13900/20500",
+        "manufacturerGvmGcm": "13900/20500",
+        "ctpInsurer": "AAMI",
+        "expiry": "2025-03-19T00:00:00.000+10:30"
+    },
+    {
+        "plate": "JCT007",
+        "make": "MACK",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "w88hya/t74gkzULWVi/Ysq8kbPNL0RNy2AzBn8rVaz8=",
+        "registeredConfiguration": "SP3 - 3 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "21900/42500",
+        "manufacturerGvmGcm": "21900/42500",
+        "ctpInsurer": "MAC"
+    }
+]
