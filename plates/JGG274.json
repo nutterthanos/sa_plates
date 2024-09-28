@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "JGG274",
+        "make": "ISUZU",
+        "bodyType": "TRUCK",
+        "primaryColour": "GREEN",
+        "vehicleHash": "+B3gxmSNczwWlg1CcjZKXNI0XNaEATdXxP4lLhP0Cy0=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "11000/20000",
+        "manufacturerGvmGcm": "11000/20000",
+        "ctpInsurer": "QBE",
+        "expiry": "2024-12-19T00:00:00.000+10:30"
+    },
+    {
+        "plate": "JGG274",
+        "make": "HINO",
+        "bodyType": "ANIMAL TRANSPORTER VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "gMfOfvyoB6Et9e8GCXiPLmUvF4m+iu9BLUJhSFUH6pg=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "10400/20000",
+        "manufacturerGvmGcm": "10400/20000",
+        "ctpInsurer": "QBE"
+    }
+]

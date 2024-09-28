@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "JGG280",
+        "make": "HINO",
+        "bodyType": "ANIMAL TRANSPORTER VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "mH/WzG3YUVHV+HgTFSMoZjoXVRGr/2fVIC/oURx8z3I=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "11000/20000",
+        "manufacturerGvmGcm": "11000/20000",
+        "ctpInsurer": "QBE",
+        "expiry": "2025-05-28T00:00:00.000+09:30"
+    },
+    {
+        "plate": "JGG280",
+        "make": "MERCEDES BENZ",
+        "bodyType": "TRUCK",
+        "primaryColour": "GREEN",
+        "vehicleHash": "uFyM0YOOavDoKUCajTzTEiC0hu6GrMEFEqXeHaxEKH8=",
+        "registeredConfiguration": "2R2 - 2 axle truck GVM > 12000kg",
+        "registeredGvmGcm": "16000/34000",
+        "manufacturerGvmGcm": "16000/34000",
+        "ctpInsurer": "MAC"
+    }
+]
