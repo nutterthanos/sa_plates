@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JEP001",
+        "make": "MODERN",
+        "bodyType": "TRAILER",
+        "primaryColour": "SILVER",
+        "vehicleHash": "g9q4oiDkwKwFYx+pYEjdRpIhWf0xUpk2nYSjGOIidAE=",
+        "registeredGvmGcm": "2000/",
+        "manufacturerGvmGcm": "2000/",
+        "ctpInsurer": "NRMA",
+        "expiry": "2025-07-29T00:00:00.000+09:30"
+    },
+    {
+        "plate": "JEP001",
+        "make": "MACK",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "RED",
+        "vehicleHash": "nemy/T/kmc91yhE7FPAod6ZPcBHHod0USvi4j6QvK2A=",
+        "registeredConfiguration": "SP3 - 3 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "22500/42500",
+        "manufacturerGvmGcm": "22500/45000",
+        "ctpInsurer": "MAC"
+    }
+]
