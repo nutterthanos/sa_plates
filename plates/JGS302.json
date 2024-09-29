@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "JGS302",
+        "make": "ENGINEERING WITH US",
+        "bodyType": "TRAILER",
+        "primaryColour": "GREY",
+        "vehicleHash": "cMpiRMgoeX4mQY3R6hKRDouLU5v3qntg1FXSoSvtC2A=",
+        "registeredGvmGcm": "750/",
+        "manufacturerGvmGcm": "750/",
+        "ctpInsurer": "AAMI",
+        "expiry": "2025-01-09T00:00:00.000+10:30"
+    },
+    {
+        "plate": "JGS302",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "PXtsNklPmCm//5u3ShZLiXB7rxyN+yjVk1rFBpflwV0=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    }
+]

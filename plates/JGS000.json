@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "JGS000",
+        "make": "BMW",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "H/IwfCKL+rynliI5Q7oC/1ZW8WzN1Ujh5sUiNFxIhvo=",
+        "ctpInsurer": "NRMA",
+        "expiry": "2024-12-08T00:00:00.000+10:30"
+    },
+    {
+        "plate": "JGS000",
+        "make": "MERCEDES BENZ",
+        "bodyType": "SEDAN",
+        "primaryColour": "SILVER",
+        "vehicleHash": "K91XulyArwUumrbhjt29j+UQMNA+E0yj0pK2A2DCDhw=",
+        "ctpInsurer": "MAC"
+    },
+    {
+        "plate": "JGS000",
+        "make": "CHEVROLET",
+        "bodyType": "TRUCK",
+        "primaryColour": "GREEN",
+        "vehicleHash": "C3pOj8y5UqeSxKPsUqJ1Nf1NDDag12Rd0Dq82DDej8s=",
+        "registeredGvmGcm": "1520/1520",
+        "manufacturerGvmGcm": "1520/1520",
+        "ctpInsurer": "MAC"
+    }
+]
