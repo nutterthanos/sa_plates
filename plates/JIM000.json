@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "JIM000",
+        "make": "HARLEY DAVIDSON",
+        "bodyType": "SOLO",
+        "primaryColour": "BLACK",
+        "vehicleHash": "o+TECQtg8pmBDPjeAeltT+7odYzOc4KZ7ntBESMc2Zw=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-06-20T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "JIM000",
+        "make": "MITSUBISHI",
+        "bodyType": "STATION WAGON",
+        "primaryColour": "WHITE",
+        "vehicleHash": "Mb2Hfyntomu7QF9ERRPO5QLGcIBCkyr0faNfm12R2K4=",
+        "ctpInsurer": "MAC"
+    }
+]
