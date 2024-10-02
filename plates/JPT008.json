@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "JPT008",
+        "make": "FREIGHTLINER",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "BLUE",
+        "vehicleHash": "fF7ajlXrCaLCCJbM9ivzDwwaN1AHh5S+eGujyYDfSic=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "24000/140000",
+        "manufacturerGvmGcm": "24000/140000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2024-10-09T00:00:00.000+10:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
