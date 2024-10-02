@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JPS826",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "FZmYDzfBFdQtfV2lBNLwJarDFjniORNPYs50FQO0s+I=",
+        "registeredGvmGcm": "3275/",
+        "manufacturerGvmGcm": "3275/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-10-29T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "JPS303",
+        "make": "JOHN DEERE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "JpaYU3UuMOUnWpCpCBCJ1EjB/GNnvvvbQZq2hQ2RGYs=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "11000/11000",
+        "manufacturerGvmGcm": "11000/11000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2024-12-16T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

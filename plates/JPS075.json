@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "JPS075",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "X7426FQZUCUxujeCOEFh6y573EG573JCoitwwrXu4qo=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7400/7400",
+        "manufacturerGvmGcm": "7400/7400",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-06-20T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

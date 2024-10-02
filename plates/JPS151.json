@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "JPS151",
+        "make": "CASE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "H41vM2753ppCZRZ2/cyye7M3BFoskCDdm3d1hRnscQo=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "10000/10000",
+        "manufacturerGvmGcm": "10000/10000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

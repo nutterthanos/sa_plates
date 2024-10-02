@@ -1,0 +1,36 @@
+[
+    {
+        "plate": "JPS102",
+        "make": "BROOKS",
+        "bodyType": "TRAILER",
+        "primaryColour": "GREY",
+        "vehicleHash": "41tgFzdQbDXahNx4+q9ahFaZDcK/NBz/9zYHMg/FxTw=",
+        "registeredGvmGcm": "749/",
+        "manufacturerGvmGcm": "749/",
+        "ctpInsurer": "NRMA",
+        "expiry": "2024-12-07T00:00:00.000+10:30"
+    },
+    {
+        "plate": "JPS102",
+        "make": "NOT LISTED",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "9dzws5kt5YnrKcke+0LlOyN6A8q+CCZg7feSgCc+ADg=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "10000/10000",
+        "manufacturerGvmGcm": "10000/10000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

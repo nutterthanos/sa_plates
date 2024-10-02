@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "JPS195",
+        "make": "JOHN DEERE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "/4r83KHW8KNO1AG3An40h2KIv5TOqlvHTHzcXDVWpOs=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "13194/13194",
+        "manufacturerGvmGcm": "13194/13194",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "expiry": "2027-08-27T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

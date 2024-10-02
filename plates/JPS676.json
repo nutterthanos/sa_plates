@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "JPS676",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "ow0hEYp8av+hMTzHD9romP4wxk3vZYX9h1NOxFMdSwo=",
+        "registeredGvmGcm": "4370/4370",
+        "manufacturerGvmGcm": "4370/4370",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-12-30T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

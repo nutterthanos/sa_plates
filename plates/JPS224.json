@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JPS224",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "VyYwmClOOBTAk2z7zcP2AjWMFDDvNZQ6sZ4QybObjsc=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5200/9200",
+        "manufacturerGvmGcm": "5200/9200",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "ST40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "ST40 40 KM/H MAXIMUM"
+        ]
+    }
+]

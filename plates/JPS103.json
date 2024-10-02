@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "JPS103",
+        "make": "HYUNDAI",
+        "bodyType": "STATION WAGON",
+        "primaryColour": "BLUE",
+        "vehicleHash": "2EComj/2xH6u/vFbsoTZ+yvBJ7ipfRYJ9CMqRPMP2Uo=",
+        "ctpInsurer": "NRMA"
+    },
+    {
+        "plate": "JPS103",
+        "make": "VERSATILE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "1Yo8+PjHb90jYJIEqvgg/BKMQ/DoU+ml3IJJv9ElQMM=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5280/",
+        "manufacturerGvmGcm": "5280/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

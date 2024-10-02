@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JPS064",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "p0tvbfBZIogjctjPxnR3nE48qc1Bqx5WyDjb6/i6tBE=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "10800/10800",
+        "manufacturerGvmGcm": "10800/10800",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "expiry": "2025-07-31T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]

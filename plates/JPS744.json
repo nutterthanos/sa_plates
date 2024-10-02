@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JPS744",
+        "make": "BOBCAT",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "pnmH2T7hFS00q6zMOA61mD5D6UU1yT2Qbc24184LNCY=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

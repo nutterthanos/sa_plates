@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JPS148",
+        "make": "NEW HOLLAND",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "SN4Ks3UDIznEoxH3e3yHTSzjBgnWKHX+kVnEYuO43ds=",
+        "registeredGvmGcm": "2513/2513",
+        "manufacturerGvmGcm": "2513/2513",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-05T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

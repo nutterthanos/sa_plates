@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JPS465",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "BubshfDf9/hklR3uXQY4DPiOU6blixKzKmzSglnptQg=",
+        "registeredGvmGcm": "3945/3945",
+        "manufacturerGvmGcm": "3945/3945",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-01-26T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

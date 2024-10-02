@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "JPS232",
+        "make": "KOMATSU",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "NtdD2e7b94VLuip+To8C3qWFnK15rr9aU5W9djDXYh4=",
+        "registeredConfiguration": "PSV1 - 1 axle SPV - Plant",
+        "registeredGvmGcm": "29830/",
+        "manufacturerGvmGcm": "29830/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

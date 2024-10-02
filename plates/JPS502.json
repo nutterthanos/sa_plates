@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "JPS502",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "38CSl5W1oox9GaIISfhBXUDlZvTRR056ETbPLhLmvJI=",
+        "registeredGvmGcm": "3600/",
+        "manufacturerGvmGcm": "3600/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-06-11T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

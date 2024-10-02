@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "JPS768",
+        "make": "NOT LISTED",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "LjMyK8dAALpnye8/nim4MPUAXjuuHatUCBf+keJx9tY=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "9700/9700",
+        "manufacturerGvmGcm": "9700/9700",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

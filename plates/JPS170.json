@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JPS170",
+        "make": "KOMATSU",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "wQaapA6qiQtiiscMMsFT2KcvA7aCZSe5x5f0pPs3it0=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9500/",
+        "manufacturerGvmGcm": "9500/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE"
+            ]
+        },
+        "expiry": "2024-10-07T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE"
+        ]
+    }
+]

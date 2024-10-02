@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JPS161",
+        "make": "NEW HOLLAND",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "5/nKdAgF4s4Vp6jFAIH+vpbLXHDP1bhhjTOXkc3igDA=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "15080/15080",
+        "manufacturerGvmGcm": "15080/15080",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "expiry": "2025-10-01T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

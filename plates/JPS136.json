@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "JPS136",
+        "make": "JOHN DEERE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "Qp2BMl/kQuqJMT+wPc7yVrTVtQZ2a0qzwUr98POMX4U=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "13063/13063",
+        "manufacturerGvmGcm": "13063/13063",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

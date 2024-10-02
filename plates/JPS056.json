@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "JPS056",
+        "make": "MERCEDES BENZ",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "SFYIzY4DUtw0vkZyz5Ju+LbZdmOd/HxWDatkPP1LHV8=",
+        "registeredGvmGcm": "3310/3310",
+        "manufacturerGvmGcm": "3310/3310",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-22T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

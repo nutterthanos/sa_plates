@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "JPS229",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "6B9B97zFA8IN+0upC1so1Lw0be0JzRlewtniAg+i3Fg=",
+        "registeredConfiguration": "PSV1 - 1 axle SPV - Plant",
+        "registeredGvmGcm": "18191/",
+        "manufacturerGvmGcm": "18191/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

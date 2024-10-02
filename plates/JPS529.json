@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JPS529",
+        "make": "CATERPILLAR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "H/geb2Oo7RdwlJUOd8U1zGfou5bP3cYQ8OAzHS6eYc8=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "16480/16480",
+        "manufacturerGvmGcm": "16480/16480",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-06-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

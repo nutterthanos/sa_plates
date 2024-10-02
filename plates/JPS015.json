@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "JPS015",
+        "make": "CATERPILLAR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "EvdJxYo+K+lc5OdAYUTq8CCiTTd3QDgwm3VuHlDccCc=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "15413/18598",
+        "manufacturerGvmGcm": "15413/18598",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

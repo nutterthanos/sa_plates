@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JPS508",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "68d9hxZuKdPk/hq8TUEvCJZqsjBt7rvS6Vze3yZMAmU=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5500/",
+        "manufacturerGvmGcm": "5500/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE"
+            ]
+        },
+        "expiry": "2025-07-02T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE"
+        ]
+    }
+]

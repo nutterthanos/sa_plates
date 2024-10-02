@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "JPS607",
+        "make": "NOT LISTED",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "OZCuLfZ9gyo/2QBsYOv318/4CQjI+Jwe5vQmA+M7b94=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "15300/15300",
+        "manufacturerGvmGcm": "15300/15300",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5A ROAD RESTRICTION GAZETTE",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5A ROAD RESTRICTION GAZETTE",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

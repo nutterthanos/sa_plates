@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JPS169",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "0cOniQFdDpEtxzDs7Sy3qoDRSt6yEA9pcq6zquOSbkE=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "8125/8125",
+        "manufacturerGvmGcm": "8125/8125",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

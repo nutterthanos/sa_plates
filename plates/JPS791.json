@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "JPS791",
+        "make": "VOLVO",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "Tjv/0BI7Y3ymga1+3MSLwWoaQstzuK6Y/HEa54OXoHw=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "18700/18700",
+        "manufacturerGvmGcm": "18700/18700",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

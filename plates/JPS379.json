@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "JPS379",
+        "make": "KOMATSU",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "UjO3AwIItNyU0CXU3bPcOqHLRtepESNF8DtjJ1NHaqI=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION",
+                "OM2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION",
+            "OM2 NHVR NOTICE"
+        ]
+    }
+]

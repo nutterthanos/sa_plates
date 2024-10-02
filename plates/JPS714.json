@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JPS714",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "BROWN",
+        "vehicleHash": "jv6v8On4at6h+oroioH+83vhEyJc1bc+DdFEAE1dEjc=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4718/4718",
+        "manufacturerGvmGcm": "4718/4718",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

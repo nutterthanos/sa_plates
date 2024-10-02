@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "JPS595",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "7fZYwIO7jB7dnGnX3Qhx5w3jpbpz37BVQFHogKxeUPg=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7400/7400",
+        "manufacturerGvmGcm": "7400/7400",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-03-12T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

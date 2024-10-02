@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "JPS036",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "Ucb9M9XpOdMJfqBcyknDB+54z+rv+kORDpnPV3E8GRY=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "8032/",
+        "manufacturerGvmGcm": "8032/",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

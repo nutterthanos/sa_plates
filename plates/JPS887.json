@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "JPS887",
+        "make": "BOBCAT",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "UrspXSOLjvNivc7aII6zbus3t5QibMflXZouF1pK3Io=",
+        "registeredGvmGcm": "2435/2900",
+        "manufacturerGvmGcm": "2435/2900",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

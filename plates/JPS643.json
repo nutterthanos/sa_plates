@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "JPS643",
+        "make": "NOT LISTED",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "xBDyoZh+lIwbGfyF97y6Vvx/R/ixtqXf3kkJK14PMGw=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "15921/15921",
+        "manufacturerGvmGcm": "15921/15921",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

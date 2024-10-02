@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "JPS839",
+        "make": "NEW HOLLAND",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "SXwdc6eWZAfUSdXUzKrHkCDWNypB7IVjcU7mFuDCCFo=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4600/4600",
+        "manufacturerGvmGcm": "4600/4600",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2024-12-02T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

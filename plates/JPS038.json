@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "JPS038",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "5TY5dmuiApqJZJosZVT/I+/sVdNoRq+FTAxrZlger3k=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "15500/15500",
+        "manufacturerGvmGcm": "15500/15500",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2026-05-19T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

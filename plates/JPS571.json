@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "JPS571",
+        "make": "AGCO",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "SILVER",
+        "vehicleHash": "ch2rjyyDqjr+3T5Af4Zt6XzJQrr7bpcIYELbdg3WxbU=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "11590/11590",
+        "manufacturerGvmGcm": "11590/11590",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "expiry": "2024-12-13T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

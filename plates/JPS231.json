@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "JPS231",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "K8+mlygc2u5YeLsugjoJSK2NHPXCi58QG2DZQoWu2qw=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "24263/",
+        "manufacturerGvmGcm": "24263/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

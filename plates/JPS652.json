@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JPS652",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "P3Z9g6qGaxZclsqUB/jQ/ZnNYUxbfWVVNLRINMyXw5M=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "17000/17000",
+        "manufacturerGvmGcm": "17000/17000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "expiry": "2025-09-29T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

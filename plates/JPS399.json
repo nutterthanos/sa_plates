@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JPS399",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "TbVxT2ZYo08GWOYctfksZhjA3QWIHlK76X61WJoHkI4=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6264/",
+        "manufacturerGvmGcm": "6264/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JPS439",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "Y8RuaaqQ1kRyq0E5Cw0DjMFyedkNhM7lq5KPE9GpLzA=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5780/5780",
+        "manufacturerGvmGcm": "5780/5780",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

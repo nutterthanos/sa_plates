@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "JPS766",
+        "make": "KOMATSU",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "Ke7w4M01HJFOFZGr5ApOFwpIS5QXnNSSwP5RXcy3scc=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "23500/23500",
+        "manufacturerGvmGcm": "23500/23500",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5A ROAD RESTRICTION GAZETTE",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5A ROAD RESTRICTION GAZETTE",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

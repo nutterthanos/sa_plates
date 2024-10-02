@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "JPS540",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "MB2giTmTOcevuKjRVVSrRA3KvnRInYHTLVZWfyTKmFg=",
+        "registeredGvmGcm": "1200/",
+        "manufacturerGvmGcm": "1200/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

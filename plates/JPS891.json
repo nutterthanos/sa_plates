@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JPS891",
+        "make": "KOBELCO",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "d1eiLA7HrpAnmPK2bk1sKSFiw9RijERer4fWTOflnhM=",
+        "registeredConfiguration": "OSV2 - 2 axle SPV - Overmass",
+        "registeredGvmGcm": "19150/19850",
+        "manufacturerGvmGcm": "19150/19850",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]

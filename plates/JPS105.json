@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "JPS105",
+        "make": "NEW HOLLAND",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "eEBwp8oygc9vStDY3naBdWErTQQR5bMUPN1Df4s0WTY=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "13600/13600",
+        "manufacturerGvmGcm": "13600/13600",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2024-11-10T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

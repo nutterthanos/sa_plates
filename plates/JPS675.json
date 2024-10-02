@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "JPS675",
+        "make": "LAMBORGHINI",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREY",
+        "vehicleHash": "/Oqc69GhPB02G3VCS+lxGslDLmb6iONjJ5zQSxQAc1I=",
+        "registeredGvmGcm": "2530/2530",
+        "manufacturerGvmGcm": "2530/2530",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-09-01T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

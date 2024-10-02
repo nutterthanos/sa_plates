@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JPS392",
+        "make": "JLG",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "440rbYVoDpMbFgjopWN+In4XERTQYZfTOpCaoQ9sUWo=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6759/",
+        "manufacturerGvmGcm": "6759/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "JPS825",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "6qkVNuaU0cFAmICDH+Gp7X2EvugZUzjXBO9WMzYzGsI=",
+        "registeredGvmGcm": "1880/1880",
+        "manufacturerGvmGcm": "1880/1880",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

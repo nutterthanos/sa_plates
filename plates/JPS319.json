@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JPS319",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "jcB53dltqlNkoXeK7ys2z+GeYg+qQbujf9OIZGzgL2c=",
+        "registeredGvmGcm": "2160/2160",
+        "manufacturerGvmGcm": "2160/2160",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE"
+            ]
+        },
+        "expiry": "2027-02-03T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "JPS371",
+        "make": "DAEWOO",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "Qhc8HgD3QrDxRSlW/B5t2q2/oKdJc2EwplQ6xwSGVd0=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "33100/33100",
+        "manufacturerGvmGcm": "33100/33100",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]

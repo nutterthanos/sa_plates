@@ -1,0 +1,30 @@
+[
+    {
+        "plate": "JPS101",
+        "make": "NISSAN",
+        "bodyType": "UTILITY",
+        "primaryColour": "WHITE",
+        "vehicleHash": "E9vqhAkyvY4ewBnV3XG8ejvT0B1BJTbjGIVVSmEgOi0=",
+        "ctpInsurer": "YOUI"
+    },
+    {
+        "plate": "JPS101",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "GFmslAj+EvulpASblel7+y586ShgDR1ER1p4zt1cleA=",
+        "registeredGvmGcm": "3500/",
+        "manufacturerGvmGcm": "3500/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE"
+        ]
+    }
+]
