@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JPV324",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "rE7pilNU7JP5EkoxGwL9O7c0gdqvhLcj9m2LGcu07j0=",
+        "registeredGvmGcm": "2250/",
+        "manufacturerGvmGcm": "2250/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "JPV154",
+        "make": "INDIAN",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "FAWN",
+        "vehicleHash": "zOEU8oVvOtwI4u/jH8B7oqp1on7VGSWZmwxP8F8+f1A=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "10450/",
+        "manufacturerGvmGcm": "10450/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5A ROAD RESTRICTION GAZETTE",
+                "OS2 NHVR NOTICE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5A ROAD RESTRICTION GAZETTE",
+            "OS2 NHVR NOTICE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

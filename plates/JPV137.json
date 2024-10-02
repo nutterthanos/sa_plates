@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "JPV137",
+        "make": "CATERPILLAR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "VhJm1OToLD5i01XoCcNvrHQ0JbFEi6bxZ0XQoz/riyY=",
+        "registeredConfiguration": "PSV1 - 1 axle SPV - Plant",
+        "registeredGvmGcm": "13520/",
+        "manufacturerGvmGcm": "13520/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

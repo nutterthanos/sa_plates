@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "JPV124",
+        "make": "BEDFORD",
+        "bodyType": "TRUCK",
+        "primaryColour": "GREEN",
+        "vehicleHash": "96qacQoLWIvFYVUndkdHAU1fZdachNR098mzRsoylEc=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "9000/9000",
+        "manufacturerGvmGcm": "9000/9000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]

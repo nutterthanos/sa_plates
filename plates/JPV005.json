@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JPV005",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "BLUE",
+        "vehicleHash": "knLCvMPyeBBFZGbQuJt0nn3v3/7VJ2cKyZQlwnXPyrU=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6220/",
+        "manufacturerGvmGcm": "6220/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

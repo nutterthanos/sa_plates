@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "JPV943",
+        "make": "CHAMBERLAIN",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "Z0Rim2W6NSGT6XYaFwTw/nrv/l5SIhybrKzzTFRA6xg=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "8600/",
+        "manufacturerGvmGcm": "8600/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "CTBA CONDITIONS TO BE ASSESSED",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "CTBA CONDITIONS TO BE ASSESSED",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

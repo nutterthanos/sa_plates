@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JPV178",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "S1U6qt0Hk6bNbVOMWwfw2uFliaCC7AjDqkx2QQW4OAM=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4570/7270",
+        "manufacturerGvmGcm": "4570/7270",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
