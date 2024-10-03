@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "JSP234",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "6I/2w2oZAGl9z8mKhSscoFARy5pj1cZGU3xBCdgzVyY=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5725/",
+        "manufacturerGvmGcm": "5725/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

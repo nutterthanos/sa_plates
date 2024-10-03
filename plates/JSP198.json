@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP198",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "MUFOjzsAtdbep3FalDeWwJBdu2dsz7yHl5Ilq3RVhy0=",
+        "registeredGvmGcm": "3243/",
+        "manufacturerGvmGcm": "3243/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-22T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

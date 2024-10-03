@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP786",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "FuwuXZBjgYp6TjfGsxqNT9eEQ1EwQOADjPdUM8gpudU=",
+        "registeredGvmGcm": "4402/",
+        "manufacturerGvmGcm": "4402/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-21T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

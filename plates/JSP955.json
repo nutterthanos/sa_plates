@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "JSP955",
+        "make": "JOHN DEERE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "JHw8RYsQ9fGl/uoWM0NLfqFVniXdpmiDpI2QmbGhUkE=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9564/9564",
+        "manufacturerGvmGcm": "9564/9564",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "OS2 NHVR NOTICE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "OS2 NHVR NOTICE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

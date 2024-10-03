@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP506",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "qcrk830uJZ+OlKF+Y46Avc7rv5noZpLqgicbXCsKn1Y=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7220/7220",
+        "manufacturerGvmGcm": "7220/7220",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

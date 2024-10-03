@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JSP066",
+        "make": "DAVID BROWN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "WHITE",
+        "vehicleHash": "gk3vBYv/rETJlpcgviSs4K/jCKgvK2k/eO93lSX2WJE=",
+        "registeredGvmGcm": "4500/",
+        "manufacturerGvmGcm": "4500/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "JSP754",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "ZInH/okaF6CvzA5vJvvA26tZkWcChnvzTH/OksiWDec=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9600/",
+        "manufacturerGvmGcm": "9600/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2027-08-21T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

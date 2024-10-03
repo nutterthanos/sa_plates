@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP034",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "wbpggWf17N3wG4raYx0bd4rcMT7JG4aICxNrmhnJ/+s=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4600/",
+        "manufacturerGvmGcm": "4600/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

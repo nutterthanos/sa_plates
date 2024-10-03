@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP072",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "a0hmHwRAMV8wYrPmtiEp6TeMaoZqwsccw4+F6T0moxY=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5100/",
+        "manufacturerGvmGcm": "5100/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

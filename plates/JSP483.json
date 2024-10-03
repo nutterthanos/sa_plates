@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "JSP483",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "e9YSwHVBXYMQ/GverJeGMp1YzHae0R22dfcYlo1IdYg=",
+        "registeredGvmGcm": "1520/",
+        "manufacturerGvmGcm": "1520/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS2 NHVR NOTICE",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS2 NHVR NOTICE",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

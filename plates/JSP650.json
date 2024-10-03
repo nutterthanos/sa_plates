@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "JSP650",
+        "make": "KUBOTA",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "jaJtDp8xtrYGp8srKgXL4Fv31GN2M1b1+PPuKv8AsQk=",
+        "registeredGvmGcm": "1810/",
+        "manufacturerGvmGcm": "1810/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-10-10T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

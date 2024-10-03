@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "JSP215",
+        "make": "NEW HOLLAND",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "/LtGg2Fq4sjx3Js7BpXrqp1I1MjmDcOc/qeyhCRa4EY=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9502/",
+        "manufacturerGvmGcm": "9502/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

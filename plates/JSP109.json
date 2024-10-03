@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "JSP109",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "Pk6xGGvNquuOQ2vhbRq+poTMqMBL7lOyl88h186zuEM=",
+        "registeredGvmGcm": "4300/",
+        "manufacturerGvmGcm": "4300/",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-08-22T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

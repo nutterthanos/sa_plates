@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JSP168",
+        "make": "NOT LISTED",
+        "bodyType": "SWEEPER",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "C+NFLheZSBxA9L63nj//0g+mxGU2ymMRbaSJf9LuRBk=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS2 NHVR NOTICE",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS2 NHVR NOTICE",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

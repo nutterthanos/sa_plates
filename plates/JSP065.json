@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "JSP065",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "xgmRiSPXH5hdZzvjp3eHvsUcqCXf35MZ8TPYfDlomho=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6630/7000",
+        "manufacturerGvmGcm": "6630/7000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

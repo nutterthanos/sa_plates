@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JSP755",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "q9wZcsOxUU56t0ARtEUxpVrCfTmO6ltTF/nk4GXAwNk=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7300/",
+        "manufacturerGvmGcm": "7300/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-08-21T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

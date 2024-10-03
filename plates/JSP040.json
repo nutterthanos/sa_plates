@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP040",
+        "make": "AGTOR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "EhC+lYxVgSee0dCLPJzWC8tKXBXMSjUjlfIAI7aE/dM=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6350/6350",
+        "manufacturerGvmGcm": "6350/6350",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

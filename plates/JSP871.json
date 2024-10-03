@@ -1,0 +1,30 @@
+[
+    {
+        "plate": "JSP871",
+        "make": "JOHN DEERE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "L+zQMGlMLNBGHIn7WZsdBoer3b7jDtbuNKFPtlan3SA=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "14140/14140",
+        "manufacturerGvmGcm": "14140/14140",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+                "GO28 AGRICULTURAL CODE OF PRACTICE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2024-10-17T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+            "GO28 AGRICULTURAL CODE OF PRACTICE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

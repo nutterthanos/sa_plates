@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "JSP882",
+        "make": "WHITE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "SILVER",
+        "vehicleHash": "LUjyKtoJNETWTCtiKZ6r04g215Cf9+kysBBoJtu9mEg=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9072/",
+        "manufacturerGvmGcm": "9072/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

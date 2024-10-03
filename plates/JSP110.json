@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP110",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "ePCSG8AWXGAIClh3vAo0adK2YQI83gI5LnN5aNTQaHQ=",
+        "registeredGvmGcm": "3000/",
+        "manufacturerGvmGcm": "3000/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-14T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

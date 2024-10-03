@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP480",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "S7M4y5lQQiwlSjrwj3Amw78066KY/RFk4AV4hLda6oY=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6800/",
+        "manufacturerGvmGcm": "6800/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

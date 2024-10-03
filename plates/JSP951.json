@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "JSP951",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "v/nwXeM1bgwnHZ/1lep00HJEF6TXqmbDCLqIDgvJBR4=",
+        "registeredGvmGcm": "2500/",
+        "manufacturerGvmGcm": "2500/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

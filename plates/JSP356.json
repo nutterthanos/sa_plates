@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "JSP356",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLACK",
+        "vehicleHash": "2zOLUsz/KuCioF1COOfshfQf2uItDp0i6q4EaoKoWVI=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4800/4800",
+        "manufacturerGvmGcm": "4800/4800",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-07-23T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

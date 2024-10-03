@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP090",
+        "make": "DAVID BROWN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "TYVhwg69DhwrXGJwRnx1qqQu8YaMSNuV1lOvsTaqUnY=",
+        "registeredGvmGcm": "2200/",
+        "manufacturerGvmGcm": "2200/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-11-05T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

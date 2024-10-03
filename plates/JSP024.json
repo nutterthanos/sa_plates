@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JSP024",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "7ThmQQbtmTNoH9pQ16l4yRTQYVh1NNyaVaByQdQpEbU=",
+        "registeredGvmGcm": "2535/2535",
+        "manufacturerGvmGcm": "2535/2535",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

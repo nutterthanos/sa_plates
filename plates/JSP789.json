@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP789",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "lvzs821Ey+ndmL2PzyXz24WIK/1JQ/4p2z7OwTMZliw=",
+        "registeredGvmGcm": "3740/",
+        "manufacturerGvmGcm": "3740/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-09-13T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

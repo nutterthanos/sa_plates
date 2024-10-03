@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "JSP636",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "Ik6TvScqU0N+yNyVHHxufOsjixc5SUzTbsRF96Y0vuY=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7087/",
+        "manufacturerGvmGcm": "7087/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "ST40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "ST40 40 KM/H MAXIMUM"
+        ]
+    }
+]

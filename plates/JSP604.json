@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP604",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "/ecytXTba6rAVn279ww4bkoci01EsrIKFlPFcopHB4E=",
+        "registeredGvmGcm": "4000/",
+        "manufacturerGvmGcm": "4000/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-16T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

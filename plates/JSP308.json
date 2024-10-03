@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "JSP308",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "SwioB3RihAVGTPQ/FQmDajF0TEBPsUTsgkRsBgqHZDM=",
+        "registeredGvmGcm": "4142/",
+        "manufacturerGvmGcm": "4142/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

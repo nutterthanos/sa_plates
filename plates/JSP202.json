@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP202",
+        "make": "MERCEDES BENZ",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "S7RSUxGgBxzUsF/fT0oJP55iWTbceU3q+IVKBa+hCCU=",
+        "registeredGvmGcm": "4320/",
+        "manufacturerGvmGcm": "4320/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-01-14T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

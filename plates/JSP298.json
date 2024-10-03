@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "JSP298",
+        "make": "NEW HOLLAND",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "trk/pmZ2HuPJvv00EtznG3rSwFnRES1TKwVa9gf2Qzc=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5000/5000",
+        "manufacturerGvmGcm": "5000/5000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+                "GO28 AGRICULTURAL CODE OF PRACTICE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+            "GO28 AGRICULTURAL CODE OF PRACTICE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

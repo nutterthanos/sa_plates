@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "JSP152",
+        "make": "NUFFIELD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "d8GV2cCKr1uXef5FBGF1Zy1w6JjVpVEHSZmpvdWSl/Y=",
+        "registeredGvmGcm": "3500/3500",
+        "manufacturerGvmGcm": "3500/3500",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "OL3G HISTORIC VEHICLE + EXTENSION",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-04-20T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

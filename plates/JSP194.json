@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "JSP194",
+        "make": "DAVID BROWN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "WHITE",
+        "vehicleHash": "wtGAWvoWi8s2YqZvKlfV1xblQjnag86G4U/KEYROoms=",
+        "registeredGvmGcm": "2300/",
+        "manufacturerGvmGcm": "2300/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-08-21T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JSP992",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "xgSkmSWQXFS6C9ePqFtoYB4+y332OCY8qq+jbMKMG/o=",
+        "registeredGvmGcm": "4000/4000",
+        "manufacturerGvmGcm": "4000/4000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP139",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "6Z6EA8nDLKupj5IIuBZsPfAAdEZr8scVdadxxaaTn6I=",
+        "registeredGvmGcm": "1450/",
+        "manufacturerGvmGcm": "1450/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-06-24T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

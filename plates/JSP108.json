@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JSP108",
+        "make": "DAVID BROWN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "WHITE",
+        "vehicleHash": "7V2i5IFvNBchJl0+8TEphkk1VTJGgGz3FNmx0GW09x4=",
+        "registeredGvmGcm": "2700/",
+        "manufacturerGvmGcm": "2700/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

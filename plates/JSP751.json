@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "JSP751",
+        "make": "JOHN DEERE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "Kjc3sEw4dJiR758Ifulx7kXvlp8h/u+eSdGjNZGJoAw=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5900/",
+        "manufacturerGvmGcm": "5900/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "OS2 NHVR NOTICE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "OS2 NHVR NOTICE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

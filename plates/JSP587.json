@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "JSP587",
+        "make": "FORDSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "JOT/UnCGAvdcPZkmFYOp50oTBcUDwUctwM29lpDajME=",
+        "registeredGvmGcm": "4240/",
+        "manufacturerGvmGcm": "4240/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

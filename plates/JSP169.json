@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "JSP169",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "QGT9Z/NdoxD3CuktnxFMgMqBM1kYLq0lcc09eq1a/cE=",
+        "registeredGvmGcm": "4200/",
+        "manufacturerGvmGcm": "4200/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

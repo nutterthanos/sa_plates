@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JSP307",
+        "make": "CAVALIER",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "U00ebnEpFi6YWl4mInvtbghxYdjIxSLefNGl3ROU9no=",
+        "registeredGvmGcm": "3700/",
+        "manufacturerGvmGcm": "3700/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

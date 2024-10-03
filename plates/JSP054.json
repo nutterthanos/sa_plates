@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "JSP054",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "E3M/x+ybh6pExP0cnRtdN6xSUnsApsMzLcgImJ1flXI=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6500/",
+        "manufacturerGvmGcm": "6500/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-02-28T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JSP333",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "0oa7lA6AMNfBhTJpJjlhIP57E822ns1tsLTly9JDPkw=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JSP404",
+        "make": "KOMATSU",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "6YmjlSNPhbxLpvmz2a8vDzuvVGVELUp/a3JNdiSQuLQ=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "8030/8030",
+        "manufacturerGvmGcm": "8030/8030",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE"
+            ]
+        },
+        "expiry": "2025-03-16T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE"
+        ]
+    }
+]

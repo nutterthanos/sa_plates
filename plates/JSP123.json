@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP123",
+        "make": "FENDT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "+sS8mDTOYzzZaDt19G8Amc5EudxO/uHqk1O3pg5KNYw=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7800/7800",
+        "manufacturerGvmGcm": "7800/7800",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

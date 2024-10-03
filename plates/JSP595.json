@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "JSP595",
+        "make": "TOYOTA",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "jNyE1aiE7JcBHrXyIOoOaoqgH044psyIFjboEd+B3yM=",
+        "registeredGvmGcm": "2500/",
+        "manufacturerGvmGcm": "2500/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

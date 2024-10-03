@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "JSP422",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "AgVgUpQrLrGf6U0sfYu9bLU4lnKeaQPkmixXgxgbLls=",
+        "registeredGvmGcm": "2157/",
+        "manufacturerGvmGcm": "2157/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-09-16T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

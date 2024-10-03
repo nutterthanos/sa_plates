@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "JSP748",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "FHkTtKv/UK5xfH1/6e+OfFNyIR+ytYL07sUQHSi7iF0=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6000/",
+        "manufacturerGvmGcm": "6000/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2026-11-26T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

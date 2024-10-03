@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "JSP561",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "gnQfVgz6gfETuVUeZs1VZgY1hU/EeWmJXwx4MzS732Y=",
+        "registeredGvmGcm": "3000/3000",
+        "manufacturerGvmGcm": "3000/3000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

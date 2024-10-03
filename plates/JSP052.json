@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "JSP052",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "9ZHXNvuXIquN6BoSIJL9E+UnB0Hpx7rBCcWM5nVOuFU=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5408/",
+        "manufacturerGvmGcm": "5408/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-02-28T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

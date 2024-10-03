@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "JSP063",
+        "make": "NEW HOLLAND",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "QpzB+EMWOYYTcDblTgNlaVUINIny3OFzkf2WrdVs8F4=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7260/",
+        "manufacturerGvmGcm": "7260/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "OS2 NHVR NOTICE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "OS2 NHVR NOTICE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

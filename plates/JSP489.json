@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "JSP489",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "WpkNzKysj5rAQPKGiT6f3makCJIJ7BfwP3Q9z4qms9A=",
+        "registeredGvmGcm": "970/",
+        "manufacturerGvmGcm": "970/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS2 NHVR NOTICE",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS2 NHVR NOTICE",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "JSP865",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "P/j3kkEYA0H+R4iTpnh4c9wOJhoAoOirDNu/G581dpo=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6800/6800",
+        "manufacturerGvmGcm": "6800/6800",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-02-03T00:00:00.000+10:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

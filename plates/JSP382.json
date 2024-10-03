@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP382",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "7Kd/cOxXWWfuItlmcvsDZonhuV5JDDZorEAUv8N8vQ8=",
+        "registeredGvmGcm": "4037/",
+        "manufacturerGvmGcm": "4037/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-02-28T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

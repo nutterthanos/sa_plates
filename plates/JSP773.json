@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "JSP773",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "FhHIIKBc0HBpuT/3/MiMSTfKOYlBvaE6qZzIcAB8xJE=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5000/",
+        "manufacturerGvmGcm": "5000/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SP20 20 KM/H MAXIMUM"
+        },
+        "expiry": "2025-09-23T00:00:00.000+09:30",
+        "conditions": [
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

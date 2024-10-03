@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "JSP840",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "P62wVkfds5zzqIeKSy+flfYCTgp8a8tUlkTxosSiI5M=",
+        "registeredGvmGcm": "4070/",
+        "manufacturerGvmGcm": "4070/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-08-27T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "JSP325",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "amAwto7Frj2mn+fC3AIJVXeNMH5/OtCWDvS9IfzkjXc=",
+        "registeredGvmGcm": "3200/3200",
+        "manufacturerGvmGcm": "3200/3200",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

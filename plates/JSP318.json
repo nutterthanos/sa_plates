@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "JSP318",
+        "make": "KUBOTA",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "LCk2bvUGDkoYJQt/voRha0IiEl+Zr0vudvwgdy4XlQY=",
+        "registeredGvmGcm": "2790/",
+        "manufacturerGvmGcm": "2790/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-08-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "JSP889",
+        "make": "CASE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "7+LO2m/YCZ+0dxhTecZgS8RA/D34u4H1OBm7TnyIYJY=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7300/7300",
+        "manufacturerGvmGcm": "7300/7300",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "OS2 NHVR NOTICE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "OS2 NHVR NOTICE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP406",
+        "make": "VOLVO",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "NXH3xEu+qQRyYiTuW0hy7pYz4HFc2vN/dzUHPZ6jVvc=",
+        "registeredConfiguration": "TSV2 - 2 axle SPV - Truck",
+        "registeredGvmGcm": "10500/",
+        "manufacturerGvmGcm": "10500/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

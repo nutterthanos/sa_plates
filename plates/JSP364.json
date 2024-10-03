@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "JSP364",
+        "make": "CASE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "xEi1YVQxtuEQGeKufKunC5te3plTK3yrfLoYAtdVs4g=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "10111/10111",
+        "manufacturerGvmGcm": "10111/10111",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

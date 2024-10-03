@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP408",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "RI+ymZit4qfQ3LIq6EwqlJKPNFRPPUx46IEUaeEGk3Q=",
+        "registeredGvmGcm": "3200/3200",
+        "manufacturerGvmGcm": "3200/3200",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+            ]
+        },
+        "expiry": "2026-10-02T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996"
+        ]
+    }
+]

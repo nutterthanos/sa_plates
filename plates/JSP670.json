@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "JSP670",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "EpC9s4bapOLKX81MVNaN5HAeFUsjIb40qEIF6Ztd0yk=",
+        "registeredGvmGcm": "1500/",
+        "manufacturerGvmGcm": "1500/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "CTBA CONDITIONS TO BE ASSESSED",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "CTBA CONDITIONS TO BE ASSESSED",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "JSP819",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLACK",
+        "vehicleHash": "SfO038aQKDtqIo6x30VEvVHUBop0+ha7uJ5DvV8HHA0=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4800/",
+        "manufacturerGvmGcm": "4800/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

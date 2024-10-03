@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP602",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "oLW2h8emAH8qfRHORHvq2Rbmnowy5G6oRXkhN6HJWDo=",
+        "registeredGvmGcm": "2879/",
+        "manufacturerGvmGcm": "2879/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-22T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

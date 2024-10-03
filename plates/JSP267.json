@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "JSP267",
+        "make": "CHAMBERLAIN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "3jWdCTlo5oIdEOwquJ5DZCV4FzYDOuF1sZLd7ZtwACw=",
+        "registeredGvmGcm": "3602/3602",
+        "manufacturerGvmGcm": "3602/3602",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "GO28 AGRICULTURAL CODE OF PRACTICE",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "expiry": "2025-05-13T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "GO28 AGRICULTURAL CODE OF PRACTICE",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

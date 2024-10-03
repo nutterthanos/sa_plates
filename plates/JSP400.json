@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP400",
+        "make": "KOMATSU",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "tQzwKYWgSmPjkR4uZIdoWaYSVkNB9DekyYz35gHtfR8=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "20700/20700",
+        "manufacturerGvmGcm": "20700/20700",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

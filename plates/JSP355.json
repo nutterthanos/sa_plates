@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "JSP355",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLACK",
+        "vehicleHash": "pfG2zIhjwOLaSDnkPsfPBNuhu+SXxa0tGc8FumCk8fE=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4800/",
+        "manufacturerGvmGcm": "4800/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "CTBA CONDITIONS TO BE ASSESSED",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "CTBA CONDITIONS TO BE ASSESSED",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

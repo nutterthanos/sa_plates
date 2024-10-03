@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "JSP826",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "Bu4P+Ld+o0EojbE4PD6cu4biCVvGKhPEtapGTG/Cwjs=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "14100/",
+        "manufacturerGvmGcm": "14100/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

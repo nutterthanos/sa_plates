@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSP340",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "nfvBNRmLnemAHv3wQeQ+7cuG7PPpVvOGjaq+QpSWfOE=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "50000/",
+        "manufacturerGvmGcm": "50000/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]
