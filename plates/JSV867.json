@@ -1,0 +1,21 @@
+[
+    {
+        "plate": "JSV867",
+        "make": "FORDSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "mczsuWVEHeo4mhhPW1HDasUxn9kfgoEBjMiZ1+F73Bs=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-22T00:00:00.000+10:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

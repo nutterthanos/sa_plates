@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSV803",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "WpgR8Y/omhfS1JnbbQHSu1LDg5x/fchTBUNTSGy2Pn4=",
+        "registeredGvmGcm": "2580/",
+        "manufacturerGvmGcm": "2580/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-03-01T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

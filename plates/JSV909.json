@@ -1,0 +1,21 @@
+[
+    {
+        "plate": "JSV909",
+        "make": "KAWASAKI",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "DzmHSoL9JzvV+nrrumFfsjlRBx2qkq40vSncFGQWqa4=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2026-04-02T00:00:00.000+10:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

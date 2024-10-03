@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "JSV000",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "fW3Y3MHT36RSkzpiET0CrqkGGSOu6i7hnOmAGESGAKM=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "27300/27300",
+        "manufacturerGvmGcm": "27300/27300",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM2 NHVR NOTICE",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "expiry": "2025-01-22T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM2 NHVR NOTICE",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JSV030",
+        "make": "CHAMBERLAIN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "l1xbzf7kpeexxDjU+L8ov2JuATYSfJ1zHxqAuuB4Ncc=",
+        "registeredGvmGcm": "2395/",
+        "manufacturerGvmGcm": "2395/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-21T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

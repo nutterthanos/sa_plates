@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "JSV950",
+        "make": "LEYLAND",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "199O8YMvlcyr37NDXFgvtNamgw8GlRsIgVvofGG0BRo=",
+        "registeredGvmGcm": "2100/2100",
+        "manufacturerGvmGcm": "2100/2100",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]
