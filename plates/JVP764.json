@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JVP764",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "IsTA6yUDX7VSBZSVXt6oYtsQ4AV1bs1ciua9r1y5r+4=",
+        "registeredGvmGcm": "3010/",
+        "manufacturerGvmGcm": "3010/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-02-01T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

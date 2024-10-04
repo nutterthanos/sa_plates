@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JVP445",
+        "make": "CLARK",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "u86aOQvInP7NpYifvof4vwR/S3mkVK8KMwuqaHVxDu8=",
+        "registeredGvmGcm": "3590/",
+        "manufacturerGvmGcm": "3590/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-02-21T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

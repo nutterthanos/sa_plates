@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JVP753",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "M+L43JScEgYV6xIWzxNNWiUnCZv+3YBrucisA/K0kNg=",
+        "registeredGvmGcm": "4460/4460",
+        "manufacturerGvmGcm": "4460/4460",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-11-20T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

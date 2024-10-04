@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JVP239",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "FfXFJL+F9nP2tsOtuswKUtBZaH8GFRtuu1BIruaLH+Y=",
+        "registeredGvmGcm": "4330/6170",
+        "manufacturerGvmGcm": "4330/6170",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-03T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

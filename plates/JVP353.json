@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JVP353",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "MFQAic5VO0H/W2D3aQUEhzPhUCX7dz4dcpuPo3cmbys=",
+        "registeredGvmGcm": "4000/6500",
+        "manufacturerGvmGcm": "4000/6500",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-03-04T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "JVP490",
+        "make": "DEMAG",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "+H4OC3UNOCjWypbCUvHsoJAMdj+XU57XAlqKZk5UzPo=",
+        "registeredConfiguration": "OSV5 - 5 axle SPV - Overmass",
+        "registeredGvmGcm": "60000/",
+        "manufacturerGvmGcm": "60000/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

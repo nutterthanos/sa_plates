@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JVP553",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "3O6ThTXu4zIQsyuil23dl3xYNG2Fjl1X16eJDA/V9sU=",
+        "registeredGvmGcm": "3840/3840",
+        "manufacturerGvmGcm": "3840/3840",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-08T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

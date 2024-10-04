@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "JVP940",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "t6kO7EFg9dkT7oHnyfRfY0UtuSk9hiCu3XgkvmPtBek=",
+        "registeredGvmGcm": "3200/3200",
+        "manufacturerGvmGcm": "3200/3200",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

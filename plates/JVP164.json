@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JVP164",
+        "make": "CATERPILLAR",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "7hOr9d1ZQpyzP6Kpc1CaxPKDqKvihoGJ3QhYgh/3ado=",
+        "registeredGvmGcm": "2390/2390",
+        "manufacturerGvmGcm": "2390/2390",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2026-08-26T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JVP802",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "rJIWoDSoyWcqlS67oGjaI2V2umm2VxgfXx2RQF89Zn4=",
+        "registeredGvmGcm": "3060/3060",
+        "manufacturerGvmGcm": "3060/3060",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-31T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

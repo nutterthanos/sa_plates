@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "JVP300",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "pwICmb6s2Wcf7S5JOK3fpXO3qUYq6e7S0oUWQWl42gc=",
+        "registeredGvmGcm": "4065/",
+        "manufacturerGvmGcm": "4065/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-07-01T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
