@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "KBT610",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "x1vum8I7QawfZU1fUREOzx35xzurELbkrz1TH2+aGQg=",
+        "registeredConfiguration": "SP3 - 3 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "27830/97000",
+        "manufacturerGvmGcm": "27830/97000",
+        "ctpInsurer": "AAMI",
+        "expiry": "2024-10-22T00:00:00.000+10:30"
+    },
+    {
+        "plate": "KBT610",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "Ott4oBavWwM107WQ1DlMT+f9I/oKOfAHr+3A++Y0314=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "27600/97000",
+        "manufacturerGvmGcm": "27600/97000",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "KBT410",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "s4zVqE0/ilqXgzqS+CGHtOuU2cbSxz8f9uV64pBeLCA=",
+        "registeredConfiguration": "SP3 - 3 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "26500/70000",
+        "manufacturerGvmGcm": "26500/70000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "MV1 NHVR NOTICE"
+        },
+        "expiry": "2024-12-03T00:00:00.000+10:30",
+        "conditions": [
+            "MV1 NHVR NOTICE"
+        ]
+    }
+]
