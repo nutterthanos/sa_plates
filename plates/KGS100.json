@@ -1,0 +1,33 @@
+[
+    {
+        "plate": "KGS100",
+        "make": "HOLDEN",
+        "bodyType": "UTILITY",
+        "primaryColour": "PINK",
+        "vehicleHash": "B1BtYkin8JZonQ8QOSE1aozB5JzsOmnhUmSqIe9R4HY=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2026-09-21T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "KGS100",
+        "make": "HOLDEN",
+        "bodyType": "UTILITY",
+        "primaryColour": "RED",
+        "vehicleHash": "8nNo7bD90QJves+dZgxwod9pm9zYh6MIDV6got89mL8=",
+        "ctpInsurer": "ALLIANZ"
+    },
+    {
+        "plate": "KGS100",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "FK7Rf4LAavOjralYPzuGB7w1KunTB2Ok0/UT/KMAwWg=",
+        "ctpInsurer": "MAC"
+    }
+]
