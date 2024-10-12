@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KPS271",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "qY8Oefao+B4FeXuheZSQ8qqGYjpdlLsv7WJQ1hqYdQw=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "25510/",
+        "manufacturerGvmGcm": "25510/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

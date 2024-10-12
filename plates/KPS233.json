@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KPS233",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "4D5tu+ttgengkY7K+mYVFPn9Q7Vu4AGDKmgyIEkVlUY=",
+        "registeredGvmGcm": "4190/",
+        "manufacturerGvmGcm": "4190/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-11-04T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

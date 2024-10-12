@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "KPS838",
+        "make": "JOHN DEERE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "iupJhLuRmufOuklGyotT7QiGn5fTHsonBo/OHij4AyM=",
+        "registeredGvmGcm": "398/",
+        "manufacturerGvmGcm": "398/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

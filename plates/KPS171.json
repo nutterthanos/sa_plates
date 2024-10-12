@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KPS171",
+        "make": "JOHN DEERE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "nWLgts3e2j78BvGbI5d/Ryp6GXqfV4Q8/MTSLRJwKfg=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "12780/",
+        "manufacturerGvmGcm": "12780/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KPS073",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREY",
+        "vehicleHash": "x0Im3O4ZYxQyEL/RSy10f9WSCpistVmCsURFy+Tj9sc=",
+        "registeredGvmGcm": "3500/6000",
+        "manufacturerGvmGcm": "3500/6000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-06-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KPS765",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "HMnepBer0+A9qbORpPmVUZGp9g8WgC6wdHVFQLOgSfw=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6650/6650",
+        "manufacturerGvmGcm": "6650/6650",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "ST40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "ST40 40 KM/H MAXIMUM"
+        ]
+    }
+]

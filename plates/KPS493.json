@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KPS493",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "f4AglM1FG9Dlci7vtaLQE7M5daSWKWzGkKlz70qpvSg=",
+        "registeredGvmGcm": "3620/",
+        "manufacturerGvmGcm": "3620/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-09-12T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

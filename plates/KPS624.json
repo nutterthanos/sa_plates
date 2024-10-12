@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KPS624",
+        "make": "DEUTZ FAHR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "hSP0FQvrHYynSsB2T4mYL9Yz1d+vyWWY9PkSUsl6Bm4=",
+        "registeredGvmGcm": "3850/3850",
+        "manufacturerGvmGcm": "3850/3850",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-02-11T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

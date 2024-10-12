@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "KPS289",
+        "make": "HOMEMADE",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "BLACK",
+        "vehicleHash": "00QtHrPmpkY/pKUeS/TIxusDgUH+o166FD7Xaux2nok=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

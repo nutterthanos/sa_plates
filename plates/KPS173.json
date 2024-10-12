@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "KPS173",
+        "make": "CASE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "dqknjzodg6+k4IIW7DTjzFsAk+zUY8AhOxJ6nbEYHDQ=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "10770/10770",
+        "manufacturerGvmGcm": "10770/10770",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "expiry": "2027-10-01T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]

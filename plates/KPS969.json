@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KPS969",
+        "make": "INTERNATIONAL",
+        "bodyType": "DRILLING RIG VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "qlbVbO1KqzULt8xCYLYLanY47+W7nY1ddjaAKK3L94s=",
+        "registeredConfiguration": "TSV3 - 3 axle SPV - Truck",
+        "registeredGvmGcm": "17213/",
+        "manufacturerGvmGcm": "17213/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

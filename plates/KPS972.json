@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "KPS972",
+        "make": "MITSUBISHI",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "3Jv2ZaYM1A6vUexT25nwmEDZXBZdg9lGHYFrPiDAtn0=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "13000/13000",
+        "manufacturerGvmGcm": "13000/13000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-07-06T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

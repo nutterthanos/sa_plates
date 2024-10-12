@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "KPS240",
+        "make": "HOMEMADE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLACK",
+        "vehicleHash": "LbVsG7Rl9jPmQFDY+00cxovjrwpSn7IOOtRmc6cYvf4=",
+        "registeredGvmGcm": "1000/",
+        "manufacturerGvmGcm": "1000/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

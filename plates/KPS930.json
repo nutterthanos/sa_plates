@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KPS930",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "x86NauWrDDZUQ50qFPjnwHEUq+gqFZOr1hUrnG5w9M8=",
+        "registeredGvmGcm": "3950/",
+        "manufacturerGvmGcm": "3950/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-05-06T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

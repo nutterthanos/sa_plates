@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KPS875",
+        "make": "LAMBORGHINI",
+        "bodyType": "TRACTOR",
+        "primaryColour": "WHITE",
+        "vehicleHash": "Qdp62UBpo4SqSYIYpTwJxdnYfNEnBKiTAYhsJwzS2LE=",
+        "registeredGvmGcm": "2550/2550",
+        "manufacturerGvmGcm": "2550/2550",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-07-22T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

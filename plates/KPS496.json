@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "KPS496",
+        "make": "VOLVO",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "nPOfJVKuMLhr6cMhuBqdLBGS9zCUKMdc3mXSkS3xwnM=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "24000/24000",
+        "manufacturerGvmGcm": "24000/24000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

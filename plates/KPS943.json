@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KPS943",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "PINK",
+        "vehicleHash": "oJl7uPmMNQVZSFRtvPkUFJ8UySV6RgA/nl51TnWtF2Q=",
+        "registeredGvmGcm": "4040/4040",
+        "manufacturerGvmGcm": "4040/4040",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-09-09T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

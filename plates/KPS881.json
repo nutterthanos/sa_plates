@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "KPS881",
+        "make": "NOT LISTED",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "qiSLoamvER+/ecijOdCPJ6/qaHScOmaKlBk8R3fB7hY=",
+        "registeredConfiguration": "TSV3 - 3 axle SPV - Truck",
+        "registeredGvmGcm": "10500/10500",
+        "manufacturerGvmGcm": "10500/10500",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-10-02T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

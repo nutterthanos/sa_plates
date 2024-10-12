@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "KPS120",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "1NynhNsi64TW49KShGcl7d1KGUutF2GMU6QeL30FuYQ=",
+        "registeredGvmGcm": "3950/",
+        "manufacturerGvmGcm": "3950/",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2026-07-09T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

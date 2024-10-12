@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "KPS010",
+        "make": "JOHN DEERE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "awmczSDZae5GHaxeKNwGfrDj5GW4O0eLqwrv6quKkGU=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7000/",
+        "manufacturerGvmGcm": "7000/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO3 OBSERVER REQUIRED"
+            ]
+        },
+        "expiry": "2025-03-30T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO3 OBSERVER REQUIRED"
+        ]
+    }
+]

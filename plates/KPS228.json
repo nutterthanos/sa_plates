@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "KPS228",
+        "make": "SAME",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "WRGViJUDEYysemrfQtEwCFIcwjz+m1G7WenbQ0Dq/r4=",
+        "registeredGvmGcm": "2400/",
+        "manufacturerGvmGcm": "2400/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "expiry": "2024-11-05T00:00:00.000+10:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]

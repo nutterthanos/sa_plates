@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KPS564",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "BEIGE",
+        "vehicleHash": "4pXT092cDK3mHYzQ+dsxKR7ARfYqLQUdfkVdP+Ta0O4=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6290/10790",
+        "manufacturerGvmGcm": "6290/10790",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

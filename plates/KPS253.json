@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KPS253",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "Ty2gI0T9EEHzKvjwXYyws18akTcJV6dNFCk9vt1i+7w=",
+        "registeredGvmGcm": "3860/",
+        "manufacturerGvmGcm": "3860/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-10-22T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

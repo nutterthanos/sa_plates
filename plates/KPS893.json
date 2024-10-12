@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "KPS893",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "ANkEXgdy5zQ7+BnJNFqf4bZJjdWfbtBzT5xS1KoAMUo=",
+        "registeredGvmGcm": "1350/",
+        "manufacturerGvmGcm": "1350/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-10-26T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "KPS800",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "ZCZqmD4sJ8LN9l0O4n0ksr6GhgwR2xE5dMpXWVx/SNQ=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9900/",
+        "manufacturerGvmGcm": "9900/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "GO9 DEPT OF TRANSPORT DISPENSATION"
+            ]
+        },
+        "expiry": "2027-01-08T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "GO9 DEPT OF TRANSPORT DISPENSATION"
+        ]
+    }
+]
