@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "KPV960",
+        "make": "AGCO",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREY",
+        "vehicleHash": "UQAOPDyKCPY3Ej9AjqQjCasleMhgeC1yyWgfZO8B8l4=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "11576/11576",
+        "manufacturerGvmGcm": "11576/11576",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

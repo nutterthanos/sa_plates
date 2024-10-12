@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KPV467",
+        "make": "INTERNATIONAL",
+        "bodyType": "DRILLING RIG VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "K7tjsTJMqy+eUj4wQ+vTU9E1Ggn89TdzVs5Fec4mUgY=",
+        "registeredGvmGcm": "4022/",
+        "manufacturerGvmGcm": "4022/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO3 ROUTE RESTRICTION"
+            ]
+        },
+        "expiry": "2025-10-11T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO3 ROUTE RESTRICTION"
+        ]
+    }
+]

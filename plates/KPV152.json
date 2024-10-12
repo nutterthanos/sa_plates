@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KPV152",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "Js7JFS9q0ZvWO1FYkZ93imvNfiEKr5zul3acy5NPP3M=",
+        "registeredGvmGcm": "1500/1500",
+        "manufacturerGvmGcm": "1500/1500",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-05-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]
