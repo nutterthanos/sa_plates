@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "KSV654",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "GB5cnM7dqkzEVIaFYp/uMsFTFd2qpXbGQS62hdwPBXI=",
+        "registeredGvmGcm": "903/",
+        "manufacturerGvmGcm": "903/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

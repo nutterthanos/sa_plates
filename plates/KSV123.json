@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "KSV123",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "HZPkXsFZfKXpPmnuSQya4F7+tLHvrNiZv/RopB9SCMc=",
+        "registeredGvmGcm": "2010/",
+        "manufacturerGvmGcm": "2010/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

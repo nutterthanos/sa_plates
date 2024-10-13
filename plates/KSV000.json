@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "KSV000",
+        "make": "BEDFORD",
+        "bodyType": "TRUCK",
+        "primaryColour": "GREEN",
+        "vehicleHash": "YO3sUxem/S3rY6cuDMaSMqFz9IYqFq4/xssZ+7dtQe8=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "8850/12200",
+        "manufacturerGvmGcm": "8850/12200",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]

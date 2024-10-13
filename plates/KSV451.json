@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "KSV451",
+        "make": "DEUTZ",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "HLXaIBtts9xaVIvHISIUupuP1BjJxJ75874zqkG5a4Q=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9750/9750",
+        "manufacturerGvmGcm": "9750/9750",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

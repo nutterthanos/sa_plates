@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KSV074",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "USn9XD2w6yN+M4K1yEhcRJ+0PXWeqGYOChL7ShQoNmI=",
+        "registeredGvmGcm": "3640/",
+        "manufacturerGvmGcm": "3640/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-17T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

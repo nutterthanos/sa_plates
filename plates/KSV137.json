@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "KSV137",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRUCK",
+        "primaryColour": "GREEN",
+        "vehicleHash": "GUq1cr00dUN7e3z3ovaqp6cXlM83H3bF418TbVkYORc=",
+        "registeredConfiguration": "1R3 - 3 axle truck GVM < 16501kg",
+        "registeredGvmGcm": "14000/17500",
+        "manufacturerGvmGcm": "14000/17500",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]
