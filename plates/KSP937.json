@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "KSP937",
+        "make": "BELARUS",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "usoKNN7Pcn+kfjGCDOSD67RTT0NmPp6U93KWjth+1No=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9200/",
+        "manufacturerGvmGcm": "9200/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP20 20 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-10-27T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP20 20 KM/H MAXIMUM"
+        ]
+    }
+]

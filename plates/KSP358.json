@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "KSP358",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "CREAM",
+        "vehicleHash": "A1sTzCZM8/Nt0dC+KepJh83tenKBB6yj88odCiC+Z/Q=",
+        "registeredGvmGcm": "3400/3400",
+        "manufacturerGvmGcm": "3400/3400",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2024-10-26T00:00:00.000+10:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]
