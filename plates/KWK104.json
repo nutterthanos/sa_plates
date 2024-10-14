@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "KWK104",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "lBgmwV4FS2xpZdY3B6jy2Er36Bf6fn4WzKWrUFnhDmE=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "26500/90000",
+        "manufacturerGvmGcm": "26500/90000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2024-12-11T00:00:00.000+10:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "KWK104",
+        "make": "KENWORTH",
+        "bodyType": "TRUCK",
+        "primaryColour": "WHITE",
+        "vehicleHash": "Bgg3hoXPRCGU7ABOcPhcmxIzoLH6fsIv1q3PlQsoO1Q=",
+        "registeredConfiguration": "SR3 - 3 axle truck + 1 trailer comb < 7 axles",
+        "registeredGvmGcm": "26000/42500",
+        "manufacturerGvmGcm": "26000/42500",
+        "ctpInsurer": "ALLIANZ"
+    }
+]
