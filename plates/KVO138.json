@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "KVO138",
+        "make": "TOYOTA",
+        "bodyType": "UTILITY",
+        "primaryColour": "WHITE",
+        "vehicleHash": "pbxH4/wtgxHf0LTajnRiwJzn2i+GNEzsUjEmqv+GRIw=",
+        "ctpInsurer": "NRMA",
+        "expiry": "2025-03-20T00:00:00.000+10:30"
+    },
+    {
+        "plate": "KVO138",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "mJLGfg0b5W2RvPQzvSgdmenxmRQnRh2GZgdcyiQHc/w=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    }
+]
