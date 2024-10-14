@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "KVP187",
+        "make": "MANITOU",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "AKqziBDzMeIOBU57DrCRfysPE4sPZCSR9/I21dnx0QM=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6975/6975",
+        "manufacturerGvmGcm": "6975/6975",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-04-19T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "KVP078",
+        "make": "JOHN DEERE",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "zg9tXawV/CG8mR+wGsbb93Ruy7s6iXo3UkJFuIVjHuQ=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "LO3 ROUTE RESTRICTION",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "LO3 ROUTE RESTRICTION",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "KVP079",
+        "make": "VOLVO",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "0BvpMoqRejCPLZ+Ix9AdMl3ZFwLYspH89DdvdWmB3cs=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6650/",
+        "manufacturerGvmGcm": "6650/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-02-22T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

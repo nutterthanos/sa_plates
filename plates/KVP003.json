@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP003",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "ZC1ULwSH94id6NiSlrIGv7V9QqRm/A9iRk50BrWhpyI=",
+        "registeredGvmGcm": "3600/3600",
+        "manufacturerGvmGcm": "3600/3600",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-11-02T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

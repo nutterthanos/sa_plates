@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "KVP135",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "MYZMcleAgr3brFYp1biUaXHwsZq4F+7or45Vb2DfcO4=",
+        "registeredGvmGcm": "3750/5250",
+        "manufacturerGvmGcm": "3750/5250",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

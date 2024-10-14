@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP213",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "SILVER",
+        "vehicleHash": "D4xrqTKPJYWU/IJEjmXXbMzrObv7Scd2rVjyCpvAgl8=",
+        "registeredGvmGcm": "4445/",
+        "manufacturerGvmGcm": "4445/",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-10-15T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

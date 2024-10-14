@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "KVP734",
+        "make": "GROVE",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "mvM93AmW6z2k6OKxT+OqvTva20/RwUTHEaErPsKaijg=",
+        "registeredConfiguration": "OSV3 - 3 axle SPV - Overmass",
+        "registeredGvmGcm": "36000/36000",
+        "manufacturerGvmGcm": "36000/36000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "OS2 NHVR NOTICE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-11-01T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "OS2 NHVR NOTICE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

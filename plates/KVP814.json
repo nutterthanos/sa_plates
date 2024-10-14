@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP814",
+        "make": "VOLVO",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "jF8rDKJNZ0m/4ch7i0AU9oq2TOsU5BiRRhGP48Peb7o=",
+        "registeredConfiguration": "OSV3 - 3 axle SPV - Overmass",
+        "registeredGvmGcm": "23060/23060",
+        "manufacturerGvmGcm": "23060/23060",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

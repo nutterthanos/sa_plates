@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP030",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "bQcFdmWIUUwvm6cbc8L6iTr3V25FtCNi/03m9iyT/8U=",
+        "registeredGvmGcm": "3620/",
+        "manufacturerGvmGcm": "3620/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-02-07T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

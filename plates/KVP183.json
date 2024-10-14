@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP183",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "duHkTat4qhVDT84Gksnwg/RNHYGlQW8nRuKXj23w7Iw=",
+        "registeredGvmGcm": "4100/6600",
+        "manufacturerGvmGcm": "4100/6600",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-06-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

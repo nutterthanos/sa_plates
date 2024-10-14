@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "KVP581",
+        "make": "BROONS",
+        "bodyType": "INDUSTRIAL TRAILER",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "Utg7BhOq5fEKhXC/VRwe4SnWp2DGLjkIUCgP1uu86Vw=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9750/",
+        "manufacturerGvmGcm": "9750/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2027-03-21T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

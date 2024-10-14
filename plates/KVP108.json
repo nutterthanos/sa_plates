@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP108",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "pc7vkXYbDsJlEnM+me3nO6M5IuqpimMHrYwOrkadexI=",
+        "registeredGvmGcm": "3510/3510",
+        "manufacturerGvmGcm": "3510/3510",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-07T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP356",
+        "make": "KUBOTA",
+        "bodyType": "TRACTOR",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "N3eUndo3TEQNW2biVYhqe5mNUo1vJZnGqEm3ilm1AQo=",
+        "registeredGvmGcm": "3155/",
+        "manufacturerGvmGcm": "3155/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-02-26T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

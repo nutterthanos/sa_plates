@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP727",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "zeqgQagju82PavDEMC2WgQHPoaS5hJoCGo8Vr0ybrCk=",
+        "registeredGvmGcm": "4100/6600",
+        "manufacturerGvmGcm": "4100/6600",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-11-05T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

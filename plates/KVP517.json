@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP517",
+        "make": "LANDINI",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "tAoPuuV5tZYGejfFEvPxU/eY12wed6sfvPH11xapCNE=",
+        "registeredGvmGcm": "3450/",
+        "manufacturerGvmGcm": "3450/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-03-22T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

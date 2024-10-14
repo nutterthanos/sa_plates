@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP282",
+        "make": "DAVID BROWN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "LRb61SP3ilCLik0DKMCCKlsDs/XKpxAtqQrhvN3wRy4=",
+        "registeredGvmGcm": "2000/",
+        "manufacturerGvmGcm": "2000/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2026-03-25T00:00:00.000+10:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

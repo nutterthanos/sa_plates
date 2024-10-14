@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP214",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "TCs5RBB6OoBHJNIXHQpnqs0d3BDHrYvQQuXh0V8oey0=",
+        "registeredGvmGcm": "4130/6630",
+        "manufacturerGvmGcm": "4130/6630",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-08T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP501",
+        "make": "NEW HOLLAND",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "narA7BvXE6iy76cdkBvGbxhBB8fnMm1c74xdxOropyY=",
+        "registeredGvmGcm": "3300/3300",
+        "manufacturerGvmGcm": "3300/3300",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-16T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

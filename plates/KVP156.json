@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "KVP156",
+        "make": "HONDA",
+        "bodyType": "QUAD CYCLE",
+        "primaryColour": "RED",
+        "vehicleHash": "gwVHKh6uuz5Wjql5LsA9kCGvm11jbHcKkSphI+CXA0w=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "LO3 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "LO3 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

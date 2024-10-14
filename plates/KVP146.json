@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP146",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "F7PgvJN+JXtjqFY/PVwMTyiRWMg9t/yX7d+XEyurgM8=",
+        "registeredGvmGcm": "2660/4160",
+        "manufacturerGvmGcm": "2660/4160",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-10-15T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

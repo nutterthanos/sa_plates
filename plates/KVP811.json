@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP811",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "D4h1eghRSuQI1WeGXaHtlIIa0MbMWP1K0E4t3rjvvO4=",
+        "registeredGvmGcm": "2710/",
+        "manufacturerGvmGcm": "2710/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-11-28T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

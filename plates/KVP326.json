@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "KVP326",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "nhBdcD0P6B5fSvyYBQ+f4mJ3sFh+FLHoHIzZRZnXdNE=",
+        "registeredGvmGcm": "3700/3700",
+        "manufacturerGvmGcm": "3700/3700",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "GO8 UNLADEN TRAVEL",
+                "GO9 DEPT OF TRANSPORT DISPENSATION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "GO8 UNLADEN TRAVEL",
+            "GO9 DEPT OF TRANSPORT DISPENSATION"
+        ]
+    }
+]

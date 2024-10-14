@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP479",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "11GgAmxJq6M23JcObDqFSkv3dPFssGynjU3gsqxOd7s=",
+        "registeredGvmGcm": "2785/4285",
+        "manufacturerGvmGcm": "2785/4285",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-09-26T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

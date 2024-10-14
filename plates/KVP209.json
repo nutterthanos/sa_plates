@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "KVP209",
+        "make": "NOT LISTED",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "1v5SlXI7ulhH6Xw36O+8l4r8JnfugVC2zh0Tuy72Nmo=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7000/425000",
+        "manufacturerGvmGcm": "7000/42500",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-05-31T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

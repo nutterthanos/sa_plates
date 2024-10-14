@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP578",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "piSucGgXQZuyCw00jKJxDpnZaqXVFJ/wxvby7MZ/hcs=",
+        "registeredGvmGcm": "4390/4390",
+        "manufacturerGvmGcm": "4390/4390",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-02-22T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "KVP688",
+        "make": "XCMG",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "qkK0HaWrkxoG1YJeQXb7ScH4CWspHveEFEzpUqlPOUA=",
+        "registeredConfiguration": "OSV3 - 3 axle SPV - Overmass",
+        "registeredGvmGcm": "27900/",
+        "manufacturerGvmGcm": "27900/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "expiry": "2024-10-23T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

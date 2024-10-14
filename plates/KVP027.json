@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "KVP027",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "I2WoPSnvcralA6KSKuNh+IfJI5Kc2lo7TjxCyI/StHY=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "11770/11770",
+        "manufacturerGvmGcm": "11770/11770",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM2 NHVR NOTICE"
+        ]
+    }
+]

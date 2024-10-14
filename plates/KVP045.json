@@ -1,0 +1,21 @@
+[
+    {
+        "plate": "KVP045",
+        "make": "YAMAHA",
+        "bodyType": "GOLF BUGGY",
+        "primaryColour": "WHITE",
+        "vehicleHash": "yBuJB5i8Ru5NmAVAIdaVnbD6uMIjSrcEeNrCASEca9I=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-09-03T00:00:00.000+09:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

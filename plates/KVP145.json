@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "KVP145",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "e4QV5xUZlYSRHwSbCZovuBHDNgeDWCvwnd5ZxM47Tm4=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7950/7950",
+        "manufacturerGvmGcm": "7950/7950",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING"
+            ]
+        },
+        "expiry": "2025-04-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING"
+        ]
+    }
+]
