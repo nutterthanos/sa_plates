@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "LIT909",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "BLACK",
+        "vehicleHash": "wTC6uwmJrcEVUa7MQq4QT0zXB1Q6JyQGm73HTb1umlY=",
+        "registeredConfiguration": "SP3 - 3 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "28100/97000",
+        "manufacturerGvmGcm": "28100/97000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2024-12-06T00:00:00.000+10:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
