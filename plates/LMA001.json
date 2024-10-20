@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "LMA001",
+        "make": "INTERNATIONAL",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "vnwY6pYaP/LoRtAUbRcE710HibhrYDUC0eTrg/40lgQ=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "21900/72000",
+        "manufacturerGvmGcm": "21900/72000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV1 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV1 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "LMA001",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "SILVER",
+        "vehicleHash": "wRItqLO4P7udWIQjIycLNyaUVC0rlwPQcTbiYi5zr6k=",
+        "ctpInsurer": "MAC"
+    }
+]
