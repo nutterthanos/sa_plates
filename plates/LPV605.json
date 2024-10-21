@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LPV605",
+        "make": "DEUTZ",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "dwikN5RLtcCCksTe0Zs2maLuY3PKYRNsHjziPe0AIXc=",
+        "registeredGvmGcm": "2695/2695",
+        "manufacturerGvmGcm": "2695/2695",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-10-26T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
