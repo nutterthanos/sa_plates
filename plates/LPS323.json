@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LPS323",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "E9A/ZchfNkmAQxmCfxIVVqEmFJm5jE4EDm9iWw3KNdw=",
+        "registeredGvmGcm": "2940/",
+        "manufacturerGvmGcm": "2940/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2027-09-09T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

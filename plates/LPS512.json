@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LPS512",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "FDXBFie2zp8H0UEIW+Ba58M7mAg0L7sMjO56GXxZgos=",
+        "registeredGvmGcm": "2470/",
+        "manufacturerGvmGcm": "2470/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-01T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

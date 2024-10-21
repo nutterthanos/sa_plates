@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LPS201",
+        "make": "HOMEMADE",
+        "bodyType": "INDUSTRIAL TRAILER",
+        "primaryColour": "RED",
+        "vehicleHash": "+9FaWuugKCJOq70Q7WFOwoQnieOx5umyu4i0pTc15k0=",
+        "registeredGvmGcm": "800/",
+        "manufacturerGvmGcm": "800/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-10-02T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

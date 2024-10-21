@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LPS514",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "PeHOzXFsCTey4+g4M8OjrfceGz4AOdnJBNM1J6lqViw=",
+        "registeredGvmGcm": "2720/2720",
+        "manufacturerGvmGcm": "2720/2720",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-06-24T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

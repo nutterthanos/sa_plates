@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "LPS050",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "cr0vHLILyVkaHPOQJvo2L+guNF9yuagbTnwqPMGlwO0=",
+        "registeredGvmGcm": "3900/6090",
+        "manufacturerGvmGcm": "3900/6090",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

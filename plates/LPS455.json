@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "LPS455",
+        "make": "JOHN DEERE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "VQPc5J5Xgx+i9AvyGHFIpmKLrACxSTf/29RHxMsEq+o=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5010/5010",
+        "manufacturerGvmGcm": "5010/5010",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO3 OBSERVER REQUIRED"
+            ]
+        },
+        "expiry": "2026-01-14T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO3 OBSERVER REQUIRED"
+        ]
+    }
+]

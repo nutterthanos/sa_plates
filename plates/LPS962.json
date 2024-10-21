@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LPS962",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "nEb+i8pKPSdeJPpU3DRo6k3hxTsS3L3zKwn4ynNr9VI=",
+        "registeredGvmGcm": "3440/3440",
+        "manufacturerGvmGcm": "3440/3440",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-01-23T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

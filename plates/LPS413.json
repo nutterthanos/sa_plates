@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "LPS413",
+        "make": "HOMEMADE",
+        "bodyType": "TRAILER",
+        "primaryColour": "BROWN",
+        "vehicleHash": "fY+ujVXLBInyu40iiTz+SFnKEdxXd0HY0Y3/zWQq/ok=",
+        "registeredGvmGcm": "2000/",
+        "manufacturerGvmGcm": "2000/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "expiry": "2025-09-01T00:00:00.000+09:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]

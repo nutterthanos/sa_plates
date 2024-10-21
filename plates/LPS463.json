@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "LPS463",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "mto4bkuPffA0JEavn9P4R/mYbS7cTtTfp3/103sOhsw=",
+        "registeredGvmGcm": "3950/3950",
+        "manufacturerGvmGcm": "3950/3950",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2027-02-05T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

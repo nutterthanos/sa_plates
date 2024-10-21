@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "LPS472",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "8/K/zGWuQXd5vRPWFFtMkfVSFKexSciWJL1gjmjterI=",
+        "registeredGvmGcm": "3950/3950",
+        "manufacturerGvmGcm": "3950/3950",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-08-31T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LPS838",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "1u4zrzfZOEWrwPHDkQ8iYfmuDCfK3Keb0uhC/jYMIJw=",
+        "registeredGvmGcm": "2470/2470",
+        "manufacturerGvmGcm": "2470/2470",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-10-05T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

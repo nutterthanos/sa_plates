@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "LPS120",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "TAruLlAo0aj9+1fFsxGomIzUHIjWBDaWpVMUNsV88mI=",
+        "registeredGvmGcm": "1326/1326",
+        "manufacturerGvmGcm": "1326/1326",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "LPS401",
+        "make": "HOMEMADE",
+        "bodyType": "TRAILER",
+        "primaryColour": "BROWN",
+        "vehicleHash": "07Vf+Ba6+Q8FELsWTvBcQzH1oU6Fjo3+VoHm9VZnD5w=",
+        "registeredGvmGcm": "2000/",
+        "manufacturerGvmGcm": "2000/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "expiry": "2025-09-01T00:00:00.000+09:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LPS361",
+        "make": "KOMATSU",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "W0lJrUaFrzx1fwq0bary8+4w06fTE0q7OP9LdrnxU9Q=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9000/9000",
+        "manufacturerGvmGcm": "9000/9000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
