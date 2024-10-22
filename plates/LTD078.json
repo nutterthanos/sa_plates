@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "LTD078",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "x3gS9MvRz+RA44QX94ueOMIFamVqj9rS4mdV6NfEuLo=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-10-19T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "LTD078",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "/sn3OHBdZNHlwT6d91BfRz9KOq7ckQhdaGeskuavgig=",
+        "ctpInsurer": "MAC"
+    }
+]
