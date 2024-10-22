@@ -1,0 +1,30 @@
+[
+    {
+        "plate": "LRM054",
+        "make": "MITSUBISHI",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "Jj+TdIw/Yx5SOv3F3WRFvkGr5le+ZqDw84DQbjIKEDc=",
+        "registeredConfiguration": "SP3 - 3 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "24000/50000",
+        "manufacturerGvmGcm": "24000/60000",
+        "ctpInsurer": "QBE"
+    },
+    {
+        "plate": "LRM054",
+        "make": "NOT LISTED",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "2csnK6WstlAc4MG8LAcRyUUIeo+wdFG4yeeqXqeJqL4=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "20000/",
+        "manufacturerGvmGcm": "20000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

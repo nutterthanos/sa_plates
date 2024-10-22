@@ -1,0 +1,34 @@
+[
+    {
+        "plate": "LRM038",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "2obLVKnR1thxVxUc5Ry9MiuocqKk1ChxWWNiTM1eyZk=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "26000/",
+        "manufacturerGvmGcm": "26000/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    },
+    {
+        "plate": "LRM038",
+        "make": "VOLVO",
+        "bodyType": "TRUCK",
+        "primaryColour": "WHITE",
+        "vehicleHash": "ri4mQ9rXssRVOxiISRlmz79oGHmts82zuhFIejWB3+I=",
+        "registeredConfiguration": "2R3 - 3 axle truck GVM > 16500kg",
+        "registeredGvmGcm": "26000/26000",
+        "manufacturerGvmGcm": "26000/26000",
+        "ctpInsurer": "MAC"
+    }
+]

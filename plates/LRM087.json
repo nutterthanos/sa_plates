@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LRM087",
+        "make": "FORD",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "4sUY4JMxS6apYGVmoYlV7DOAl/cf+AHuPRbp+6dBKcg=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "21500/21500",
+        "manufacturerGvmGcm": "21500/21500",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO8 UNLADEN TRAVEL"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO8 UNLADEN TRAVEL"
+        ]
+    }
+]

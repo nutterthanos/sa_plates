@@ -1,0 +1,36 @@
+[
+    {
+        "plate": "LRM036",
+        "make": "NOT LISTED",
+        "bodyType": "TIPPER TRAILER",
+        "primaryColour": "SILVER",
+        "vehicleHash": "DjIiDLlzL+5p1gkTud97ylVovbOxxGqo0Fsm/S3gvTE=",
+        "registeredConfiguration": "TD12 - Dog trl - Single axle (F) & Tandem axle (R)",
+        "registeredGvmGcm": "26000/",
+        "manufacturerGvmGcm": "26000/",
+        "ctpInsurer": "QBE",
+        "expiry": "2024-10-31T00:00:00.000+10:30"
+    },
+    {
+        "plate": "LRM036",
+        "make": "FORD",
+        "bodyType": "TIPPER VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "AUEOwkcI0g0vljEueK+HNH3CeAxOzRuCe1A62gkNRp8=",
+        "registeredConfiguration": "2R3 - 3 axle truck GVM > 16500kg",
+        "registeredGvmGcm": "20140/25450",
+        "manufacturerGvmGcm": "20140/25450",
+        "ctpInsurer": "MAC"
+    },
+    {
+        "plate": "LRM036",
+        "make": "INTERNATIONAL",
+        "bodyType": "SPRAY TANKER VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "FWYVhToWrVBv2Frlud6Z0OZF8Qjanx3ow+K2z6juf2o=",
+        "registeredConfiguration": "1R3 - 3 axle truck GVM < 16501kg",
+        "registeredGvmGcm": "14000/18200",
+        "manufacturerGvmGcm": "14000/18200",
+        "ctpInsurer": "MAC"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LRM018",
+        "make": "VOLVO",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "hfLpZ/DxjzyO2SCLt9mpui/DtI0WOnjaOUbzb9hRWTY=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "18280/18280",
+        "manufacturerGvmGcm": "18280/18280",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]
