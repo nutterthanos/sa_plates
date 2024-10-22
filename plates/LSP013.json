@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LSP013",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "dp+8z3doRwXDKOBCSEYx2V8dWS1GD64HEvmXTRkMYH8=",
+        "registeredGvmGcm": "2450/",
+        "manufacturerGvmGcm": "2450/",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-29T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "LSP604",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "q6yglVJCc4b4WflM3S5cZ0Z1qSo1pRkAT50QmfhaWRM=",
+        "registeredGvmGcm": "3770/",
+        "manufacturerGvmGcm": "3770/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

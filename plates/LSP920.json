@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LSP920",
+        "make": "MASSEY HARRIS",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "jLPcA7av3LHf5dv/s/1jy4VpnbMaBWCNWIAZnI6j09s=",
+        "registeredGvmGcm": "3809/",
+        "manufacturerGvmGcm": "3809/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-27T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

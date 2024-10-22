@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "LSP409",
+        "make": "CHEVROLET",
+        "bodyType": "TRUCK",
+        "primaryColour": "GREEN",
+        "vehicleHash": "YUvgqc/n4O+ldAeon/Hjti8dFU6zYS3ISYna6UUJBIs=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "5900/10880",
+        "manufacturerGvmGcm": "5900/10880",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]

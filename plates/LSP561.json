@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LSP561",
+        "make": "JOHN DEERE",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "BLACK",
+        "vehicleHash": "ePcJVIu++BPUF1pQi3iqKNGtF3tmnsoAa2GtJ6n973s=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4800/",
+        "manufacturerGvmGcm": "4800/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

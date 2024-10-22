@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LSP560",
+        "make": "MITSUBISHI",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "dt0YWk8ONkvvIiIYdcWwBlkL2ZvVP9zKrNJ1WZNE9h8=",
+        "registeredConfiguration": "TSV3 - 3 axle SPV - Truck",
+        "registeredGvmGcm": "15950/",
+        "manufacturerGvmGcm": "15950/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
