@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LSV366",
+        "make": "DAVID BROWN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "JINmWJVBQd3XTOXVDzH7T+VijCdXVvdlpgtgPeMpnQU=",
+        "registeredGvmGcm": "1810/",
+        "manufacturerGvmGcm": "1810/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-04-28T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

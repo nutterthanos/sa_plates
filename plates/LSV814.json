@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LSV814",
+        "make": "LANDINI",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "bv7Rv59qblT8Da/YHVIiNpaUMbww0dCJG4JJo0p+xgI=",
+        "registeredGvmGcm": "2767/",
+        "manufacturerGvmGcm": "2767/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-17T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

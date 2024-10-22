@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LSV211",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "vKkEDsiaDmYqGccla4XsJMrJLmf2sL0/asM+OVGr7RM=",
+        "registeredGvmGcm": "4470/",
+        "manufacturerGvmGcm": "4470/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-02-27T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

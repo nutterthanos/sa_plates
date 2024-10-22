@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LSV290",
+        "make": "ISEKI",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "2Php5jN6T5tfZC3XyU5yS2HL90TgFrGzO6EjTsmTnPI=",
+        "registeredGvmGcm": "1770/",
+        "manufacturerGvmGcm": "1770/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-06-25T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

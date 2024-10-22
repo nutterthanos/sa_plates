@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LSV491",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "RYYFeqqJTI9h2RUPFMbRfNlO0XGaJ1sa96mSFhDKLyM=",
+        "registeredGvmGcm": "1350/",
+        "manufacturerGvmGcm": "1350/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-02-25T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LSV993",
+        "make": "FENDT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "HDXKWsdb5jBrlJx0Wh1KUS7Mo84j8Q1D3iFA5PUJRXE=",
+        "registeredGvmGcm": "3610/",
+        "manufacturerGvmGcm": "3610/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-06-18T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

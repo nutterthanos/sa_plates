@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LSV181",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "za1Jx6Kdp8CYpiSaGjilcpKI9fzNazwMIRNlYtBEcA0=",
+        "registeredGvmGcm": "2690/",
+        "manufacturerGvmGcm": "2690/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-14T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
