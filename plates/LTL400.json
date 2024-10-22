@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "LTL400",
+        "make": "FORD",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "XdtFtZwPa1yvEqOz2Ti/NKiR4HqZ4gfsbTthBwcWBNg=",
+        "registeredConfiguration": "SP3 - 3 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "22500/42500",
+        "manufacturerGvmGcm": "22500/42500",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "expiry": "2026-10-07T00:00:00.000+10:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]
