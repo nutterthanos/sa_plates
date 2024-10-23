@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LVP784",
+        "make": "VOLVO",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "D2ySd5PV5Z2cncbvodmRWF7nb0qNw+3YvD+KBydMSsM=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "19300/",
+        "manufacturerGvmGcm": "19300/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO3 ROUTE RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO3 ROUTE RESTRICTION"
+        ]
+    }
+]

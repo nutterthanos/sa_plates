@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "LVP464",
+        "make": "NEW HOLLAND",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "w71rtyekQHtnq3s9XJ61f+gxdfc6ALw07yzucfUTl6A=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7265/7265",
+        "manufacturerGvmGcm": "7265/7265",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

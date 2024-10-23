@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LVP027",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "eZdaVtYrULhTTZcrdWLFjIGQjV54/w2M0yUkJeLo+lw=",
+        "registeredGvmGcm": "3480/3480",
+        "manufacturerGvmGcm": "3480/3480",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-11-18T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

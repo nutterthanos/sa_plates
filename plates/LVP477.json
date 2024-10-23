@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LVP477",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "oAb5za1i/DRBT4HwgoTrIETibQUcJaR1SlM7zoQAzV0=",
+        "registeredGvmGcm": "3860/",
+        "manufacturerGvmGcm": "3860/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2024-12-19T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

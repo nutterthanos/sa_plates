@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LVP071",
+        "make": "BOBCAT",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "zHS+SikB/l7lTPDRbRQ1D85QwOkGJ0Qnl3r1y6ojLpE=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "4788/",
+        "manufacturerGvmGcm": "4788/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

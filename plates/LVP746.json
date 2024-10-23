@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LVP746",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "q11Nd2aROOY5yisXl5wg5kfdPewJ1rTMx1whCBof4dA=",
+        "registeredGvmGcm": "2685/2685",
+        "manufacturerGvmGcm": "2685/2685",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-06-10T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

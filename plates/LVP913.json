@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LVP913",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "IE7w1wOJoA5vnZh47LI8/Kc8mveEdZceHqA0Tsut1k4=",
+        "registeredGvmGcm": "3720/3720",
+        "manufacturerGvmGcm": "3720/3720",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-03-30T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

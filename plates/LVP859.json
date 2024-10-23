@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LVP859",
+        "make": "NEW HOLLAND",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "GkxmQ9PTPI0vy9r+vy5ccsF1A7qTewR/3gKZMPif3DU=",
+        "registeredGvmGcm": "2800/2800",
+        "manufacturerGvmGcm": "2800/2800",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-03-04T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

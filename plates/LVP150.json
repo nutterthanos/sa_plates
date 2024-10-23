@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LVP150",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "E9POUPLBlKF3EMBL9scvtwmWnp2q3MV6GH5kqPk8snQ=",
+        "registeredGvmGcm": "3510/",
+        "manufacturerGvmGcm": "3510/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-03-29T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LVP603",
+        "make": "LANDINI",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "5oKS20NbMLgVsdec2Fm2lmfcSDkHcuiDA1v4lVOu5mU=",
+        "registeredGvmGcm": "3560/3560",
+        "manufacturerGvmGcm": "3560/3560",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-27T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

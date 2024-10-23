@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LVP199",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "9zsIHG6O3RQ+LKPx7q8BFvUV5DmsM2GhqxffowhJLPw=",
+        "registeredGvmGcm": "4340/",
+        "manufacturerGvmGcm": "4340/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-03-29T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

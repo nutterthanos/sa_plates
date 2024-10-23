@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "LVP485",
+        "make": "HYSTER",
+        "bodyType": "INDUSTRIAL TRAILER",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "yUhHVOKMP5d0IAwZMJtMSgN9jSqpXpP+zeyF71T51HE=",
+        "registeredConfiguration": "PSV1 - 1 axle SPV - Plant",
+        "registeredGvmGcm": "14000/",
+        "manufacturerGvmGcm": "14000/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT"
+            ]
+        },
+        "expiry": "2025-08-01T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT"
+        ]
+    }
+]

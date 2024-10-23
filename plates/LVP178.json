@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LVP178",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "CIoJJfqtF+s0prEIHZGUYjU76cYiWSIInaAgaM9HjMM=",
+        "registeredGvmGcm": "3428/3428",
+        "manufacturerGvmGcm": "3428/3428",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2026-12-21T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

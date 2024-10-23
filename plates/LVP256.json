@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "LVP256",
+        "make": "KAWASAKI",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "qoOKYnntHKTIY8wbXGnE5PfJ/k552ZcIiXx+YfV9oqo=",
+        "registeredGvmGcm": "864/864",
+        "manufacturerGvmGcm": "864/864",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO5 ROUTE RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO5 ROUTE RESTRICTION"
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "LVP340",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "o5vWOeYI0Fg2aoYLJZMdOIP/IpGVHurxoNITwNX0QSE=",
+        "registeredGvmGcm": "3680/",
+        "manufacturerGvmGcm": "3680/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

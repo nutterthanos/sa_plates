@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LVP359",
+        "make": "CATERPILLAR",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "Ba7jwR/46fAD6cZ0zjnRhAO8I2VZFmsAFpThvyvcWTM=",
+        "registeredGvmGcm": "2630/",
+        "manufacturerGvmGcm": "2630/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT"
+            ]
+        },
+        "expiry": "2025-01-17T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT"
+        ]
+    }
+]

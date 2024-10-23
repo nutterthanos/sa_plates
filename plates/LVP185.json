@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LVP185",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "eGurIJw0qbs36LhD9GfVVhiHwUJ/TWAKAd3OxY89M64=",
+        "registeredGvmGcm": "3680/3680",
+        "manufacturerGvmGcm": "3680/3680",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-04-27T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "LVP594",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "5lIML9bk/hGBI1nwYVNvh8p87BFYTvTILc1tBj6lTgY=",
+        "registeredGvmGcm": "1000/1000",
+        "manufacturerGvmGcm": "1000/1000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2024-12-22T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]
