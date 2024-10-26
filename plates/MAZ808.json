@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "MAZ808",
+        "make": "MAZDA",
+        "bodyType": "STATION WAGON",
+        "primaryColour": "WHITE",
+        "vehicleHash": "ECmsFnRZXVbdOZPyuKOfQpYLzCRaRDh3w+Vuge3dhVw=",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-07-03T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "MAZ808",
+        "make": "MAZDA",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "CxN4XdC/s2IsI+3WlJuOVhbfwKG0RbgPxFsFfiDo56o=",
+        "ctpInsurer": "MAC"
+    }
+]
