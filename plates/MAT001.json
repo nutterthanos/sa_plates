@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "MAT001",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "KZuVysp83jS+vX9WJ8HAZtsRSxvE1q5rUo8KJ6YG/V4=",
+        "registeredConfiguration": "SP3 - 3 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "24600/68000",
+        "manufacturerGvmGcm": "24600/68000",
+        "ctpInsurer": "AAMI"
+    },
+    {
+        "plate": "MAT001",
+        "make": "MITSUBISHI",
+        "bodyType": "UTILITY",
+        "primaryColour": "RED",
+        "vehicleHash": "nKJKjapmtio9PIspcWMztN6kiZpxJwbx/PFzvVhbOQM=",
+        "ctpInsurer": "QBE"
+    },
+    {
+        "plate": "MAT001",
+        "make": "CHRYSLER",
+        "bodyType": "SEDAN",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "rbkj143nNlyfsI65FEav55n3Pjd2Aww5Nj42n6MTGs0=",
+        "ctpInsurer": "MAC"
+    }
+]

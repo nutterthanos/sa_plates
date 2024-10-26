@@ -1,0 +1,30 @@
+[
+    {
+        "plate": "MAT004",
+        "make": "VOLKSWAGEN",
+        "bodyType": "UTILITY",
+        "primaryColour": "GREY",
+        "vehicleHash": "WLo+BexrnSWhQMEOpssnnUDNMjzwVYWney8FRgLl+7A=",
+        "ctpInsurer": "NRMA",
+        "expiry": "2024-11-30T00:00:00.000+10:30"
+    },
+    {
+        "plate": "MAT004",
+        "make": "FREIGHTMASTER",
+        "bodyType": "SEMI TRAILER",
+        "primaryColour": "RED",
+        "vehicleHash": "tKabNzINw/FoKNrW1ppRQp2RsuO/CBAd/8IuwykKqz4=",
+        "registeredConfiguration": "TS3 - Semi Trailer - Tri Axle Group",
+        "registeredGvmGcm": "25000/",
+        "manufacturerGvmGcm": "25000/",
+        "ctpInsurer": "NRMA"
+    },
+    {
+        "plate": "MAT004",
+        "make": "HOLDEN",
+        "bodyType": "STATION WAGON",
+        "primaryColour": "FAWN",
+        "vehicleHash": "eM22WfCdY773LaLs4PhQjouD6448+bKKWbL+WOe+vOc=",
+        "ctpInsurer": "MAC"
+    }
+]
