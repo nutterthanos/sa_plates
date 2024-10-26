@@ -1,0 +1,35 @@
+[
+    {
+        "plate": "MAL001",
+        "make": "FORD",
+        "bodyType": "STATION WAGON",
+        "primaryColour": "SILVER",
+        "vehicleHash": "WUBzWNmbbCJpkP+QM7kvuFjOwcMmzeKbN3SHlqWAHM8=",
+        "ctpInsurer": "AAMI",
+        "expiry": "2024-12-20T00:00:00.000+10:30"
+    },
+    {
+        "plate": "MAL001",
+        "make": "MERCEDES BENZ",
+        "bodyType": "SEDAN",
+        "primaryColour": "SILVER",
+        "vehicleHash": "cfUwfXxZU3p2keLoQYBqnN+a06Ta4NorjXWhVNuY+Fs=",
+        "ctpInsurer": "AAMI"
+    },
+    {
+        "plate": "MAL001",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "xthZHHYbD2zyKLCRKa3XxgqHQy3JQxG7OfqtV3vwJKE=",
+        "ctpInsurer": "MAC"
+    },
+    {
+        "plate": "MAL001",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "FAWN",
+        "vehicleHash": "MaYBxh7JoAAGwhCrMPOBngQt6iYwFX7wVGaNVLTZo/s=",
+        "ctpInsurer": "MAC"
+    }
+]
