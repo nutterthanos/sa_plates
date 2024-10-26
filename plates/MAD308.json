@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "MAD308",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "T2TDrJEojS3Q8vmTWf43JEDwHEaybNDnJQnwBVvKdDQ=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2027-04-21T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "MAD308",
+        "make": "HOLDEN",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "ErqfcCTO0Ycp7XtfyUJ5OS7bYZfWsIgMsW/1a20r9jo=",
+        "ctpInsurer": "MAC"
+    }
+]
