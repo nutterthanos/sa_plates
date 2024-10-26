@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "MAC069",
+        "make": "TOYOTA",
+        "bodyType": "TRUCK",
+        "primaryColour": "FAWN",
+        "vehicleHash": "agYOaNpWqjdMrEtciBIovLotr1ai30lunsNFdGuNXAc=",
+        "registeredGvmGcm": "3040/4170",
+        "manufacturerGvmGcm": "3040/4170",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "expiry": "2025-03-06T00:00:00.000+10:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]

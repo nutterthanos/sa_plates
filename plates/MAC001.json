@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "MAC001",
+        "make": "HOLDEN",
+        "bodyType": "STATION WAGON",
+        "primaryColour": "SILVER",
+        "vehicleHash": "SRrpIxcC82BjQRg8+ExChEDJdijph96dErL33tyMMQE=",
+        "ctpInsurer": "AAMI",
+        "expiry": "2025-09-07T00:00:00.000+09:30"
+    },
+    {
+        "plate": "MAC001",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "B5EhZL5ZQ/yWkpMd1rAiSRVPe2VDmcMd2vM3AmVELyo=",
+        "ctpInsurer": "MAC"
+    }
+]

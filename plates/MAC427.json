@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "MAC427",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "2hgUuW0tTAKpJvibpnlrlSOXxICeSpcGqeko8nQzeUk=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "OL3G HISTORIC VEHICLE + EXTENSION",
+                "OL3 MEMBERSHIP OF CLUB"
+            ]
+        },
+        "expiry": "2025-08-09T00:00:00.000+09:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION",
+            "OL3 MEMBERSHIP OF CLUB"
+        ]
+    },
+    {
+        "plate": "MAC427",
+        "make": "MAZDA",
+        "bodyType": "PANEL VAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "X2Iguijd5ZWXRxkpmPt+hWLRllyEsL6o1MQ2dekRHFI=",
+        "ctpInsurer": "MAC"
+    }
+]
