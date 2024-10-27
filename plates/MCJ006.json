@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "MCJ006",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "BLUE",
+        "vehicleHash": "C4M+5mE3Z10E08EoPCaj/A7QKaikGsrm+Yq79zOr870=",
+        "registeredConfiguration": "SP3 - 3 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "26500/110000",
+        "manufacturerGvmGcm": "26500/110000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2024-11-22T00:00:00.000+10:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
