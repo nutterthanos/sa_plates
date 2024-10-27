@@ -1,0 +1,45 @@
+[
+    {
+        "plate": "MCF001",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "BLUE",
+        "vehicleHash": "S0Gib5i1xSyCC6REx1DRBk7L7iBCOOwAyXxRoSJKols=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "28200/131000",
+        "manufacturerGvmGcm": "28200/131000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2025-01-10T00:00:00.000+10:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "MCF001",
+        "make": "WESTERN STAR",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "BLUE",
+        "vehicleHash": "vSjqWY7H6DPfHtyU7qJR0tWEPzUFL8o6qaJCiA+Ib6w=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "25000/83000",
+        "manufacturerGvmGcm": "25000/83000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "MCF001",
+        "make": "FORD",
+        "bodyType": "STATION WAGON",
+        "primaryColour": "WHITE",
+        "vehicleHash": "s5BqdxYtTXGglZWxWlSF9azaFdybB6LO6XG4o06Nkfk=",
+        "ctpInsurer": "MAC"
+    }
+]

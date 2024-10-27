@@ -1,0 +1,37 @@
+[
+    {
+        "plate": "MCF002",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "NS+b8LxKFdKnlfvyUqIlLryoJKyIwjYpk22CbTGvp84=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "27500/115000",
+        "manufacturerGvmGcm": "27500/115000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "LV1 NHVR NOTICE"
+        },
+        "expiry": "2024-11-27T00:00:00.000+10:30",
+        "conditions": [
+            "LV1 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "MCF002",
+        "make": "WESTERN STAR",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "G3o2cxrTwZ03rtkB4lEpnjPydm5pGsY4vWSiGY5VXLQ=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "26000/106000",
+        "manufacturerGvmGcm": "26000/106000",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
