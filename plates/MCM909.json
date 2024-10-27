@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "MCM909",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "RED",
+        "vehicleHash": "JZda2DqgUBu5hQGQE1zWJN6KzpkYJLgvcXmQnxG4UIQ=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "27600/97000",
+        "manufacturerGvmGcm": "27600/97000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2024-11-22T00:00:00.000+10:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
