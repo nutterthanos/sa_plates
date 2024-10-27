@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "MBT909",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "GREEN",
+        "vehicleHash": "sYKSRrzWPoNzpbNsdw/5ijN7181ChvD26SVSwY+Vgyk=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "28100/110000",
+        "manufacturerGvmGcm": "28100/110000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "expiry": "2025-09-16T00:00:00.000+09:30",
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
