@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "MGB680",
+        "make": "MG",
+        "bodyType": "TOURER",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "TqEYdpdJVKh9RICRfYCLtF+pCCZuNQE4AhLHCZP7rS4=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-12-18T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "MGB680",
+        "make": "MG",
+        "bodyType": "TOURER",
+        "primaryColour": "GREEN",
+        "vehicleHash": "yd3OAQPohHCizG8lM4xmxETEmrtddIrRQ9WVuAHjwUU=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    }
+]

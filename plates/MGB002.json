@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "MGB002",
+        "make": "MG",
+        "bodyType": "SEDAN",
+        "primaryColour": "GREEN",
+        "vehicleHash": "gWHPPqH+UE3xHy6SMJMKgZc+k5fHlRRJ9GNjsPabSZ4=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2026-10-29T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "MGB002",
+        "make": "MG",
+        "bodyType": "TOURER",
+        "primaryColour": "BLUE",
+        "vehicleHash": "BihJ0j/6rpj9xoPzr4DZvkd5bR9gBPeh8L0SZLSonZU=",
+        "ctpInsurer": "MAC"
+    }
+]
