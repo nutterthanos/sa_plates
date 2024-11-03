@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "MPI308",
+        "make": "FERRARI",
+        "bodyType": "SEDAN",
+        "primaryColour": "RED",
+        "vehicleHash": "w2u1QHi/VeLRKdvWOZqB6bnCwDPOf4o4IuUKoBgBIds=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2025-10-27T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "MPI308",
+        "make": "MASERATI",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLACK",
+        "vehicleHash": "n2tIWYt+1Rt6fz79T8a6cNtoBK+Boyjn/Ap6Il2yAC0=",
+        "ctpInsurer": "QBE"
+    }
+]
