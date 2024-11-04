@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MPV643",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "STmr8mPpGbQL8wPSNdiRm63350ExxOPSIHI+31Q47zU=",
+        "registeredGvmGcm": "4270/4270",
+        "manufacturerGvmGcm": "4270/4270",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-01-10T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

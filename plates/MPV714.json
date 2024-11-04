@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "MPV714",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "BSr7FmkDi4+V6uw9PlHvJ7Sqy70pj7u8XxgPS7VAgaI=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9200/",
+        "manufacturerGvmGcm": "9200/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP60 60 KM/H MAXIMUM",
+                "TR2 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP60 60 KM/H MAXIMUM",
+            "TR2 TIME RESTRICTIONS"
+        ]
+    }
+]

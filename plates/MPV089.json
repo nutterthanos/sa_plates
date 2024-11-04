@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "MPV089",
+        "make": "CATERPILLAR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "kq2/EEqe70yRaZ4YD9B/afI0R8Z+FxAtif4tgsHK+Q8=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "11564/11564",
+        "manufacturerGvmGcm": "11564/11564",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "expiry": "2025-04-18T00:00:00.000+09:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "MPV673",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "hQzCVz2sPkRcy1suX7hLaWJPWtI+fk6pXS1nCmNihg4=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "8000/",
+        "manufacturerGvmGcm": "8000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SL1A STOP & TURN SIGNAL LAMPS",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SL1A STOP & TURN SIGNAL LAMPS",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
