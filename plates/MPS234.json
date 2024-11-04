@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MPS234",
+        "make": "TADANO",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "Vp3/waR4DYbKvEvCkvYF3AfwEw5SmgbInC8kZ16J6qE=",
+        "registeredConfiguration": "OSV4 - 4 axle SPV - Overmass",
+        "registeredGvmGcm": "30000/",
+        "manufacturerGvmGcm": "30000/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]

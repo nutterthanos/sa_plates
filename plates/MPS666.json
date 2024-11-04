@@ -1,0 +1,30 @@
+[
+    {
+        "plate": "MPS666",
+        "make": "MAZDA",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "e/mljkjbOfstFmSn6sgslPWhz9kCihMrrLKgC/YKlqI=",
+        "ctpInsurer": "YOUI"
+    },
+    {
+        "plate": "MPS666",
+        "make": "NEW HOLLAND",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "QxMZvR3Qpj97WOf5DrzaG6PHRTp21TjpkDjZm66100s=",
+        "registeredGvmGcm": "3500/3500",
+        "manufacturerGvmGcm": "3500/3500",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "CTBA CONDITIONS TO BE ASSESSED"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "CTBA CONDITIONS TO BE ASSESSED"
+        ]
+    }
+]

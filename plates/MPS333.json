@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "MPS333",
+        "make": "HONDA",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLACK",
+        "vehicleHash": "1yjORcW2act/qAvQddGj0lYB0zMi+ArJQsDzhtxGjPs=",
+        "ctpInsurer": "ALLIANZ",
+        "expiry": "2024-12-12T00:00:00.000+10:30"
+    },
+    {
+        "plate": "MPS333",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "QT11lcVn+nZcVejDTYWSB64XhpMjAPjIFqDl3vIoDkU=",
+        "registeredGvmGcm": "2300/",
+        "manufacturerGvmGcm": "2300/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MPS901",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "tOKcLBYDmt8uVSSbPjoSJ0DmFjWteKfS5kfxDRrPYX4=",
+        "registeredGvmGcm": "1800/2980",
+        "manufacturerGvmGcm": "1800/2980",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-11T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

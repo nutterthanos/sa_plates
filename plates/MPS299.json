@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "MPS299",
+        "make": "PETERSON",
+        "bodyType": "INDUSTRIAL TRAILER",
+        "primaryColour": "BLUE",
+        "vehicleHash": "jr0pZUMcaPzXd4dckxfJhCsSUn+4Xf36orCWOC+U1yA=",
+        "registeredConfiguration": "OSV3 - 3 axle SPV - Overmass",
+        "registeredGvmGcm": "44280/",
+        "manufacturerGvmGcm": "44280/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "MPS136",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "5nwbEF6gQO0Agd1JED72YWkY//ljBl3ctc09JAmIoNs=",
+        "registeredGvmGcm": "4080/",
+        "manufacturerGvmGcm": "4080/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

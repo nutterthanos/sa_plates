@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "MPS957",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "oPORuMdCFq+fWCs1NeSUT9erVewbNfUWSnSWFCZe9s4=",
+        "registeredGvmGcm": "3860/3860",
+        "manufacturerGvmGcm": "3860/3860",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2026-05-05T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

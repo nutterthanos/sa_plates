@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "MPS248",
+        "make": "DEMAG",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "ZbPtrT0sjebVK5BxGKBiaY8eusIWBCF3lPVurp9mpJQ=",
+        "registeredConfiguration": "OSV4 - 4 axle SPV - Overmass",
+        "registeredGvmGcm": "48000/48000",
+        "manufacturerGvmGcm": "48000/48000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

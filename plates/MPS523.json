@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "MPS523",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "MISQ8+axm8fVmiKveSE4ck1bzxB7fHD5bX3zxD4LOYo=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6080/6080",
+        "manufacturerGvmGcm": "6080/6080",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "SP40 40 KM/H MAXIMUM"
+        },
+        "expiry": "2025-06-15T00:00:00.000+09:30",
+        "conditions": [
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

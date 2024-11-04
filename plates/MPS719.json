@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MPS719",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "F97P7r08I+gKyhA1AWO3SPyRS4rtzNpeVMr1DlvLZ3I=",
+        "registeredGvmGcm": "4340/",
+        "manufacturerGvmGcm": "4340/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-04-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

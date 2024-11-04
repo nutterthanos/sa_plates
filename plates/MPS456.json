@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MPS456",
+        "make": "JOHN DEERE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "RcElTGO7ZMTzcl31/lVIShOXYYoOwW2n7A4vIU9mkL8=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5010/5010",
+        "manufacturerGvmGcm": "5010/5010",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO3 OBSERVER REQUIRED"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO3 OBSERVER REQUIRED"
+        ]
+    }
+]

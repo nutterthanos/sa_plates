@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "MPS001",
+        "make": "VOLKSWAGEN",
+        "bodyType": "UTILITY",
+        "primaryColour": "WHITE",
+        "vehicleHash": "VlIjbujWnEg9oy1mXGfn9adQCxz3eCnati03qnDuLCs=",
+        "ctpInsurer": "NRMA",
+        "expiry": "2025-08-03T00:00:00.000+09:30"
+    },
+    {
+        "plate": "MPS001",
+        "make": "VOLKSWAGEN",
+        "bodyType": "VAN VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "pQVpZqI6Kt13vfRbwM1VvuKJ+fDs9iPlEZQtyK9a838=",
+        "ctpInsurer": "NRMA"
+    },
+    {
+        "plate": "MPS001",
+        "make": "HOLDEN",
+        "bodyType": "STATION WAGON",
+        "primaryColour": "WHITE",
+        "vehicleHash": "RWdupIJdRBFsMx8Lvd5yAW9wFiyXYDbFUgmI2JF9j5w=",
+        "ctpInsurer": "MAC"
+    }
+]

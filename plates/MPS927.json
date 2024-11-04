@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "MPS927",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "uRelXvyA1te8HB/FpvO3P6QDJAMjWGiLVGN+Pw6fGzI=",
+        "registeredGvmGcm": "3500/4500",
+        "manufacturerGvmGcm": "3500/4500",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

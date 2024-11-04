@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MPS946",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "Yxzwfx4yiP13qZlmGXZ76EmPt9lEgSDFSCJEBGVqfH0=",
+        "registeredGvmGcm": "1800/2980",
+        "manufacturerGvmGcm": "1800/2980",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-03-30T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

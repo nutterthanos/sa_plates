@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "MPS374",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "x5TMWHZ6aPaIPp/t3hf/3j2gtQRs3Kk68ti0HlsmTHw=",
+        "registeredGvmGcm": "2500/2500",
+        "manufacturerGvmGcm": "2500/2500",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-04-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

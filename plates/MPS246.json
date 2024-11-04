@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MPS246",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "USKsCvruHGJO4MFG0AINTo3JVRCJRjHmYVhf2Bx4tnk=",
+        "registeredGvmGcm": "2770/4050",
+        "manufacturerGvmGcm": "2770/4050",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-03-25T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

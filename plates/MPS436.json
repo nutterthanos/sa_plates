@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "MPS436",
+        "make": "FORDSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "XQhLRRgpQhD4elxo9jlW/BMAnPsOsHjlsrrW9RKlykM=",
+        "registeredGvmGcm": "1900/1900",
+        "manufacturerGvmGcm": "1900/1900",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

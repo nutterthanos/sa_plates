@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MPS816",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "eQV8PsVe0ToECHbys2dD+QxdqNIroKQhnYFG+CO5RxM=",
+        "registeredGvmGcm": "2970/3298",
+        "manufacturerGvmGcm": "2970/3298",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-01-07T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

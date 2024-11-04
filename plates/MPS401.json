@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "MPS401",
+        "make": "FREIGHTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "BROWN",
+        "vehicleHash": "VgHn8CoRvuHmXnMmSd4/9kW8Gg7s+apw3oQ6MbKvuEY=",
+        "registeredGvmGcm": "3000/5000",
+        "manufacturerGvmGcm": "3000/5000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

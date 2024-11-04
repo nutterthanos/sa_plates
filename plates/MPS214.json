@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "MPS214",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "2FWSbtwWqpWfo0QvBG+2gtz/HlSL1Z9ejszhqFrObCY=",
+        "registeredGvmGcm": "3200/3500",
+        "manufacturerGvmGcm": "3200/3500",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2027-03-03T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

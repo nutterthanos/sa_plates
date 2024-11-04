@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "MPS063",
+        "make": "CATERPILLAR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "3U8tLKFW40TiG0yNLmG/7oP5B3rzxfDXP+w635ezM+Y=",
+        "registeredConfiguration": "PSV6 - 6 axle SPV - Plant",
+        "registeredGvmGcm": "16000/16000",
+        "manufacturerGvmGcm": "16000/16000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM2 NHVR NOTICE",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "expiry": "2027-04-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM2 NHVR NOTICE",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    }
+]

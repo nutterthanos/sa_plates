@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "MPS110",
+        "make": "JOHN DEERE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "4g7hP2bHCnM+ANZ5FPBwygMUaK1dedEKdjH4nP+4k7s=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7500/",
+        "manufacturerGvmGcm": "7500/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO3 OBSERVER REQUIRED"
+            ]
+        },
+        "expiry": "2025-02-27T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO3 OBSERVER REQUIRED"
+        ]
+    }
+]

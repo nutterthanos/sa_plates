@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MPS202",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "Rda6vm8TvWnfuwY+6TawgjMzyf1XHHEsYoMHi52/ieE=",
+        "registeredGvmGcm": "3720/",
+        "manufacturerGvmGcm": "3720/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-02-25T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "MPS268",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "5kAL4pz4TCx5G8TXFj7SjFlZ50rL2BRV+zq7hmV+LHU=",
+        "registeredGvmGcm": "3970/3970",
+        "manufacturerGvmGcm": "3970/3970",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-03-19T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

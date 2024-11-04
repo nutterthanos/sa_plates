@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MPS216",
+        "make": "BOBCAT",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "i4j797m9ewdsGOSRhmIDMHOn4EAmMmntjPhh4BuDR54=",
+        "registeredGvmGcm": "2806/2806",
+        "manufacturerGvmGcm": "2806/2806",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-01-03T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

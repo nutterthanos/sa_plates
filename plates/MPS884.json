@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "MPS884",
+        "make": "TOYOTA",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "aFaz7ushctOQme2lE0W4CnlSaaz1YG6U/vQXRCn41Ms=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "MPS996",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "z5s+YhVv3ppQUrG5oT1c6oRqgeSRRhwGsCZqz6K+udg=",
+        "registeredGvmGcm": "4200/4200",
+        "manufacturerGvmGcm": "4200/4200",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-05-06T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

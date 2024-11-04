@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "MPS362",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "oprzO3YUjL0NUKPXErBBdxVuCmkV6B/3znMUJZKn32A=",
+        "registeredGvmGcm": "3780/3780",
+        "manufacturerGvmGcm": "3780/3780",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2026-01-29T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

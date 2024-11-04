@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MPS167",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "ndhsm1pRC2zEiW8x4UyQlhe2Qr9LXxtHgFciUEHRY/I=",
+        "registeredGvmGcm": "2635/2635",
+        "manufacturerGvmGcm": "2635/2635",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-19T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

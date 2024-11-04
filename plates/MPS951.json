@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MPS951",
+        "make": "CASE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "DZWcLCdtR7nNJAUu013gcpva/R3tTiUtOHWWza+1E7Y=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "11133/11133",
+        "manufacturerGvmGcm": "11133/11133",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "ST40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "ST40 40 KM/H MAXIMUM"
+        ]
+    }
+]

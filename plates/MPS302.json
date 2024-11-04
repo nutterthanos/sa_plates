@@ -1,0 +1,34 @@
+[
+    {
+        "plate": "MPS302",
+        "make": "CASE",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "GvVX4DW5iLZyO5dUKqd+cE58dkTLxPE5Uozjh0/Rayo=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9860/9860",
+        "manufacturerGvmGcm": "9860/9860",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+                "OS1 AGRICULTURAL GAZETTE"
+            ]
+        },
+        "expiry": "2025-02-01T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO22 AGRICULTURAL VEHICLE AFTER 1996",
+            "OS1 AGRICULTURAL GAZETTE"
+        ]
+    },
+    {
+        "plate": "MPS302",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "BLUE",
+        "vehicleHash": "doAF1UNl5soxg2yFgjvBlOwX9VFo4PstnfiI9ftia60=",
+        "ctpInsurer": "MAC"
+    }
+]
