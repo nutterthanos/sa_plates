@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MSP735",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "ZmBV7KZg779hhENQdwNh3lPonaQab5Xr4eLxfIVPHv8=",
+        "registeredGvmGcm": "3966/3966",
+        "manufacturerGvmGcm": "3966/3966",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-09-23T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

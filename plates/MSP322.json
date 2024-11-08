@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MSP322",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "3MEfs39fdCUdGifcXhcoRyrv4z27+VKNK+SOAG+KxD8=",
+        "registeredGvmGcm": "4137/",
+        "manufacturerGvmGcm": "4137/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-07-09T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "MSP080",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "18x0vk4gjlpFQdrcnPIQCOBE1PkYgVRVNBs7aP+Zydc=",
+        "registeredGvmGcm": "2420/",
+        "manufacturerGvmGcm": "2420/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2026-05-24T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

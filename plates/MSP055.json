@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "MSP055",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "vph+iXNOhiTu0TRn8yAY8VYpC96pTRX9F0qpemcHM30=",
+        "registeredGvmGcm": "1250/",
+        "manufacturerGvmGcm": "1250/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2026-08-08T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

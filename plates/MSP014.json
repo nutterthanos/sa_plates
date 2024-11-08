@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "MSP014",
+        "make": "CHEVROLET",
+        "bodyType": "TRUCK",
+        "primaryColour": "GREY",
+        "vehicleHash": "rwx17nlWrH4c0LUDKeHeV1ZWCVaw7pAqmUPswDmsZxo=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "6490/8840",
+        "manufacturerGvmGcm": "6490/8840",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "MSP313",
+        "make": "DAVID BROWN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "fY1SinX3PK62M7dIPS6DRLO89WLeD1ryg8QE3KL6NAI=",
+        "registeredGvmGcm": "2400/2400",
+        "manufacturerGvmGcm": "2400/2400",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP20 20 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP20 20 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

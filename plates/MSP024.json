@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "MSP024",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "tq4fUNEZlKNp42H720nFPJEkU/ifmyUk6YJnhz7tuak=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5350/5350",
+        "manufacturerGvmGcm": "5350/5350",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-04-09T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

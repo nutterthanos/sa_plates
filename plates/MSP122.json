@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MSP122",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "N/0O3CTNiAmDDvyy0AgfKCrYdlsBwQW4LJNg9cAVfJ0=",
+        "registeredGvmGcm": "2000/",
+        "manufacturerGvmGcm": "2000/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO2 PILOT VEHICLE REQUIRED"
+            ]
+        },
+        "expiry": "2025-08-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO2 PILOT VEHICLE REQUIRED"
+        ]
+    }
+]

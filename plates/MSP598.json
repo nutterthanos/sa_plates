@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "MSP598",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "4dBTr1hEiXPXki02K36rfmZYGYBhoDl7vVKH9aqZgkM=",
+        "registeredGvmGcm": "4100/",
+        "manufacturerGvmGcm": "4100/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

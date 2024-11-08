@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MSP664",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "Q9yVWsr+YUY09QqlpfJCWC9PdP3W2PYFu70B3BBiPBE=",
+        "registeredGvmGcm": "4445/",
+        "manufacturerGvmGcm": "4445/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-09T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
