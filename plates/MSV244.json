@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MSV244",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "RED",
+        "vehicleHash": "jiolA0upxKVDwbt46FmpA8JDBfa323WDwQR8tg3zCqw=",
+        "registeredGvmGcm": "2640/",
+        "manufacturerGvmGcm": "2640/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-02-28T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

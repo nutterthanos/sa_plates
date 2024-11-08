@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "MSV331",
+        "make": "ISUZU",
+        "bodyType": "SWEEPER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "jyxSbQgmzm2OgfwqaQOjp7JHF3cNHUDUfkcYzfJlVQA=",
+        "registeredConfiguration": "TSV2 - 2 axle SPV - Truck",
+        "registeredGvmGcm": "13499/",
+        "manufacturerGvmGcm": "13499/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

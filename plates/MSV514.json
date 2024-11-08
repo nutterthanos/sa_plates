@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MSV514",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "Akt7JySbyYKVN/jpHdF2Kk+V1f0XVTq8hPuujJzyqFs=",
+        "registeredGvmGcm": "3670/",
+        "manufacturerGvmGcm": "3670/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-09-23T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

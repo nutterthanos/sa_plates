@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MSV886",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "V8o8SAyCa2krWhlNrhaAtQ3O+nO7/pJtNWgyiM/STao=",
+        "registeredGvmGcm": "2785/",
+        "manufacturerGvmGcm": "2785/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-10-30T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

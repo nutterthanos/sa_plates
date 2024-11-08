@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MSV334",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "7u/CGrT4+8q/fmgubYFPm0YK5xY8zdqsGFLJ/IqBgvg=",
+        "registeredGvmGcm": "3302/",
+        "manufacturerGvmGcm": "3302/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-04-26T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

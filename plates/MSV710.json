@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MSV710",
+        "make": "DAVID BROWN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "WHITE",
+        "vehicleHash": "pcHRv9RWUGrrcXfiKbHE3M3i26s2PWqV4yqsoFYj4LY=",
+        "registeredGvmGcm": "2220/2220",
+        "manufacturerGvmGcm": "2220/2220",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-03-22T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

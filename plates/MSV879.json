@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MSV879",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "+TdFWIzZ77a8tdO4lo7dXMaSzKhaR/LOysOOQOoUZ9g=",
+        "registeredGvmGcm": "3797/3797",
+        "manufacturerGvmGcm": "3797/3797",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-01-03T00:00:00.000+10:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

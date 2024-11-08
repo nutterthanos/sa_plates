@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MSV235",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "xGEZ1Eh5dK+Z3yhNYvGF1Vp+8tTMWTxup/bA96guDJM=",
+        "registeredGvmGcm": "4070/",
+        "manufacturerGvmGcm": "4070/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-09-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
