@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "MUS067",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "WHITE",
+        "vehicleHash": "2gdncjMIDiOHrDz336Fj2pWNjckzklC9LSmeDpi0zQA=",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "OL3G HISTORIC VEHICLE + EXTENSION"
+        },
+        "expiry": "2027-02-16T00:00:00.000+10:30",
+        "conditions": [
+            "OL3G HISTORIC VEHICLE + EXTENSION"
+        ]
+    },
+    {
+        "plate": "MUS067",
+        "make": "FORD",
+        "bodyType": "SEDAN",
+        "primaryColour": "SILVER",
+        "vehicleHash": "tiJMGqJTZ9UxT873S5PHbMA9gcEEt6zBL5hEp5QeRN8=",
+        "ctpInsurer": "MAC"
+    }
+]
