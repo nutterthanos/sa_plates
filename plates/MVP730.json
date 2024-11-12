@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "MVP730",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "V24sWbZPn6O/OMLW8FSuO2oIa+KfDvhD92bCrM12Tgo=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "22820/",
+        "manufacturerGvmGcm": "22820/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5A ROAD RESTRICTION GAZETTE"
+            ]
+        },
+        "expiry": "2024-12-24T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5A ROAD RESTRICTION GAZETTE"
+        ]
+    }
+]

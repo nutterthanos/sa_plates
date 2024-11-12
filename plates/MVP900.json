@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "MVP900",
+        "make": "JCB",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "pbCQte7hlkHg4a3/iFb474oVbTt1584SGkIQWX/RICQ=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6900/6900",
+        "manufacturerGvmGcm": "6900/6900",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "expiry": "2025-10-09T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

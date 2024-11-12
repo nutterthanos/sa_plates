@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP644",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "0jy5fAW2t8NIgcQiM5Sws0kAhs5prjUFq/L7rt5WDeY=",
+        "registeredGvmGcm": "3670/",
+        "manufacturerGvmGcm": "3670/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-11-22T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

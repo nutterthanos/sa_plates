@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP569",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "SILVER",
+        "vehicleHash": "usFP0CU28m21iIQTQfV4oEFuOLKtz40Dj4hAWnMlSdU=",
+        "registeredGvmGcm": "3100/",
+        "manufacturerGvmGcm": "3100/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

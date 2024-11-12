@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "MVP459",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "ZM08D6xuDeTPf+0r+AjJJNGOkKwrtpz1X/x3vLpuXDo=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "12476/12476",
+        "manufacturerGvmGcm": "12476/12476",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS2 NHVR NOTICE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS2 NHVR NOTICE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

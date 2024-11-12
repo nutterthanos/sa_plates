@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "MVP273",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "eWzDQWKbTco3B0OO8StpTdY07UTFI6b6cLLsW4RqPnw=",
+        "registeredGvmGcm": "3300/",
+        "manufacturerGvmGcm": "3300/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

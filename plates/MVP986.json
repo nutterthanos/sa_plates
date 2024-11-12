@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "MVP986",
+        "make": "AGCO",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "SILVER",
+        "vehicleHash": "4U6/vdGEUVGnL1Ik4/sD27kh3Pe5cwqi/uSKmmSFvMM=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "10728/10728",
+        "manufacturerGvmGcm": "10728/10728",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2024-12-10T00:00:00.000+10:30",
+        "conditions": [
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

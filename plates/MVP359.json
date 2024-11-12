@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "MVP359",
+        "make": "XCMG",
+        "bodyType": "MOBILE CRANE VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "fIXlWhbhQz8gvV7oBxVeAjWYjQlC3WS9oxTv4kNUO6w=",
+        "registeredConfiguration": "OSV4 - 4 axle SPV - Overmass",
+        "registeredGvmGcm": "32500/32500",
+        "manufacturerGvmGcm": "32500/32500",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

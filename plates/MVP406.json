@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "MVP406",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "CREAM",
+        "vehicleHash": "Lv+3CaLfBeTOI7DXP4yKZ5lFR9qJEXFmCC0HA4a+7MM=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4870/",
+        "manufacturerGvmGcm": "4870/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

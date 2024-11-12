@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP515",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "vID3VdFQGdutmC2oA2WpryZ0y+yv4B57gRbUngTMv+8=",
+        "registeredGvmGcm": "4130/",
+        "manufacturerGvmGcm": "4130/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-06-19T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

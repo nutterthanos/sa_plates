@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP008",
+        "make": "JCB",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "bclWcWr4Xoagr4tEkUel4g3hXMmmlL2/cvTdX+MzuWk=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6560/",
+        "manufacturerGvmGcm": "6560/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

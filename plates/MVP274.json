@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP274",
+        "make": "FENDT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "u0aby5WPAUL8Rqh8LT5c7fFWoAr7OiAcDkSrOKCJstc=",
+        "registeredGvmGcm": "2750/2750",
+        "manufacturerGvmGcm": "2750/2750",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-09-07T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

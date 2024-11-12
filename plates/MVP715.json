@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP715",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "GdeZ+gtj44e+K0IzwNqUwmzjyivEJRKXnTcOz9OKUew=",
+        "registeredGvmGcm": "2610/",
+        "manufacturerGvmGcm": "2610/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-06-27T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

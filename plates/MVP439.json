@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP439",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "lwtIDmE3lLf/i2amsdcYHMriKpULAVlddSPMF4WHv5E=",
+        "registeredGvmGcm": "4140/4140",
+        "manufacturerGvmGcm": "4140/4140",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2026-12-07T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

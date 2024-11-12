@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "MVP469",
+        "make": "NEW HOLLAND",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "dMfgGx6NVUy6W2oWzBf3Urw5OafUsKp7Zhe0TPmwKtM=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6000/6000",
+        "manufacturerGvmGcm": "6000/6000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-02-09T00:00:00.000+10:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

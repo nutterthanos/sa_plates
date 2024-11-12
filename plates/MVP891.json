@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "MVP891",
+        "make": "TOYOTA",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "GREY",
+        "vehicleHash": "ADVmFrYN2qath+hdjv2roJRrNEYq550NTd28NUFkm/k=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO5 ROUTE RESTRICTION",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO5 ROUTE RESTRICTION",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP007",
+        "make": "JLG",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "Vz9Tps04tBqVs7jCEv5B2b2sNtnfv9EGWoZ9TR5nYbs=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "11210/",
+        "manufacturerGvmGcm": "11210/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING"
+        ]
+    }
+]

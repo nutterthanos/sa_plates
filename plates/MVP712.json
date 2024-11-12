@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP712",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "mOxcY3MrekHLIjO61t4fzaTTx6PcaMS+MUDCL+EIvD8=",
+        "registeredConfiguration": "PSV6 - 6 axle SPV - Plant",
+        "registeredGvmGcm": "16400/16400",
+        "manufacturerGvmGcm": "16400/16400",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

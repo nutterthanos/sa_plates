@@ -1,0 +1,21 @@
+[
+    {
+        "plate": "MVP883",
+        "make": "BOBCAT",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "w8hBl9Kg9T9pLBz5cTNrnGxmIsnn6+B2eP2YdgxeMj0=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-06-12T00:00:00.000+09:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

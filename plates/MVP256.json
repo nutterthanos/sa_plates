@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "MVP256",
+        "make": "JOHN DEERE",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "rWE6WW7KNdvfUC353g3W26FmivRbMEKhiQ8E3cuJfe8=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "LO3 ROUTE RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "LO3 ROUTE RESTRICTION"
+        ]
+    }
+]

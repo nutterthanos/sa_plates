@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP650",
+        "make": "JOHN DEERE",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "ksLHmzOcCctQ/vm5zletzhZPWGNh4i4gB58jxpCYCHE=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "LO3 ROUTE RESTRICTION"
+            ]
+        },
+        "expiry": "2026-06-27T00:00:00.000+09:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "LO3 ROUTE RESTRICTION"
+        ]
+    }
+]

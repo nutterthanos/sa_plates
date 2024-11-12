@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "MVP610",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "RHlYqUAZo8LaJag+1C0m3iKSlhf5zoFBaqVQqw90Fkw=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "16000/16000",
+        "manufacturerGvmGcm": "16000/16000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-01-25T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

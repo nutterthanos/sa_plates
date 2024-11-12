@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "MVP653",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "e7BBWr6nHH2chwqvrnpD9hEXhWnkJYqj9BuUjxj+7Fw=",
+        "registeredGvmGcm": "2100/",
+        "manufacturerGvmGcm": "2100/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP073",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "R34rNTinxnTehMt25B/dEPuv4nu12RAQGQINVO05WlE=",
+        "registeredGvmGcm": "3590/",
+        "manufacturerGvmGcm": "3590/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-04-02T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

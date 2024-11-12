@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "MVP231",
+        "make": "NOT LISTED",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "ZkbaTb3YpGDVwJhJV7P3/Zc9B0p/mu4XZLpcigbqXXM=",
+        "registeredConfiguration": "PSV4 - 4 axle SPV - Plant",
+        "registeredGvmGcm": "18000/18000",
+        "manufacturerGvmGcm": "18000/18000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO23 GAZETTE - AG VEHICLES MORE THAN 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

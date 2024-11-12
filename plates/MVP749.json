@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "MVP749",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "tL/XNWH91DqKF2oS+f0xUkHUlltGHCqEjshXSdK7ctg=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "12950/12950",
+        "manufacturerGvmGcm": "12950/12950",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING"
+            ]
+        },
+        "expiry": "2025-12-12T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING"
+        ]
+    }
+]

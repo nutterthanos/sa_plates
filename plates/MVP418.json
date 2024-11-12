@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP418",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "SILVER",
+        "vehicleHash": "9qdcH1XVW6Ra0xM3WAjM0n7RgJM9klXYJyMzkTenVO0=",
+        "registeredGvmGcm": "3955/3955",
+        "manufacturerGvmGcm": "3955/3955",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-22T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

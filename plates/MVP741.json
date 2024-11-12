@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP741",
+        "make": "TOYOTA",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "GREY",
+        "vehicleHash": "e+2zG//cCvXGXMZYM22fTnicRNr3fTmRBeWxjaOZK7c=",
+        "registeredGvmGcm": "3040/",
+        "manufacturerGvmGcm": "3040/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2024-12-19T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

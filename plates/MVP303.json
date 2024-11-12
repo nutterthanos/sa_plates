@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "MVP303",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "G5KX1BqbAFa1bifSjl7FsFhUjM3aMbXnxbek2BPtx4U=",
+        "registeredGvmGcm": "2750/",
+        "manufacturerGvmGcm": "2750/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

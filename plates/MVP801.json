@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "MVP801",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "I+ciVmAtMqLTIVjCixLoDfB3RNU8yGJ0Vr0D1zQmyu4=",
+        "registeredGvmGcm": "2624/",
+        "manufacturerGvmGcm": "2624/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "ST40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "ST40 40 KM/H MAXIMUM"
+        ]
+    }
+]

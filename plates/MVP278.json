@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP278",
+        "make": "LANDINI",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "sIGH2fm/m/ysElDWI7wlzkQWcSD/4O3V8XFj0PPe37Q=",
+        "registeredGvmGcm": "4160/",
+        "manufacturerGvmGcm": "4160/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-28T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

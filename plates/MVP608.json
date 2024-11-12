@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP608",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "w9NCxK7WeBVJ/SBG/FpHAlrrZEzXAPpar10Nktd+ifI=",
+        "registeredGvmGcm": "3500/5000",
+        "manufacturerGvmGcm": "3500/5000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-05-07T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

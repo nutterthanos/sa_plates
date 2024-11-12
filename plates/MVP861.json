@@ -1,0 +1,21 @@
+[
+    {
+        "plate": "MVP861",
+        "make": "JOHN DEERE",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "h2v+dOAJalL1VyIkKq/DNUckPc28ouKVHfB+tjuj7Gc=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "LO3 ROUTE RESTRICTION"
+            ]
+        },
+        "expiry": "2025-04-15T00:00:00.000+09:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "LO3 ROUTE RESTRICTION"
+        ]
+    }
+]

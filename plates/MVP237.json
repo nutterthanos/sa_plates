@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "MVP237",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "eH5XI8dLFjxLCuegbb7mYaS1v4htl9wyKc/mxY0ukKU=",
+        "registeredGvmGcm": "3000/3000",
+        "manufacturerGvmGcm": "3000/3000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

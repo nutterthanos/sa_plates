@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP903",
+        "make": "CLARK",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "73MyWA5GtDxeCXnCA354ihWJ8UuhmgMWgAYpvE2hy7U=",
+        "registeredGvmGcm": "4420/4420",
+        "manufacturerGvmGcm": "4420/4420",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-03-07T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "MVP507",
+        "make": "NOT LISTED",
+        "bodyType": "QUAD CYCLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "5pnnUmKKbrEKzfgZPuy9dYy1bLGHdI+3W6nhAgfKoZM=",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "LO3 ROUTE RESTRICTION",
+                "LO5 ROAD RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-06-28T00:00:00.000+09:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "LO3 ROUTE RESTRICTION",
+            "LO5 ROAD RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

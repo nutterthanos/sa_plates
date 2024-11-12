@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "MVP304",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "IHRi7wwbQ3ZOCuPMdfX2NWkDOip2sDcmOJLAAYPXLPY=",
+        "registeredGvmGcm": "2750/",
+        "manufacturerGvmGcm": "2750/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

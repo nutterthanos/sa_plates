@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP860",
+        "make": "CLARK",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "dIwYLyxJ+xVBRIdiVFVWq2Ybl2VkL53o2uBx54PVmn0=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "4644/4644",
+        "manufacturerGvmGcm": "4644/4644",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

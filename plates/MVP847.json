@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP847",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "+CMX4EKupDkVGznZDwQga+H9J6dmfO+R7znu4AnShiE=",
+        "registeredGvmGcm": "4390/",
+        "manufacturerGvmGcm": "4390/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-10-29T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

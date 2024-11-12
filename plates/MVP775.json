@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP775",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "5S3fWbEdGzi8t94qLsBMlCeRT8TW+LGdlrCeurLIQ+U=",
+        "registeredGvmGcm": "3930/",
+        "manufacturerGvmGcm": "3930/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-02T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "MVP925",
+        "make": "BOBCAT",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "ubOf4Yy2ScGrjbpfxw0cEbR2BHkQLbXC/E1pforhlJo=",
+        "registeredGvmGcm": "2435/",
+        "manufacturerGvmGcm": "2435/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-11-04T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

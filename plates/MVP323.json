@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "MVP323",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "KmgnbUkMCi9aVP7/Lh0B/LuI2VhWcWRdzbWvn4WgkQw=",
+        "registeredGvmGcm": "4390/4390",
+        "manufacturerGvmGcm": "4390/4390",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

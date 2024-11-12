@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "MVP195",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "Rv42ZddRg2h2M4jPeSclOgsr6YKHfU9NoXKivsZ7uE0=",
+        "registeredGvmGcm": "4500/4500",
+        "manufacturerGvmGcm": "4500/4500",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

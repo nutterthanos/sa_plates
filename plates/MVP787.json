@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP787",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "/pS46kOmIWr/ODjo1OcUU9cjmhWJQtPazImaGhwaSug=",
+        "registeredGvmGcm": "3930/",
+        "manufacturerGvmGcm": "3930/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-14T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

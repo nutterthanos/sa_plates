@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "MVP290",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "lF0g8jgD0jfMyT0jwMs7OCfuMNRmIaW6cnx8pOwmZ/U=",
+        "registeredGvmGcm": "4290/7000",
+        "manufacturerGvmGcm": "4290/7000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

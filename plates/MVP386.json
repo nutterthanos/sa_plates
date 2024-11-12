@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "MVP386",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "PJ1JWzoKzs8T/OXTfwUGPs3AYzT+UKS2vu/H7aYL+Lk=",
+        "registeredGvmGcm": "2710/",
+        "manufacturerGvmGcm": "2710/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-26T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

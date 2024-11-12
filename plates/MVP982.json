@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "MVP982",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "8U0U1zmewKAcNXaIbDwu5UNq8A89xWjeTuQ/S7+dcCM=",
+        "registeredGvmGcm": "3950/3950",
+        "manufacturerGvmGcm": "3950/3950",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2026-10-29T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]
