@@ -47,7 +47,7 @@ def generate_plate_numbers():
 # Function to send a request with retry logic
 async def send_request_with_retry(session, plate_number, token_manager):
     url = f'https://api.sa.gov.au/mysagov/checkvehicles/{plate_number}'
-    retries = 3
+    retries = 1000
     attempt = 0
 
     while attempt < retries:
@@ -93,7 +93,7 @@ async def check_registration():
             task = asyncio.create_task(handle_plate_number(session, plate_number, token_manager))
             tasks.append(task)
 
-            if len(tasks) >= 15:  # Limit to 15 concurrent requests
+            if len(tasks) >= 10:  # Limit to 15 concurrent requests
                 await asyncio.gather(*tasks)  # Wait for all tasks to complete
                 tasks = []  # Reset the tasks list
 
