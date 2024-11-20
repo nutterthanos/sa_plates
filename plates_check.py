@@ -66,7 +66,7 @@ async def send_request_with_retry(session, plate_number, token_manager):
                     token_manager.bearer_token = None
                     continue
                 elif response.status == 404:
-                    print(f'HTTP 404 error encountered for {plate_number}, giving up.")
+                    print(f'HTTP 404 error encountered for {plate_number}, giving up.')
                     return None  # Stop retrying and give up
                 elif response.status == 429:  # Rate limit hit
                     print('Rate limit hit. Pausing script...')
