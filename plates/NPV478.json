@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "NPV478",
+        "make": "INTERNATIONAL",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "RED",
+        "vehicleHash": "02rxR12+cDkLY0wKxCm9B/IqRTWJKPHzsnLC6Uh+qDQ=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "17000/",
+        "manufacturerGvmGcm": "17000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OS2 NHVR NOTICE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OS2 NHVR NOTICE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

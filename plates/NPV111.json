@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "NPV111",
+        "make": "DAVID BROWN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "B1DyAQ2J1Atvpqb/rt1nxm9dC/UUAgP3Qf+imXDievE=",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

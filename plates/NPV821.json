@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "NPV821",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRUCK",
+        "primaryColour": "RED",
+        "vehicleHash": "2QnfPlmSHgx2ItJ8yUdTdwYQfilLXtn/D/YJCkJTF84=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "10500/15500",
+        "manufacturerGvmGcm": "10500/15500",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

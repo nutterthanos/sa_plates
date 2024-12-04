@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NPV936",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "TkBHKlb92CKwGYPegEf6+ceeFR2+vdBcRgPA25nWKyE=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "6600/6600",
+        "manufacturerGvmGcm": "6600/6600",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

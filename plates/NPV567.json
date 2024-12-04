@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "NPV567",
+        "make": "JOHN DEERE",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "hskjcYZl6hbz9nTbDjirzoAaP7s9Ampf14FpECWuc3U=",
+        "registeredConfiguration": "1SV2 - 2 axle SPV Under Limit",
+        "registeredGvmGcm": "8183/",
+        "manufacturerGvmGcm": "8183/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

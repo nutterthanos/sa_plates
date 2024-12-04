@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "NPV564",
+        "make": "CATERPILLAR",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "wD6SdXuHkW43CI2oDApnHrIo4IltNZFvVUnqawhMRcM=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "39000/",
+        "manufacturerGvmGcm": "39000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE",
+                "OS2 NHVR NOTICE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE",
+            "OS2 NHVR NOTICE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

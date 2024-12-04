@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NPV177",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "fJ/eyxOlDRDygYEAq3IwmQFlwvLeh6rPM2n1Ugvy7yA=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5100/",
+        "manufacturerGvmGcm": "5100/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

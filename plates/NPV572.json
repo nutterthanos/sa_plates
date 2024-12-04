@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NPV572",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "Hj6qweg/G0+p2Nuc7u60bwACix6FncsnWnFQ6WN14PU=",
+        "registeredGvmGcm": "4100/",
+        "manufacturerGvmGcm": "4100/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-10-02T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

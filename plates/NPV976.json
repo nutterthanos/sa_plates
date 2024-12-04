@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "NPV976",
+        "make": "BEDFORD",
+        "bodyType": "TRUCK",
+        "primaryColour": "RED",
+        "vehicleHash": "16l5IAU4r5ohfEj9j5R8EjHrk9M6HU696Yx/AXBK9k8=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "8400/10920",
+        "manufacturerGvmGcm": "8400/10920",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]

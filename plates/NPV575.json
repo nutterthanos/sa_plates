@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "NPV575",
+        "make": "FORD",
+        "bodyType": "TRUCK",
+        "primaryColour": "RED",
+        "vehicleHash": "3bIcF/+1jhMT3q27P7gEgyyqRSGWJpaZs4pa611UXYc=",
+        "registeredConfiguration": "1R2 - 2 axle truck GVM < 12001",
+        "registeredGvmGcm": "11500/11500",
+        "manufacturerGvmGcm": "11500/11500",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]

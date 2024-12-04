@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "NPV353",
+        "make": "ZETOR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "cLYuZcqRCKaH1SZVpVDq3PRsj8kZRxKov+i0l2wl/Qk=",
+        "registeredGvmGcm": "3500/",
+        "manufacturerGvmGcm": "3500/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

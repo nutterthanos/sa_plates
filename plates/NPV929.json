@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NPV929",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "m8ueS+oaPDPHwOUmwJ+xxqZ1jEKoeqjoaKqwHu7sEQI=",
+        "registeredGvmGcm": "3950/",
+        "manufacturerGvmGcm": "3950/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-23T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

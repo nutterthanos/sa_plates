@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "NPV374",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "sVSLLRdWD1L+wSRvcPVmsabkZZbofYZCGqTk3zKY1mo=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "11632/11632",
+        "manufacturerGvmGcm": "11632/11632",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2027-04-16T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

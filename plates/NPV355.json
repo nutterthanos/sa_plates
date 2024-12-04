@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NPV355",
+        "make": "CATERPILLAR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "EKT9m8f527jXjjQEguvhTioqKnb3JYMh/dXrkaEh2Mc=",
+        "registeredConfiguration": "PSV5 - 5 axle SPV - Plant",
+        "registeredGvmGcm": "13890/",
+        "manufacturerGvmGcm": "13890/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5A ROAD RESTRICTION GAZETTE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5A ROAD RESTRICTION GAZETTE"
+        ]
+    }
+]

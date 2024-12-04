@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "NPV025",
+        "make": "FORD",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "LWaY0xihGkOAbgLAc+MCoMIfN5qeMxMX6fBTRvoIvc8=",
+        "registeredGvmGcm": "4500/",
+        "manufacturerGvmGcm": "4500/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

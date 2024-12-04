@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NPV619",
+        "make": "ZETOR",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "EzBqlMogziPT7epLEj4EdoCDlsFOgk6CzxOpkax/q6s=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7000/",
+        "manufacturerGvmGcm": "7000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

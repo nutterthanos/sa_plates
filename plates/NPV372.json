@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "NPV372",
+        "make": "NOT LISTED",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "zwG4PbKyyvgbJBIoi1MZ/4d03+Wsw9dNMiji7yR8Zho=",
+        "registeredConfiguration": "PSV1 - 1 axle SPV - Plant",
+        "registeredGvmGcm": "7500/7500",
+        "manufacturerGvmGcm": "7500/7500",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "expiry": "2025-11-25T00:00:00.000+10:30",
+        "conditions": [
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "NPV315",
+        "make": "JOHN DEERE",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "ap/PcybQpOs2v91lfZe2jSEFC8z1Mdj3mZdTrX5Pm94=",
+        "registeredGvmGcm": "4100/",
+        "manufacturerGvmGcm": "4100/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

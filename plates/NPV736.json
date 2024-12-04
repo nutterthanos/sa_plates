@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "NPV736",
+        "make": "CASE",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "D0bOalQhOgMP/UARczt0ulyA3Y0JEFhB1xtdgvcU8Os=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7600/",
+        "manufacturerGvmGcm": "7600/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

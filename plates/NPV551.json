@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "NPV551",
+        "make": "JOHN DEERE",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "nMjYMrKz+NvCaIriz/v/TZDB9z11HTxm4ZvyHUIC+Y0=",
+        "registeredConfiguration": "OSV2 - 2 axle SPV - Overmass",
+        "registeredGvmGcm": "17800/17800",
+        "manufacturerGvmGcm": "17800/17800",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

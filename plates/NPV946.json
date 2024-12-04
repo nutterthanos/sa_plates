@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "NPV946",
+        "make": "NOT LISTED",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "fWcylzFwS6bgm9gzp+riCSGrr1Fc2Ht5ttQvFkOff1s=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "11000/",
+        "manufacturerGvmGcm": "11000/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-10-01T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

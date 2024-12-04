@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "NPV479",
+        "make": "LEYLAND",
+        "bodyType": "DRILLING RIG VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "54LRmqtUGrv3AlA636B08Exzai+tJXk0UguM3YfdJdo=",
+        "registeredConfiguration": "TSV2 - 2 axle SPV - Truck",
+        "registeredGvmGcm": "27000/",
+        "manufacturerGvmGcm": "27000/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "OS1 AGRICULTURAL GAZETTE",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "OS1 AGRICULTURAL GAZETTE",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

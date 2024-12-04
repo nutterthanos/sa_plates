@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "NPV992",
+        "make": "COMMER",
+        "bodyType": "TRUCK",
+        "primaryColour": "RED",
+        "vehicleHash": "GF4gFSpOnDPCj/0rkosrgrtGuIrfMnUMnkE8btMuOdY=",
+        "registeredConfiguration": "2R3 - 3 axle truck GVM > 16500kg",
+        "registeredGvmGcm": "16000/22000",
+        "manufacturerGvmGcm": "16000/22000",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": "FMBR BETWEEN FARM BLOCKS"
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS"
+        ]
+    }
+]

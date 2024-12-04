@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "NPV552",
+        "make": "NOT LISTED",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "OdlcHW2rM5B+g03hNYIMxxlYzZLybB76IFMMxRyaftg=",
+        "registeredConfiguration": "OSV2 - 2 axle SPV - Overmass",
+        "registeredGvmGcm": "13790/",
+        "manufacturerGvmGcm": "13790/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5A ROAD RESTRICTION GAZETTE",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5A ROAD RESTRICTION GAZETTE",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]
