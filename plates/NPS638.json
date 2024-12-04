@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NPS638",
+        "make": "MITSUBISHI",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "BLUE",
+        "vehicleHash": "Zsy7FOcBPE0ktmobBiF5a5oEZKCMmp8K06t1NGKI3jY=",
+        "registeredGvmGcm": "3830/3830",
+        "manufacturerGvmGcm": "3830/3830",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-02-28T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

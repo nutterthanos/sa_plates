@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NPS252",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREY",
+        "vehicleHash": "H2JLKOOdYVG6b8+egcLsVpE5E8WZcwrLwAbnk9VKqi0=",
+        "registeredGvmGcm": "2500/3775",
+        "manufacturerGvmGcm": "2500/3775",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-04-14T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NPS982",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "5kdpNINqUpVHMMmD+kB5NHTpC9OoqYnTiMKoJfKMTp4=",
+        "registeredGvmGcm": "4100/6400",
+        "manufacturerGvmGcm": "4100/6400",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-11-30T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

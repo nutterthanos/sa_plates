@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "NPS125",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "vp8H9nuYkxxHAT+xR2UWPTY+BJ315NLCKT3+QzpCUak=",
+        "registeredGvmGcm": "1900/2500",
+        "manufacturerGvmGcm": "1900/2500",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-04-07T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

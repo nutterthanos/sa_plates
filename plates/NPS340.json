@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NPS340",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "z2W6gGbb6HMhRyNmbKZPQHUU58K8lwNOPXJaaLX33HM=",
+        "registeredGvmGcm": "4130/4130",
+        "manufacturerGvmGcm": "4130/4130",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2027-10-28T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

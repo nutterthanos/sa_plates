@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "NPS056",
+        "make": "JLG",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "BEIGE",
+        "vehicleHash": "YO2W4jAGLaL31aNZ1WU+m7HsVcXMic0JWHdpBWcWUbI=",
+        "registeredGvmGcm": "2350/2350",
+        "manufacturerGvmGcm": "2350/2350",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

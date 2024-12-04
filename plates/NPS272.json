@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "NPS272",
+        "make": "BOBCAT",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "rmfkMV/LLpVRNsvM+Hw8yY7foh/JvfirJRGsqJWg6Yo=",
+        "registeredGvmGcm": "2150/2150",
+        "manufacturerGvmGcm": "2150/2150",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+                "LO5B ROAD RESTRICTION - WORK SITES"
+            ]
+        },
+        "expiry": "2025-11-03T00:00:00.000+10:30",
+        "conditions": [
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "GO25 GAZETTE - CONST/MOVING EQUIP LIGHTING",
+            "LO5B ROAD RESTRICTION - WORK SITES"
+        ]
+    }
+]

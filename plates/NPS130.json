@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "NPS130",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "EwYkkG843jwWiGiS5C4ZPaDrB2Leumq/FE/Ie7ZUKFc=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "15500/15500",
+        "manufacturerGvmGcm": "15500/15500",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT"
+            ]
+        },
+        "expiry": "2025-09-13T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT"
+        ]
+    }
+]

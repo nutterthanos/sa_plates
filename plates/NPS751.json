@@ -1,0 +1,26 @@
+[
+    {
+        "plate": "NPS751",
+        "make": "JCB",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "JOTOxWVisyZX0J3AMF7rjRpTjrtYxy1hnPehKrwAJxE=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5600/5600",
+        "manufacturerGvmGcm": "5600/5600",
+        "ctpInsurer": "YOUI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "GO9 DEPT OF TRANSPORT DISPENSATION"
+            ]
+        },
+        "expiry": "2027-08-10T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "GO9 DEPT OF TRANSPORT DISPENSATION"
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "NPS389",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "4qP66jNUfajfeUt6HYAwC+cu2GWxk1YDqB9iPjXSJ8o=",
+        "registeredGvmGcm": "491/",
+        "manufacturerGvmGcm": "491/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

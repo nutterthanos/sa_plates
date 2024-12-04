@@ -1,0 +1,31 @@
+[
+    {
+        "plate": "NPS919",
+        "make": "SSANGYONG",
+        "bodyType": "UTILITY",
+        "primaryColour": "GREY",
+        "vehicleHash": "KOKJt6DkWKM8mKgLuqU7/RGM1pj/VbitxoNm8bYixpQ=",
+        "ctpInsurer": "NRMA",
+        "expiry": "2025-02-11T00:00:00.000+10:30"
+    },
+    {
+        "plate": "NPS919",
+        "make": "BOBCAT",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "LpE/0ME7ID3/Qph0O56p9M4H5VrrLgInA6U93qmwErM=",
+        "registeredGvmGcm": "1600/1680",
+        "manufacturerGvmGcm": "1600/1680",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

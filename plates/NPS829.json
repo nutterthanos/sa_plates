@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "NPS829",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "sqcFPw7tXvXxgcUnMqHOrzC6O6DpBlT7m8/57cZgq1s=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "10100/",
+        "manufacturerGvmGcm": "10100/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO1 ROAD RESTRICTION",
+                "LO5 ROAD RESTRICTION",
+                "SP25 25 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-09-28T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO1 ROAD RESTRICTION",
+            "LO5 ROAD RESTRICTION",
+            "SP25 25 KM/H MAXIMUM"
+        ]
+    }
+]

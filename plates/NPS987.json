@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NPS987",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "PnSylwWnLgVxZ6SlOJLo4gs5QIu7KD02oXzPl5mt/vw=",
+        "registeredGvmGcm": "2770/",
+        "manufacturerGvmGcm": "2770/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-08-13T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

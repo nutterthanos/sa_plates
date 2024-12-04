@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "NPS134",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "1tzUaXQZQXOGq7iiIg4x4PGJ8Jfq0vzMZnsYnRMhqPA=",
+        "registeredConfiguration": "PSV6 - 6 axle SPV - Plant",
+        "registeredGvmGcm": "18600/",
+        "manufacturerGvmGcm": "18600/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM2 NHVR NOTICE",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM2 NHVR NOTICE",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]
