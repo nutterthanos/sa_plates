@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "NSP314",
+        "make": "DAVID BROWN",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "spGZXBe3NP/0qyRkXfdFUow8EU3vA3JSIg1SMPrW9lY=",
+        "registeredGvmGcm": "2400/2400",
+        "manufacturerGvmGcm": "2400/2400",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

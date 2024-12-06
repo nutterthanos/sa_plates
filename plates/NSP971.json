@@ -1,0 +1,29 @@
+[
+    {
+        "plate": "NSP971",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "8tZ8u6bfs57qTe8rbDtmd96xg8umrC/SwLF4H9bA3bw=",
+        "registeredGvmGcm": "2533/",
+        "manufacturerGvmGcm": "2533/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO27 AGRICULTURAL CODE OF PRACTICE",
+                "OM2 NHVR NOTICE",
+                "SP30 30 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2026-07-29T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO27 AGRICULTURAL CODE OF PRACTICE",
+            "OM2 NHVR NOTICE",
+            "SP30 30 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

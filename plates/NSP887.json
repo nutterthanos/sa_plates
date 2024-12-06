@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "NSP887",
+        "make": "FORD",
+        "bodyType": "LAND IMPLEMENT VEHICLE",
+        "primaryColour": "BLUE",
+        "vehicleHash": "0DnJ33aK+8iwdauhWInEg/ybsHmayp09p5haplYO/Qs=",
+        "registeredGvmGcm": "4032/4032",
+        "manufacturerGvmGcm": "4032/4032",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-01-31T00:00:00.000+10:30",
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

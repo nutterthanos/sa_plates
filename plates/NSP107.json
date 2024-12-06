@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "NSP107",
+        "make": "INTERNATIONAL",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "BYAg/rK1mVIOSgGb3TS2xo0s0N7Jjh3ke4VQrk+CheU=",
+        "registeredGvmGcm": "4500/4500",
+        "manufacturerGvmGcm": "4500/4500",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "NSP799",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "eHoLy8Z9wK6uH5AsV2fNzfuJ8+NtSglNmXGz/cjIoqI=",
+        "registeredGvmGcm": "2300/",
+        "manufacturerGvmGcm": "2300/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2027-08-29T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

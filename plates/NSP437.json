@@ -1,0 +1,28 @@
+[
+    {
+        "plate": "NSP437",
+        "make": "WHITE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREY",
+        "vehicleHash": "/gcoqpdqu/NDQNCaZzHJn1ZsKLI+CrMmCRll+4IivuE=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "5300/5300",
+        "manufacturerGvmGcm": "5300/5300",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2025-01-02T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO21 GAZETTE - AG VEHICLES UP TO 3M WIDE",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]
