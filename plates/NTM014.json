@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "NTM014",
+        "make": "KENWORTH",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "BT5wHSF2f4MZbAiRVkJ7CPgn8X+Ai0x8F52ZCrEsyNI=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "28200/131000",
+        "manufacturerGvmGcm": "28200/131000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "LV2 PERMIT/GAZETTE REQUIRED",
+                "MV2 NHVR NOTICE"
+            ]
+        },
+        "expiry": "2025-02-23T00:00:00.000+10:30",
+        "conditions": [
+            "LV2 PERMIT/GAZETTE REQUIRED",
+            "MV2 NHVR NOTICE"
+        ]
+    }
+]
