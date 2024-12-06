@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NSV858",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "BLUE",
+        "vehicleHash": "HI14twr5hrKFvUZDgeVJMka0DaEKwJ0i5XSDowXJBK0=",
+        "registeredGvmGcm": "3680/",
+        "manufacturerGvmGcm": "3680/",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-01-20T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

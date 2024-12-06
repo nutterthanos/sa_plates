@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "NSV000",
+        "make": "ISEKI",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "KnlupNgB0LV3myU9ZfKbMPR56aLX/JB0oAGAEplIfh8=",
+        "registeredGvmGcm": "2100/2100",
+        "manufacturerGvmGcm": "2100/2100",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

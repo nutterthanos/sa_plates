@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NSV466",
+        "make": "MASSEY FERGUSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "MoWQQlXDfUCHz2gq6zFCGXkq46+HPzr3b41X9nGJnU0=",
+        "registeredGvmGcm": "3840/",
+        "manufacturerGvmGcm": "3840/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-06-17T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

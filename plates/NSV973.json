@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NSV973",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "BLUE",
+        "vehicleHash": "I3oCFI7ItAfv/hn9DFcx/FTe9M6vsc9Ca8OzPQ3zras=",
+        "registeredGvmGcm": "2685/2685",
+        "manufacturerGvmGcm": "2685/2685",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2024-12-15T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

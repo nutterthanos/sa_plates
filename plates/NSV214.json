@@ -1,0 +1,19 @@
+[
+    {
+        "plate": "NSV214",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "xswgFIH4P9gpaUPKw7Vt+gH/s+/TLrHK5YyV9NUw0VI=",
+        "registeredGvmGcm": "2205/",
+        "manufacturerGvmGcm": "2205/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "SPV NOT GOODS/PASSENGER CARRYING"
+        },
+        "expiry": "2025-12-02T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING"
+        ]
+    }
+]

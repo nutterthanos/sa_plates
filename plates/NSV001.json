@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "NSV001",
+        "make": "FENDT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "CXudfCU0kyTFRmgV4VKcLTlfLj6p7hGCzKtjyd9giCA=",
+        "registeredGvmGcm": "3620/",
+        "manufacturerGvmGcm": "3620/",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "FMBR BETWEEN FARM BLOCKS",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "FMBR BETWEEN FARM BLOCKS",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]
