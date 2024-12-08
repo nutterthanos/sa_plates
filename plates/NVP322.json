@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "NVP322",
+        "make": "JOHN DEERE",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "1X2X6foU7WKay1LqM82zV/stdStYymyvTf4gtjWo4Hg=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "26500/26500",
+        "manufacturerGvmGcm": "26500/26500",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5A ROAD RESTRICTION GAZETTE"
+            ]
+        },
+        "expiry": "2026-08-12T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5A ROAD RESTRICTION GAZETTE"
+        ]
+    }
+]

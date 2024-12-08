@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NVP122",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "ob31FXvm1G0I7DsJ5rENBjTyps7YNje8705CW4yM/T4=",
+        "registeredGvmGcm": "1326/1326",
+        "manufacturerGvmGcm": "1326/1326",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2026-04-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

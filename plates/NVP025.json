@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "NVP025",
+        "make": "JOHN DEERE",
+        "bodyType": "TRACTOR",
+        "primaryColour": "GREEN",
+        "vehicleHash": "mjkLHXgHez0esjAlse7vix2YHZ22Uu8FRzkHk7pd1Wc=",
+        "registeredGvmGcm": "3700/3700",
+        "manufacturerGvmGcm": "3700/3700",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

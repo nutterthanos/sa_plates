@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NVP076",
+        "make": "M.A.N.",
+        "bodyType": "DRILLING RIG VEHICLE",
+        "primaryColour": "WHITE",
+        "vehicleHash": "oDBkTqFKlH4WNd7D7xK3nq+QmuIMi4/UD3+uNaGl2mA=",
+        "registeredConfiguration": "OSV3 - 3 axle SPV - Overmass",
+        "registeredGvmGcm": "33000/90000",
+        "manufacturerGvmGcm": "33000/90000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "OM3 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "OM3 NHVR NOTICE"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NVP132",
+        "make": "NOT LISTED",
+        "bodyType": "LAND IMPLEMENT TRAILER",
+        "primaryColour": "GREEN",
+        "vehicleHash": "UKH0234ndZeFLbyh2VrTPubh77YHDtaJpG0gu79FLIk=",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "expiry": "2027-05-13T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NVP781",
+        "make": "CLARK",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREEN",
+        "vehicleHash": "C+EVlkGrmwUxO8i2gsCDM0IZhsOqlxMPmDRmPVS7PPg=",
+        "registeredGvmGcm": "4088/4088",
+        "manufacturerGvmGcm": "4088/4088",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-11-15T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

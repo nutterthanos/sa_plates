@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "NVP090",
+        "make": "FORDSON",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "Rq+gZqYIunW7cqYdzW9cCNNeiFVBcnZeeQ02UCwBKpc=",
+        "registeredGvmGcm": "2900/2900",
+        "manufacturerGvmGcm": "2900/2900",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

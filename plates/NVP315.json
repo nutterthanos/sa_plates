@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NVP315",
+        "make": "NISSAN",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREY",
+        "vehicleHash": "TPRlYSfuxF1bpwtIkiVpcHb9kQ0Wq9+H6f4/FqHqZoU=",
+        "registeredGvmGcm": "3990/",
+        "manufacturerGvmGcm": "3990/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-10-23T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

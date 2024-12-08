@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NVP535",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "GREY",
+        "vehicleHash": "4PnhcJxcdGw1fwIdSGFDaD3MU2fuN703G5sXdHmNR9E=",
+        "registeredGvmGcm": "3800/",
+        "manufacturerGvmGcm": "3800/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-28T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

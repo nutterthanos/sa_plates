@@ -1,0 +1,22 @@
+[
+    {
+        "plate": "NVP581",
+        "make": "JOHN DEERE",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "GREEN",
+        "vehicleHash": "FAD02Y1Y1q6Y5NKJ2MGywMee/6z6wTd9hBmHbPhuCcQ=",
+        "registeredGvmGcm": "800/950",
+        "manufacturerGvmGcm": "800/950",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO3 ROUTE RESTRICTION"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO3 ROUTE RESTRICTION"
+        ]
+    }
+]

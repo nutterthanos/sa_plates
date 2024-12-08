@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NVP352",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "cWpWfEZeHO9z4FUSpRZfyPURTvaG9ksvuJC7EM0BMtA=",
+        "registeredGvmGcm": "4150/4150",
+        "manufacturerGvmGcm": "4150/4150",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-09-30T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

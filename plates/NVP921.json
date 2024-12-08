@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NVP921",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "DNHoWgWKlK6iRHXF+E5376LExmIP9tKYOff0MWgnvdM=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "7125/",
+        "manufacturerGvmGcm": "7125/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "TR1 TIME RESTRICTIONS"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "TR1 TIME RESTRICTIONS"
+        ]
+    }
+]

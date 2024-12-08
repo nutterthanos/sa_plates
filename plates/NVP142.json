@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NVP142",
+        "make": "BELARUS",
+        "bodyType": "TRACTOR",
+        "primaryColour": "RED",
+        "vehicleHash": "WqtDPT69PyaE8S7AQhtZpaZs9nCaF9fy+TBC07rtwT0=",
+        "registeredGvmGcm": "3700/3700",
+        "manufacturerGvmGcm": "3700/3700",
+        "ctpInsurer": "ALLIANZ",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-07-20T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

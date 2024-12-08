@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "NVP601",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "RmVTav6U3cmuncRiDb1u5yA9UP6xA/qcZHv8a37G2hc=",
+        "registeredConfiguration": "PSV2 - 2 axle SPV - Plant",
+        "registeredGvmGcm": "9000/9000",
+        "manufacturerGvmGcm": "9000/9000",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": "SP40 40 KM/H MAXIMUM"
+        },
+        "expiry": "2025-02-19T00:00:00.000+10:30",
+        "conditions": [
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

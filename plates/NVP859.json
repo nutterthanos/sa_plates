@@ -1,0 +1,24 @@
+[
+    {
+        "plate": "NVP859",
+        "make": "FIAT",
+        "bodyType": "TRACTOR",
+        "primaryColour": "BLUE",
+        "vehicleHash": "Hn0Z+gPE2Jk141vop3oN2A1idd/xFMkNu/iLyzmUZIU=",
+        "registeredGvmGcm": "2700/2700",
+        "manufacturerGvmGcm": "2700/2700",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO5 ROUTE RESTRICTION",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO5 ROUTE RESTRICTION",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

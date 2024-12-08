@@ -1,0 +1,27 @@
+[
+    {
+        "plate": "NVP737",
+        "make": "CATERPILLAR",
+        "bodyType": "EARTH MOVING VEHICLE",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "XABslQfAUBWfZ687tllX0MM2ZN9K0xAkvalZQ2uQCOA=",
+        "registeredConfiguration": "PSV3 - 3 axle SPV - Plant",
+        "registeredGvmGcm": "59631/59631",
+        "manufacturerGvmGcm": "59631/59631",
+        "ctpInsurer": "MAC",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+                "LO5 ROAD RESTRICTION",
+                "OS2 NHVR NOTICE"
+            ]
+        },
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "GO24 GAZETTE - CONST/MOVING EQUIPMENT",
+            "LO5 ROAD RESTRICTION",
+            "OS2 NHVR NOTICE"
+        ]
+    }
+]

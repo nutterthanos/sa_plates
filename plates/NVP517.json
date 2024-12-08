@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NVP517",
+        "make": "KOMATSU",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "aPPZLFODMsnDR6jY+s3X//4U9W64deoziyfXTOC2E5c=",
+        "registeredGvmGcm": "4500/7500",
+        "manufacturerGvmGcm": "4500/7500",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2027-06-05T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

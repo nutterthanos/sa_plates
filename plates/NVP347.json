@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NVP347",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "229k13ZmwgFem9Ov1KS9uGHCusAn1+J5dmMpF0x+wEo=",
+        "registeredGvmGcm": "3560/",
+        "manufacturerGvmGcm": "3560/",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-08-15T00:00:00.000+09:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

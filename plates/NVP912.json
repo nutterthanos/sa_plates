@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NVP912",
+        "make": "TOYOTA",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "s+RXHkfZfe0uRlqc2rV0+RxSCnjRlMOz8zcXKIiiQak=",
+        "registeredGvmGcm": "3560/",
+        "manufacturerGvmGcm": "3560/",
+        "ctpInsurer": "NRMA",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "SP40 40 KM/H MAXIMUM"
+            ]
+        },
+        "expiry": "2025-10-31T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "SP40 40 KM/H MAXIMUM"
+        ]
+    }
+]

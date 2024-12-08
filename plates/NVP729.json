@@ -1,0 +1,23 @@
+[
+    {
+        "plate": "NVP729",
+        "make": "HYSTER",
+        "bodyType": "FORK-LIFT",
+        "primaryColour": "YELLOW",
+        "vehicleHash": "zyhuHHQiBjWmqb7qNDdvqHYFJgTTQrvVfm3Uzben+cE=",
+        "registeredGvmGcm": "3610/",
+        "manufacturerGvmGcm": "3610/",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "SPV NOT GOODS/PASSENGER CARRYING",
+                "LO5 ROAD RESTRICTION"
+            ]
+        },
+        "expiry": "2025-11-05T00:00:00.000+10:30",
+        "conditions": [
+            "SPV NOT GOODS/PASSENGER CARRYING",
+            "LO5 ROAD RESTRICTION"
+        ]
+    }
+]

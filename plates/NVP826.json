@@ -1,0 +1,25 @@
+[
+    {
+        "plate": "NVP826",
+        "make": "KUBOTA",
+        "bodyType": "INDUSTRIAL VEHICLE",
+        "primaryColour": "ORANGE",
+        "vehicleHash": "bMDr0Gcu5zMzCG4sIjKj1YnhnUkEarQr785Hqc2SRHQ=",
+        "registeredGvmGcm": "1500/1980",
+        "manufacturerGvmGcm": "1500/1980",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": [
+                "MSCL RESTRICTED OR LIMITED USE",
+                "GO9 DEPT OF TRANSPORT DISPENSATION",
+                "LO3 ROUTE RESTRICTION"
+            ]
+        },
+        "expiry": "2025-04-10T00:00:00.000+09:30",
+        "conditions": [
+            "MSCL RESTRICTED OR LIMITED USE",
+            "GO9 DEPT OF TRANSPORT DISPENSATION",
+            "LO3 ROUTE RESTRICTION"
+        ]
+    }
+]
