@@ -1,0 +1,20 @@
+[
+    {
+        "plate": "NXT001",
+        "make": "MERCEDES BENZ",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "7lcBfc3Oe+FfDv7N8gk8rj/1DhqtMgy31cHGQeOquyE=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "26000/106000",
+        "manufacturerGvmGcm": "26000/106000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "MV1 NHVR NOTICE"
+        },
+        "expiry": "2025-01-22T00:00:00.000+10:30",
+        "conditions": [
+            "MV1 NHVR NOTICE"
+        ]
+    }
+]

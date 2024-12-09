@@ -1,0 +1,36 @@
+[
+    {
+        "plate": "NXT003",
+        "make": "MERCEDES BENZ",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "y0oUiZFaw7bFdKSLiARcepAAEt/Axh4POQdTfCigqSc=",
+        "registeredConfiguration": "MU3 - 3 axle P/Mover + 2 or more trailers (MU3)",
+        "registeredGvmGcm": "26000/90000",
+        "manufacturerGvmGcm": "26000/90000",
+        "ctpInsurer": "AAMI",
+        "vehicleConditions": {
+            "vehicleCondition": "MV2 NHVR NOTICE"
+        },
+        "conditions": [
+            "MV2 NHVR NOTICE"
+        ]
+    },
+    {
+        "plate": "NXT003",
+        "make": "SCANIA",
+        "bodyType": "PRIME MOVER",
+        "primaryColour": "WHITE",
+        "vehicleHash": "v4HAAs+fM87HtvBiBuIdLhCd9cGhgTrac0vr3EZ9D40=",
+        "registeredConfiguration": "SP3 - 3 axle prime mover hauls 1 semi-trailer",
+        "registeredGvmGcm": "28500/75000",
+        "manufacturerGvmGcm": "28500/75000",
+        "ctpInsurer": "QBE",
+        "vehicleConditions": {
+            "vehicleCondition": "LV2 PERMIT/GAZETTE REQUIRED"
+        },
+        "conditions": [
+            "LV2 PERMIT/GAZETTE REQUIRED"
+        ]
+    }
+]
